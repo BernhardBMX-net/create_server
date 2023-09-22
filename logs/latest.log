@@ -1,0 +1,40 @@
+[22Sept.2023 09:02:50.516] [User Authenticator #100/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player The_ZYRO is 17498a0a-5379-4723-b6c8-5774081afda4
+[22Sept.2023 09:02:52.505] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@3fd8a457
+[22Sept.2023 09:02:52.511] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: The_ZYRO[/88.134.30.133:61239] logged in with entity id 517024 at (758.2809277974513, 54.0, 2105.267949855938)
+[22Sept.2023 09:02:52.514] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: The_ZYRO joined the game
+[22Sept.2023 09:02:56.536] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3959ms or 79 ticks behind
+[22Sept.2023 09:12:59.104] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: The_ZYRO lost connection: Disconnected
+[22Sept.2023 09:12:59.104] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: The_ZYRO left the game
+[22Sept.2023 11:24:30.450] [User Authenticator #101/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player BernhardBMX is b5b3d888-4807-436f-b529-3aa62274a8ac
+[22Sept.2023 11:24:32.205] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@39ab50bc
+[22Sept.2023 11:24:32.217] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: BernhardBMX[/178.20.94.39:50323] logged in with entity id 520641 at (782.3776712157356, 65.0, 2170.699999988079)
+[22Sept.2023 11:24:32.220] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BW] BernhardBMX joined the game
+[22Sept.2023 11:24:36.478] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4202ms or 84 ticks behind
+[22Sept.2023 11:24:36.910] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@7226439
+[22Sept.2023 11:25:49.224] [User Authenticator #102/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player The_ZYRO is 17498a0a-5379-4723-b6c8-5774081afda4
+[22Sept.2023 11:25:51.358] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: The_ZYRO[/88.134.30.133:62277] logged in with entity id 521204 at (749.8290582924436, 64.0, 2160.2574527309116)
+[22Sept.2023 11:25:51.361] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: The_ZYRO joined the game
+[22Sept.2023 11:33:55.888] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2662ms or 53 ticks behind
+[22Sept.2023 11:41:28.196] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: The_ZYRO moved too quickly! -10.142398153088607,0.0,-0.06895352325136628
+[22Sept.2023 11:47:16.697] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-193, y=35, z=291} BlockPos{x=-197, y=35, z=291}
+[22Sept.2023 11:47:16.748] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-193, y=35, z=291} BlockPos{x=-197, y=35, z=291}
+[22Sept.2023 11:47:20.152] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-213, y=33, z=291} BlockPos{x=-217, y=35, z=292}
+[22Sept.2023 11:47:22.887] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2661ms or 53 ticks behind
+[22Sept.2023 11:52:13.862] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BernhardBMX lost connection: Disconnected
+[22Sept.2023 11:52:13.862] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BW] BernhardBMX left the game
+[22Sept.2023 12:35:14.050] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: The_ZYRO lost connection: Disconnected
+[22Sept.2023 12:35:14.051] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: The_ZYRO left the game
+[22Sept.2023 12:36:00.439] [User Authenticator #103/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player The_ZYRO is 17498a0a-5379-4723-b6c8-5774081afda4
+[22Sept.2023 12:36:02.454] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@3f2815b4
+[22Sept.2023 12:36:02.460] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: The_ZYRO[/88.134.30.133:49954] logged in with entity id 534953 at (798.6999999880791, 17.0, 2226.699999988079)
+[22Sept.2023 12:36:02.463] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: The_ZYRO joined the game
+[22Sept.2023 12:36:05.908] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3381ms or 67 ticks behind
+[22Sept.2023 12:37:08.456] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: The_ZYRO lost connection: Disconnected
+[22Sept.2023 12:37:08.456] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: The_ZYRO left the game
+[22Sept.2023 12:52:29.672] [User Authenticator #104/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player The_ZYRO is 17498a0a-5379-4723-b6c8-5774081afda4
+[22Sept.2023 12:52:31.704] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@553e083d
+[22Sept.2023 12:52:31.710] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: The_ZYRO[/88.134.30.133:50370] logged in with entity id 535545 at (844.3130557200841, 24.0, 2215.334459350398)
+[22Sept.2023 12:52:31.725] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: The_ZYRO joined the game
+[22Sept.2023 12:52:36.604] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4827ms or 96 ticks behind
+[22Sept.2023 13:04:51.601] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: The_ZYRO lost connection: Disconnected
+[22Sept.2023 13:04:51.601] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: The_ZYRO left the game

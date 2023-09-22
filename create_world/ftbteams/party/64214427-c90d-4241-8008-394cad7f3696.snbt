@@ -1,0 +1,54 @@
+{
+	id: "64214427-c90d-4241-8008-394cad7f3696"
+	type: "party"
+	owner: "b5b3d888-4807-436f-b529-3aa62274a8ac"
+	ranks: {
+		b5b3d888-4807-436f-b529-3aa62274a8ac: "owner"
+		21ad7002-f1a4-4765-8b87-6444cc9eca69: "officer"
+	}
+	properties: {
+		"ftbteams:display_name": "Bernhard & Wolfi"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FFFFFF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+		"ftbchunks:allow_explosions": 0b
+		"ftbchunks:allow_mob_griefing": 0b
+		"ftbchunks:allow_fake_players": 0b
+		"ftbchunks:allow_named_fake_players": [ ]
+		"ftbchunks:allow_fake_players_by_id": 1b
+		"ftbchunks:block_edit_mode": "allies"
+		"ftbchunks:block_interact_mode": "allies"
+		"ftbchunks:entity_interact_mode": "allies"
+		"ftbchunks:nonliving_entity_attack_mode": "allies"
+		"ftbchunks:claim_visibility": "public"
+		"ftbchunks:location_mode": "public"
+	}
+	message_history: [
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1685732908979L, text: "{\"color\":\"yellow\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"BernhardBMX\"}]}" }
+		{ from: "b5b3d888-4807-436f-b529-3aa62274a8ac", date: 1685732908986L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.invited\",\"with\":[{\"color\":\"yellow\",\"text\":\"WolfPlayerGaming\"}]}" }
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1685732911349L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"WolfPlayerGaming\"}]}" }
+		{ from: "b5b3d888-4807-436f-b529-3aa62274a8ac", date: 1685732964940L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.promoted\",\"with\":[{\"color\":\"yellow\",\"text\":\"WolfPlayerGaming\"}]}" }
+		{ from: "b5b3d888-4807-436f-b529-3aa62274a8ac", date: 1685732991266L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.transfer_owner\",\"with\":[{\"color\":\"yellow\",\"insertion\":\"WolfPlayerGaming\",\"clickEvent\":{\"action\":\"suggest_command\",\"value\":\"/tell WolfPlayerGaming \"},\"hoverEvent\":{\"action\":\"show_entity\",\"contents\":{\"type\":\"minecraft:player\",\"id\":\"ca60e915-83dd-4a0b-8c05-2614e7536551\",\"name\":{\"text\":\"WolfPlayerGaming\"}}},\"extra\":[{\"text\":\"WolfPlayerGaming\"}],\"text\":\"\"}]}" }
+		{ from: "ca60e915-83dd-4a0b-8c05-2614e7536551", date: 1685732998053L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.transfer_owner\",\"with\":[{\"color\":\"yellow\",\"insertion\":\"BernhardBMX\",\"clickEvent\":{\"action\":\"suggest_command\",\"value\":\"/tell BernhardBMX \"},\"hoverEvent\":{\"action\":\"show_entity\",\"contents\":{\"type\":\"minecraft:player\",\"id\":\"b5b3d888-4807-436f-b529-3aa62274a8ac\",\"name\":{\"text\":\"BernhardBMX\"}}},\"extra\":[{\"text\":\"BernhardBMX\"}],\"text\":\"\"}]}" }
+		{ from: "ca60e915-83dd-4a0b-8c05-2614e7536551", date: 1685733351274L, text: "{\"text\":\"sdaa\"}" }
+		{ from: "ca60e915-83dd-4a0b-8c05-2614e7536551", date: 1685733375218L, text: "{\"text\":\"es gibt ein clan chat\"}" }
+		{ from: "b5b3d888-4807-436f-b529-3aa62274a8ac", date: 1685733631872L, text: "{\"text\":\"Lallalal\"}" }
+		{ from: "b5b3d888-4807-436f-b529-3aa62274a8ac", date: 1685733631886L, text: "{\"text\":\"\"}" }
+		{ from: "b5b3d888-4807-436f-b529-3aa62274a8ac", date: 1685733644115L, text: "{\"text\":\"Hi\"}" }
+		{ from: "b5b3d888-4807-436f-b529-3aa62274a8ac", date: 1685733680098L, text: "{\"text\":\"mit /ftbteams msg nachricht kannst du auch\"}" }
+		{ from: "b5b3d888-4807-436f-b529-3aa62274a8ac", date: 1685733792877L, text: "{\"text\":\"mit /ftbteams msg nachricht kannst du auch\"}" }
+		{ from: "b5b3d888-4807-436f-b529-3aa62274a8ac", date: 1685783440208L, text: "{\"text\":\"/ftbteams msg\"}" }
+		{ from: "ca60e915-83dd-4a0b-8c05-2614e7536551", date: 1685805014776L, text: "{\"text\":\"X: 2,992 Z: 4,016\"}" }
+		{ from: "b5b3d888-4807-436f-b529-3aa62274a8ac", date: 1694703821040L, text: "{\"color\":\"gold\",\"translate\":\"ftbteams.message.kicked\",\"with\":[{\"color\":\"yellow\",\"text\":\"WolfPlayerGaming\"},{\"color\":\"aqua\",\"clickEvent\":{\"action\":\"run_command\",\"value\":\"/ftbteams info BernhardsWolf#64214427\"},\"text\":\"BernhardsWolf\"}]}" }
+		{ from: "b5b3d888-4807-436f-b529-3aa62274a8ac", date: 1694703824988L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.invited\",\"with\":[{\"color\":\"yellow\",\"text\":\"WolfOfTheGaming\"}]}" }
+		{ from: "b5b3d888-4807-436f-b529-3aa62274a8ac", date: 1694703871757L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.invited\",\"with\":[{\"color\":\"yellow\",\"text\":\"WolfOfTheGaming\"}]}" }
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1694703880593L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"WolfOfTheGaming\"}]}" }
+		{ from: "b5b3d888-4807-436f-b529-3aa62274a8ac", date: 1694703889946L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.promoted\",\"with\":[{\"color\":\"yellow\",\"text\":\"WolfOfTheGaming\"}]}" }
+		{ from: "b5b3d888-4807-436f-b529-3aa62274a8ac", date: 1694705294741L, text: "{\"color\":\"gold\",\"translate\":\"ftbteams.message.kicked\",\"with\":[{\"color\":\"yellow\",\"text\":\"WolfOfTheGaming\"},{\"color\":\"aqua\",\"clickEvent\":{\"action\":\"run_command\",\"value\":\"/ftbteams info BernhardsWolf#64214427\"},\"text\":\"BernhardsWolf\"}]}" }
+		{ from: "b5b3d888-4807-436f-b529-3aa62274a8ac", date: 1694706612154L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.invited\",\"with\":[{\"color\":\"yellow\",\"text\":\"WolfOfTheGaming\"}]}" }
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1694706615637L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"WolfOfTheGaming\"}]}" }
+		{ from: "b5b3d888-4807-436f-b529-3aa62274a8ac", date: 1694706625956L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.promoted\",\"with\":[{\"color\":\"yellow\",\"text\":\"WolfOfTheGaming\"}]}" }
+	]
+	extra: { }
+}
