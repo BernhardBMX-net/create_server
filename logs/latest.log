@@ -38,3 +38,29 @@
 [22Sept.2023 12:52:36.604] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4827ms or 96 ticks behind
 [22Sept.2023 13:04:51.601] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: The_ZYRO lost connection: Disconnected
 [22Sept.2023 13:04:51.601] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: The_ZYRO left the game
+[22Sept.2023 18:24:29.325] [User Authenticator #105/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player The_ZYRO is 17498a0a-5379-4723-b6c8-5774081afda4
+[22Sept.2023 18:24:31.404] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@443b82f
+[22Sept.2023 18:24:31.410] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: The_ZYRO[/88.134.30.133:51232] logged in with entity id 540449 at (767.1024721426372, 39.0, 2119.816694661493)
+[22Sept.2023 18:24:31.412] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: The_ZYRO joined the game
+[22Sept.2023 18:24:36.514] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5038ms or 100 ticks behind
+[22Sept.2023 18:34:36.195] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] Hi
+[22Sept.2023 18:34:40.720] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <The_ZYRO> hi
+[22Sept.2023 18:34:54.043] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <The_ZYRO> hi ben
+[22Sept.2023 18:34:57.850] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] ich bin das Terminal ich muss kurz neustarten
+[22Sept.2023 18:35:07.663] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <The_ZYRO> ok
+[22Sept.2023 18:35:16.099] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] streamst du
+[22Sept.2023 18:35:19.424] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <The_ZYRO> ne
+[22Sept.2023 18:35:22.345] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[22Sept.2023 18:35:22.345] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ok<--[HERE]
+[22Sept.2023 18:35:24.690] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[22Sept.2023 18:35:24.727] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[22Sept.2023 18:35:24.727] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[22Sept.2023 18:35:24.739] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[22Sept.2023 18:35:34.584] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[create_world]'/minecraft:overworld
+[22Sept.2023 18:35:34.999] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[create_world]'/minecraft:the_end
+[22Sept.2023 18:35:34.999] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[create_world]'/minecraft:the_nether
+[22Sept.2023 18:35:35.043] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (create_world): All chunks are saved
+[22Sept.2023 18:35:35.043] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[22Sept.2023 18:35:35.043] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[22Sept.2023 18:35:35.043] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[22Sept.2023 18:35:35.425] [Server thread/INFO] [FTB Chunks/]: Shutting down map thread
