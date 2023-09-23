@@ -4874,3 +4874,56 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [23Sept.2023 17:44:14.888] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete create_world
 [23Sept.2023 17:49:14.890] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save create_world
 [23Sept.2023 17:49:14.899] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete create_world
+[23Sept.2023 17:54:14.896] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save create_world
+[23Sept.2023 17:54:14.907] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete create_world
+[23Sept.2023 17:59:14.886] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save create_world
+[23Sept.2023 17:59:14.890] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete create_world
+[23Sept.2023 18:04:14.889] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save create_world
+[23Sept.2023 18:04:14.894] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete create_world
+[23Sept.2023 18:09:14.894] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save create_world
+[23Sept.2023 18:09:14.903] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete create_world
+[23Sept.2023 18:14:14.889] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save create_world
+[23Sept.2023 18:14:14.897] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete create_world
+[23Sept.2023 18:19:14.888] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save create_world
+[23Sept.2023 18:19:14.893] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete create_world
+[23Sept.2023 18:24:14.890] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save create_world
+[23Sept.2023 18:24:14.895] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete create_world
+[23Sept.2023 18:29:14.881] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save create_world
+[23Sept.2023 18:29:14.886] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete create_world
+[23Sept.2023 18:34:14.885] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save create_world
+[23Sept.2023 18:34:14.890] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete create_world
+[23Sept.2023 18:39:14.884] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save create_world
+[23Sept.2023 18:39:14.893] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete create_world
+[23Sept.2023 18:44:14.885] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save create_world
+[23Sept.2023 18:44:14.890] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete create_world
+[23Sept.2023 18:49:14.886] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save create_world
+[23Sept.2023 18:49:14.890] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete create_world
+[23Sept.2023 18:54:14.888] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save create_world
+[23Sept.2023 18:54:14.892] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete create_world
+[23Sept.2023 18:57:23.475] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] Hallo?
+[23Sept.2023 18:57:31.570] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[23Sept.2023 18:57:31.571] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: restart<--[HERE]
+[23Sept.2023 18:57:39.127] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[23Sept.2023 18:57:39.157] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[23Sept.2023 18:57:39.158] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[23Sept.2023 18:57:39.158] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[23Sept.2023 18:57:46.318] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[create_world]'/minecraft:overworld
+[23Sept.2023 18:57:46.691] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[create_world]'/minecraft:the_nether
+[23Sept.2023 18:57:46.770] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[create_world]'/minecraft:the_end
+[23Sept.2023 18:57:46.771] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save create_world
+[23Sept.2023 18:57:46.776] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete create_world
+[23Sept.2023 18:57:46.790] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (create_world): All chunks are saved
+[23Sept.2023 18:57:46.791] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[23Sept.2023 18:57:46.795] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[23Sept.2023 18:57:46.795] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[23Sept.2023 18:57:46.797] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Redstone Network Space for minecraft:overworld
+[23Sept.2023 18:57:46.797] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Kinetic Network Space for minecraft:overworld
+[23Sept.2023 18:57:46.807] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Redstone Network Space for minecraft:the_nether
+[23Sept.2023 18:57:46.807] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Kinetic Network Space for minecraft:the_nether
+[23Sept.2023 18:57:46.808] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Redstone Network Space for minecraft:the_end
+[23Sept.2023 18:57:46.808] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Kinetic Network Space for minecraft:the_end
+[23Sept.2023 18:57:46.810] [Server thread/INFO] [FTB Chunks/]: Shutting down map thread
+[23Sept.2023 18:57:46.811] [Server thread/DEBUG] [net.minecraftforge.fml.loading.FileUtils/CORE]: Found existing serverconfig directory : ./create_world/serverconfig
+[23Sept.2023 18:57:46.811] [Server thread/DEBUG] [net.minecraftforge.fml.config.ConfigTracker/CONFIG]: Unloading configs type SERVER
+[23Sept.2023 18:57:46.818] [Thread-0/DEBUG] [net.minecraftforge.fml.config.ConfigFileTypeHandler/CONFIG]: Config file jei-server.toml changed, sending notifies
+[23Sept.2023 18:57:46.823] [Thread-0/DEBUG] [net.minecraftforge.fml.config.ConfigFileTypeHandler/CONFIG]: Config file jei-server.toml changed, sending notifies
