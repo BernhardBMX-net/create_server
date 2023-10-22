@@ -8,7 +8,7 @@
 	properties: {
 		"ftbteams:display_name": "Timmi2005"
 		"ftbteams:description": ""
-		"ftbteams:color": "#8CFF59"
+		"ftbteams:color": "#59FFB5"
 		"ftbteams:free_to_join": 0b
 		"ftbteams:max_msg_history_size": 1000
 		"ftbchunks:allow_explosions": 0b
@@ -24,5 +24,7 @@
 		"ftbchunks:location_mode": "public"
 	}
 	message_history: [ ]
-	extra: { }
+	extra: {
+		BypassFTBChunksProtection: true
+	}
 }

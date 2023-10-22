@@ -107,6 +107,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/gray_canvas_sign": {
+    "criteria": {
+      "has_canvas_sign": "2023-10-07 18:58:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/magenta_wool": {
     "criteria": {
       "has_white_wool": "2023-05-24 14:43:45 +0000"
@@ -299,6 +305,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/black_canvas_sign": {
+    "criteria": {
+      "has_canvas_sign": "2023-10-07 18:58:16 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/kinetics/basin": {
     "criteria": {
       "has_item": "2023-05-23 18:53:39 +0000"
@@ -401,6 +413,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/tinted_glass": {
+    "criteria": {
+      "has_amethyst_shard": "2023-10-07 20:31:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/crimson_button": {
+    "criteria": {
+      "has_planks": "2023-10-07 20:06:02 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/kinetics/gantry_shaft": {
     "criteria": {
       "has_item": "2023-05-23 18:53:39 +0000"
@@ -416,6 +440,12 @@
   "minecraft:recipes/building_blocks/blue_wool": {
     "criteria": {
       "has_white_wool": "2023-05-24 14:43:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_brick_wall_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2023-10-07 15:37:14 +0000"
     },
     "done": true
   },
@@ -848,6 +878,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/pink_canvas_sign": {
+    "criteria": {
+      "has_canvas_sign": "2023-10-07 18:58:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/orange_concrete_powder": {
     "criteria": {
       "has_gravel": "2023-05-23 18:04:30 +0000"
@@ -986,6 +1022,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/crimson_slab": {
+    "criteria": {
+      "has_planks": "2023-10-07 20:06:02 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/cooking/baked_cod_stew": {
     "criteria": {
       "has_any_ingredient": "2023-05-23 18:15:27 +0000"
@@ -995,6 +1037,12 @@
   "minecraft:recipes/redstone/birch_button": {
     "criteria": {
       "has_planks": "2023-05-24 14:33:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/crimson_stairs": {
+    "criteria": {
+      "has_planks": "2023-10-07 20:06:02 +0000"
     },
     "done": true
   },
@@ -1025,6 +1073,12 @@
   "farmersdelight:recipes/farmersdelight/cooking/cabbage_rolls": {
     "criteria": {
       "has_any_ingredient": "2023-05-23 17:59:53 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/red_canvas_sign": {
+    "criteria": {
+      "has_canvas_sign": "2023-10-07 18:58:16 +0000"
     },
     "done": true
   },
@@ -1184,6 +1238,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2023-10-07 15:37:14 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/small_dripstone_brick_slab_from_stone_types_dripstone_stonecutting": {
     "criteria": {
       "has_stone_types_dripstone": "2023-06-07 20:16:38 +0000"
@@ -1223,6 +1283,12 @@
   "minecraft:recipes/building_blocks/polished_blackstone_slab_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2023-05-23 19:28:44 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/tatami_block_from_full": {
+    "criteria": {
+      "has_canvas": "2023-10-07 18:58:13 +0000"
     },
     "done": true
   },
@@ -1472,6 +1538,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/cyan_canvas_sign": {
+    "criteria": {
+      "has_canvas_sign": "2023-10-07 18:58:16 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/brass_bars_from_ingots_brass_stonecutting": {
     "criteria": {
       "has_ingots_brass": "2023-05-23 20:47:08 +0000"
@@ -1493,6 +1565,12 @@
   "minecraft:recipes/misc/purple_dye": {
     "criteria": {
       "has_blue_dye": "2023-05-27 16:16:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_brick_wall": {
+    "criteria": {
+      "has_deepslate_bricks": "2023-10-07 15:37:14 +0000"
     },
     "done": true
   },
@@ -2190,9 +2268,21 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/brown_canvas_sign": {
+    "criteria": {
+      "has_canvas_sign": "2023-10-07 18:58:16 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/kinetics/whisk": {
     "criteria": {
       "has_item": "2023-05-23 19:03:00 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/light_blue_canvas_sign": {
+    "criteria": {
+      "has_canvas_sign": "2023-10-07 18:58:16 +0000"
     },
     "done": true
   },
@@ -2498,6 +2588,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/rope": {
+    "criteria": {
+      "has_straw": "2023-10-07 18:55:57 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/small_scoria_brick_wall_from_stone_types_scoria_stonecutting": {
     "criteria": {
       "has_stone_types_scoria": "2023-05-23 19:37:55 +0000"
@@ -2642,6 +2738,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/black_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_black_dye": "2023-10-07 19:01:07 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.base/smelting/zinc_ingot_from_crushed": {
     "criteria": {
       "has_item": "2023-05-24 13:14:32 +0000"
@@ -2716,6 +2818,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/orange_canvas_sign": {
+    "criteria": {
+      "has_canvas_sign": "2023-10-07 18:58:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_helmet": {
     "criteria": {
       "has_diamond": "2023-05-23 20:35:16 +0000"
@@ -2731,6 +2839,18 @@
   "storagedrawers:recipes/storagedrawers/concealment_key": {
     "criteria": {
       "has_template": "2023-05-23 17:52:44 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/building_blocks/packed_mud_from_straw": {
+    "criteria": {
+      "has_straw": "2023-10-07 18:55:57 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/painting_from_canvas": {
+    "criteria": {
+      "has_canvas": "2023-10-07 18:58:13 +0000"
     },
     "done": true
   },
@@ -2815,6 +2935,12 @@
   "farmersdelight:main/use_cutting_board": {
     "criteria": {
       "cutting_board": "2023-05-25 20:12:59 +0000"
+    },
+    "done": true
+  },
+  "create:arm_blaze_burner": {
+    "criteria": {
+      "0": "2023-10-14 14:50:56 +0000"
     },
     "done": true
   },
@@ -3214,6 +3340,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/tatami": {
+    "criteria": {
+      "has_canvas": "2023-10-07 18:58:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_chestplate": {
     "criteria": {
       "has_leather": "2023-05-24 19:21:04 +0000"
@@ -3361,6 +3493,12 @@
   "storagedrawers:recipes/storagedrawers/oak_trim": {
     "criteria": {
       "has_planks": "2023-05-23 17:52:44 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/half_tatami_mat": {
+    "criteria": {
+      "has_canvas": "2023-10-07 18:58:13 +0000"
     },
     "done": true
   },
@@ -3622,6 +3760,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/deepslate_brick_stairs": {
+    "criteria": {
+      "has_deepslate_bricks": "2023-10-07 15:37:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/pink_stained_glass": {
     "criteria": {
       "has_glass": "2023-05-24 19:11:10 +0000"
@@ -3713,6 +3857,12 @@
     },
     "done": true
   },
+  "farmersdelight:main/harvest_straw": {
+    "criteria": {
+      "harvest_straw": "2023-10-07 18:55:57 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/small_rose_quartz_tiles_from_polished_rose_quartz_stonecutting": {
     "criteria": {
       "has_polished_rose_quartz": "2023-05-23 20:44:52 +0000"
@@ -3797,9 +3947,21 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/decorations/scaffolding_from_canvas": {
+    "criteria": {
+      "has_canvas": "2023-10-07 18:58:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/crafting_table": {
     "criteria": {
       "has_planks": "2023-05-23 17:54:23 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/full_tatami_mat_from_halves": {
+    "criteria": {
+      "has_canvas": "2023-10-07 18:58:13 +0000"
     },
     "done": true
   },
@@ -3959,6 +4121,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/crimson_pressure_plate": {
+    "criteria": {
+      "has_planks": "2023-10-07 20:06:02 +0000"
+    },
+    "done": true
+  },
   "morevillagers:first_trade": {
     "criteria": {
       "villagertrade": "2023-05-24 19:46:40 +0000"
@@ -4026,6 +4194,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/crimson_fence": {
+    "criteria": {
+      "has_planks": "2023-10-07 20:06:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/netherite_hoe_smithing": {
     "criteria": {
       "has_netherite_ingot": "2023-05-30 20:36:17 +0000"
@@ -4071,6 +4245,12 @@
   "create:recipes/create.palettes/ornate_iron_window": {
     "criteria": {
       "has_ingredient": "2023-05-23 18:12:27 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/magenta_canvas_sign": {
+    "criteria": {
+      "has_canvas_sign": "2023-10-07 18:58:16 +0000"
     },
     "done": true
   },
@@ -4158,6 +4338,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/deepslate_tiles_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2023-10-07 15:37:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
     "criteria": {
       "has_mossy_cobblestone": "2023-05-29 14:47:17 +0000"
@@ -4185,6 +4371,12 @@
   "minecraft:recipes/building_blocks/dripstone_block": {
     "criteria": {
       "has_pointed_dripstone": "2023-06-07 20:16:47 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/canvas_sign": {
+    "criteria": {
+      "has_canvas": "2023-10-07 18:58:13 +0000"
     },
     "done": true
   },
@@ -4233,6 +4425,12 @@
   "create:recipes/create.palettes/small_limestone_brick_stairs_from_stone_types_limestone_stonecutting": {
     "criteria": {
       "has_stone_types_limestone": "2023-05-27 16:10:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/spyglass": {
+    "criteria": {
+      "has_amethyst_shard": "2023-10-07 20:31:01 +0000"
     },
     "done": true
   },
@@ -4332,6 +4530,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/canvas": {
+    "criteria": {
+      "has_straw": "2023-10-07 18:55:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_candle": {
     "criteria": {
       "has_white_dye": "2023-05-25 18:30:20 +0000"
@@ -4422,6 +4626,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/straw_bale": {
+    "criteria": {
+      "has_straw": "2023-10-07 18:55:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/acacia_boat": {
     "criteria": {
       "in_water": "2023-05-23 17:52:10 +0000"
@@ -4437,6 +4647,12 @@
   "minecraft:recipes/redstone/iron_trapdoor": {
     "criteria": {
       "has_iron_ingot": "2023-05-23 18:12:28 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/crimson_window": {
+    "criteria": {
+      "has_ingredient": "2023-10-07 20:06:02 +0000"
     },
     "done": true
   },
@@ -4644,6 +4860,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/crimson_sign": {
+    "criteria": {
+      "has_planks": "2023-10-07 20:06:02 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/kinetics/cart_assembler": {
     "criteria": {
       "has_item": "2023-05-23 18:53:39 +0000"
@@ -4653,6 +4875,12 @@
   "create:recipes/create.base/crafting/kinetics/mechanical_press": {
     "criteria": {
       "has_item": "2023-05-23 19:01:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_slab": {
+    "criteria": {
+      "has_deepslate_bricks": "2023-10-07 15:37:14 +0000"
     },
     "done": true
   },
@@ -4800,6 +5028,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/yellow_canvas_sign": {
+    "criteria": {
+      "has_canvas_sign": "2023-10-07 18:58:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/redstone_from_smelting_deepslate_redstone_ore": {
     "criteria": {
       "has_deepslate_redstone_ore": "2023-05-27 15:41:02 +0000"
@@ -4890,6 +5124,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/light_gray_canvas_sign": {
+    "criteria": {
+      "has_canvas_sign": "2023-10-07 18:58:16 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/small_diorite_brick_slab_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2023-05-24 13:40:05 +0000"
@@ -4938,6 +5178,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/crimson_fence_gate": {
+    "criteria": {
+      "has_planks": "2023-10-07 20:06:02 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/kinetics/steam_engine": {
     "criteria": {
       "has_item": "2023-05-23 18:19:43 +0000"
@@ -4977,6 +5223,12 @@
   "minecraft:recipes/building_blocks/clay": {
     "criteria": {
       "has_clay_ball": "2023-05-25 20:04:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/amethyst_block": {
+    "criteria": {
+      "has_amethyst_shard": "2023-10-07 20:31:01 +0000"
     },
     "done": true
   },
@@ -5052,6 +5304,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/blue_canvas_sign": {
+    "criteria": {
+      "has_canvas_sign": "2023-10-07 18:58:16 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/crafting/kinetics/magenta_seat": {
     "criteria": {
       "has_wool": "2023-05-24 14:43:45 +0000"
@@ -5082,9 +5340,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/deepslate_tile_wall_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2023-10-07 15:37:14 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/crafting/kinetics/magenta_seat_from_other_seat": {
     "criteria": {
       "has_seat": "2023-05-30 19:47:23 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/organic_compost_from_tree_bark": {
+    "criteria": {
+      "has_straw": "2023-10-07 18:55:57 +0000"
     },
     "done": true
   },
@@ -5199,6 +5469,12 @@
   "minecraft:recipes/building_blocks/polished_diorite_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2023-05-24 13:40:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_deepslate_bricks": {
+    "criteria": {
+      "has_deepslate_bricks": "2023-10-07 15:37:14 +0000"
     },
     "done": true
   },
@@ -5358,6 +5634,12 @@
   "minecraft:recipes/decorations/smithing_table": {
     "criteria": {
       "has_iron_ingot": "2023-05-23 18:12:28 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/purple_canvas_sign": {
+    "criteria": {
+      "has_canvas_sign": "2023-10-07 18:58:16 +0000"
     },
     "done": true
   },
@@ -5523,6 +5805,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/deepslate_tile_slab_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2023-10-07 15:37:14 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/basket": {
+    "criteria": {
+      "has_canvas": "2023-10-07 18:58:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/stick_from_bamboo_item": {
     "criteria": {
       "has_bamboo": "2023-05-23 18:15:27 +0000"
@@ -5532,6 +5826,12 @@
   "create:recipes/building_blocks/deepslate_from_stone_types_deepslate_stonecutting": {
     "criteria": {
       "has_stone_types_deepslate": "2023-05-28 10:07:50 +0000"
+    },
+    "done": true
+  },
+  "create:crusher_maxed_0000": {
+    "criteria": {
+      "0": "2023-10-14 15:15:11 +0000"
     },
     "done": true
   },
@@ -5631,6 +5931,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/canvas_rug": {
+    "criteria": {
+      "has_canvas": "2023-10-07 18:58:13 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/polished_cut_tuff_slab_from_stone_types_tuff_stonecutting": {
     "criteria": {
       "has_stone_types_tuff": "2023-05-23 20:42:28 +0000"
@@ -5697,6 +6003,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/white_canvas_sign": {
+    "criteria": {
+      "has_canvas_sign": "2023-10-07 18:58:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/green_dye": {
     "criteria": {
       "has_cactus": "2023-05-24 16:54:01 +0000"
@@ -5730,6 +6042,12 @@
   "minecraft:adventure/hero_of_the_village": {
     "criteria": {
       "hero_of_the_village": "2023-06-04 16:59:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone": {
+    "criteria": {
+      "has_redstone_block": "2023-10-14 13:59:01 +0000"
     },
     "done": true
   },
@@ -5955,6 +6273,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/deepslate_tiles": {
+    "criteria": {
+      "has_deepslate_bricks": "2023-10-07 15:37:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2023-05-23 20:03:36 +0000",
@@ -6134,6 +6458,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/green_canvas_sign": {
+    "criteria": {
+      "has_canvas_sign": "2023-10-07 18:58:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/tnt": {
     "criteria": {
       "has_gunpowder": "2023-05-24 13:46:43 +0000"
@@ -6248,6 +6578,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/crimson_door": {
+    "criteria": {
+      "has_planks": "2023-10-07 20:06:02 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/kinetics/mechanical_pump": {
     "criteria": {
       "has_item": "2023-05-23 18:19:43 +0000"
@@ -6335,6 +6671,12 @@
   "minecraft:recipes/tools/stone_hoe": {
     "criteria": {
       "has_cobblestone": "2023-05-23 18:26:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/crimson_trapdoor": {
+    "criteria": {
+      "has_planks": "2023-10-07 20:06:02 +0000"
     },
     "done": true
   },
@@ -6470,6 +6812,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/misc/book_from_canvas": {
+    "criteria": {
+      "has_canvas": "2023-10-07 18:58:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/magenta_stained_glass": {
     "criteria": {
       "has_glass": "2023-05-24 19:11:10 +0000"
@@ -6530,6 +6878,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/black_candle": {
+    "criteria": {
+      "has_black_dye": "2023-10-07 19:01:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cyan_concrete_powder": {
     "criteria": {
       "has_gravel": "2023-05-23 18:04:30 +0000"
@@ -6581,6 +6935,12 @@
   "minecraft:recipes/building_blocks/lime_wool": {
     "criteria": {
       "has_white_wool": "2023-05-24 14:43:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2023-10-07 15:37:14 +0000"
     },
     "done": true
   },
@@ -6665,6 +7025,12 @@
   "minecraft:recipes/building_blocks/brown_wool": {
     "criteria": {
       "has_white_wool": "2023-05-24 14:43:45 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/lime_canvas_sign": {
+    "criteria": {
+      "has_canvas_sign": "2023-10-07 18:58:16 +0000"
     },
     "done": true
   },
@@ -6809,6 +7175,12 @@
   "create:recipes/create.palettes/small_limestone_brick_slab_from_stone_types_limestone_stonecutting": {
     "criteria": {
       "has_stone_types_limestone": "2023-05-27 16:10:03 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/full_tatami_mat": {
+    "criteria": {
+      "has_canvas": "2023-10-07 18:58:13 +0000"
     },
     "done": true
   },
@@ -7094,6 +7466,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/gray_candle": {
+    "criteria": {
+      "has_gray_dye": "2023-10-07 19:01:06 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/cut_deepslate_wall_from_stone_types_deepslate_stonecutting": {
     "criteria": {
       "has_stone_types_deepslate": "2023-05-28 10:07:50 +0000"
@@ -7352,6 +7730,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/gray_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_gray_dye": "2023-10-07 19:01:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/rail": {
     "criteria": {
       "has_minecart": "2023-05-24 15:10:08 +0000"
@@ -7361,6 +7745,12 @@
   "minecraft:recipes/building_blocks/purpur_slab_from_purpur_block_stonecutting": {
     "criteria": {
       "has_purpur_block": "2023-06-02 18:13:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_slab_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2023-10-07 15:37:14 +0000"
     },
     "done": true
   },
