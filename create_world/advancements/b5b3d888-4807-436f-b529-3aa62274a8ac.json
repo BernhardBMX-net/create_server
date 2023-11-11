@@ -875,6 +875,12 @@
     },
     "done": true
   },
+  "morevillagers:kill_villager": {
+    "criteria": {
+      "killedvillager": "2023-11-11 20:21:38 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/cut_andesite_brick_wall_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2023-05-24 17:04:47 +0000"

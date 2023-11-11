@@ -1810,6 +1810,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/steak_and_potatoes": {
+    "criteria": {
+      "has_baked_potato": "2023-11-11 20:21:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_hoe": {
     "criteria": {
       "has_stick": "2023-09-14 15:21:35 +0000"
@@ -2918,6 +2924,12 @@
   "create:crushing_wheel": {
     "criteria": {
       "0": "2023-10-07 16:57:51 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/stuffed_potato": {
+    "criteria": {
+      "has_baked_potato": "2023-11-11 20:21:45 +0000"
     },
     "done": true
   },
