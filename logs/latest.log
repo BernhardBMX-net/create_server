@@ -1,238 +1,168 @@
-[11Nov.2023 19:27:50.326] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 43.2.11, --fml.mcVersion, 1.19.2, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20220805.130853]
-[11Nov.2023 19:27:50.334] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.8+10.0.8+main.0ef7e830 starting: java version 17.0.8.1 by Private Build; OS Linux arch amd64 version 5.4.0-100-generic
-[11Nov.2023 19:27:50.808] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/home/cloudy/minecraft/create_network/4_CREATE/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2363!/ Service=ModLauncher Env=SERVER
-[11Nov.2023 19:27:51.364] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /home/cloudy/minecraft/create_network/4_CREATE/libraries/net/minecraftforge/fmlcore/1.19.2-43.2.11/fmlcore-1.19.2-43.2.11.jar is missing mods.toml file
-[11Nov.2023 19:27:51.365] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /home/cloudy/minecraft/create_network/4_CREATE/libraries/net/minecraftforge/javafmllanguage/1.19.2-43.2.11/javafmllanguage-1.19.2-43.2.11.jar is missing mods.toml file
-[11Nov.2023 19:27:51.367] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /home/cloudy/minecraft/create_network/4_CREATE/libraries/net/minecraftforge/lowcodelanguage/1.19.2-43.2.11/lowcodelanguage-1.19.2-43.2.11.jar is missing mods.toml file
-[11Nov.2023 19:27:51.368] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /home/cloudy/minecraft/create_network/4_CREATE/libraries/net/minecraftforge/mclanguage/1.19.2-43.2.11/mclanguage-1.19.2-43.2.11.jar is missing mods.toml file
-[11Nov.2023 19:27:51.726] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 4 dependencies adding them to mods collection
-[11Nov.2023 19:27:54.838] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
-[11Nov.2023 19:27:55.030] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [de.maxhenkel.tradecycling.MixinConnector]
-[11Nov.2023 19:27:55.035] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments []
-[11Nov.2023 19:27:55.062] [main/WARN] [mixin/]: Reference map 'morevillagers-forge-forge-refmap.json' for morevillagers.mixins.json could not be read. If this is a development environment you can ignore this message
-[11Nov.2023 19:28:04.848] [main/INFO] [net.minecraft.util.datafix.DataFixers/]: Building unoptimized datafixer
-[11Nov.2023 19:28:08.850] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
-[11Nov.2023 19:28:08.856] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftblibrary:edit_nbt_response
-[11Nov.2023 19:28:09.064] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbteams:open_gui
-[11Nov.2023 19:28:09.065] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbteams:update_settings
-[11Nov.2023 19:28:09.069] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbteams:send_message
-[11Nov.2023 19:28:09.079] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbteams:create_party
-[11Nov.2023 19:28:09.085] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbteams:player_gui_operation
-[11Nov.2023 19:28:09.172] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbchunks:request_map_data
-[11Nov.2023 19:28:09.180] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbchunks:request_chunk_change
-[11Nov.2023 19:28:09.190] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbchunks:teleport_from_map
-[11Nov.2023 19:28:09.197] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbchunks:sync_tx
-[11Nov.2023 19:28:09.213] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbchunks:update_force_load_expiry
-[11Nov.2023 19:28:09.215] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbchunks:server_config_request
-[11Nov.2023 19:28:09.216] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 43.2.11, for MC 1.19.2 with MCP 20220805.130853
-[11Nov.2023 19:28:09.217] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v43.2.11 Initialized
-[11Nov.2023 19:28:15.162] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 4 clay_ball = 1 clay
-[11Nov.2023 19:28:15.162] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 4 snowball = 1 snow_block
-[11Nov.2023 19:28:15.162] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 4 glowstone_dust = 1 glowstone
-[11Nov.2023 19:28:15.162] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 4 brick = 1 bricks
-[11Nov.2023 19:28:15.162] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 4 nether_brick = 1 nether_bricks
-[11Nov.2023 19:28:15.163] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 9 nether_wart = 1 nether_wart_block
-[11Nov.2023 19:28:15.163] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 4 quartz = 1 quartz_block
-[11Nov.2023 19:28:15.163] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 9 melon_slice = 1 melon
-[11Nov.2023 19:28:15.163] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 4 sand = 1 sandstone
-[11Nov.2023 19:28:15.163] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 4 red_sand = 1 red_sandstone
-[11Nov.2023 19:28:15.337] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 4 clay_ball = 1 clay
-[11Nov.2023 19:28:15.561] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [trade_cycling] Starting version check at https://maxhenkel.de/update/trade_cycling.json
-[11Nov.2023 19:28:16.491] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [trade_cycling] Found status: UP_TO_DATE Current: 1.19.2-1.0.5 Target: null
-[11Nov.2023 19:28:16.492] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
-[11Nov.2023 19:28:16.894] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 43.2.11 Target: 43.3.0
-[11Nov.2023 19:28:16.895] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [flywheel] Starting version check at https://api.modrinth.com/updates/flywheel/forge_updates.json
-[11Nov.2023 19:28:17.672] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [flywheel] Found status: AHEAD Current: 0.6.8.a-14 Target: null
-[11Nov.2023 19:28:17.672] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [clumps] Starting version check at https://updates.blamejared.com/get?n=clumps&gv=1.19.2
-[11Nov.2023 19:28:17.778] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [clumps] Found status: BETA Current: 9.0.0+14 Target: 9.0.0+14
-[11Nov.2023 19:28:17.778] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [corpse] Starting version check at https://maxhenkel.de/update/corpse.json
-[11Nov.2023 19:28:17.822] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [corpse] Found status: UP_TO_DATE Current: 1.19.2-1.0.0 Target: null
-[11Nov.2023 19:28:19.231] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[11Nov.2023 19:28:21.806] [main/WARN] [net.minecraft.server.packs.VanillaPackResources/]: Assets URL 'union:/home/cloudy/minecraft/create_network/4_CREATE/libraries/net/minecraft/server/1.19.2-20220805.130853/server-1.19.2-20220805.130853-srg.jar%23135!/assets/.mcassetsroot' uses unexpected schema
-[11Nov.2023 19:28:21.807] [main/WARN] [net.minecraft.server.packs.VanillaPackResources/]: Assets URL 'union:/home/cloudy/minecraft/create_network/4_CREATE/libraries/net/minecraft/server/1.19.2-20220805.130853/server-1.19.2-20220805.130853-srg.jar%23135!/data/.mcassetsroot' uses unexpected schema
-[11Nov.2023 19:28:26.435] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 24 recipes
-[11Nov.2023 19:28:27.550] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 2388 advancements
-[11Nov.2023 19:28:29.350] [main/WARN] [net.minecraft.server.dedicated.DedicatedServerProperties/]: Failed to parse level-type default, defaulting to minecraft:normal
-[11Nov.2023 19:28:29.454] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.19.2
-[11Nov.2023 19:28:29.454] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
-[11Nov.2023 19:28:29.454] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
-[11Nov.2023 19:28:29.454] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
-[11Nov.2023 19:28:29.595] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:53687
-[11Nov.2023 19:28:29.684] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
-[11Nov.2023 19:28:30.169] [Server thread/INFO] [FTB Teams/]: loaded team data: 8 known players, 11 teams total
-[11Nov.2023 19:28:30.225] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "create_world"
-[11Nov.2023 19:28:30.451] [Netty Epoll Server IO #1/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
-[11Nov.2023 19:28:30.987] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
-[11Nov.2023 19:28:34.325] [Netty Epoll Server IO #2/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
-[11Nov.2023 19:28:35.801] [Netty Epoll Server IO #3/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
-[11Nov.2023 19:28:36.557] [Netty Epoll Server IO #4/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
-[11Nov.2023 19:28:37.153] [Netty Epoll Server IO #5/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
-[11Nov.2023 19:28:37.758] [Netty Epoll Server IO #6/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
-[11Nov.2023 19:28:38.270] [Netty Epoll Server IO #7/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
-[11Nov.2023 19:28:38.763] [Netty Epoll Server IO #0/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
-[11Nov.2023 19:28:39.215] [Netty Epoll Server IO #1/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
-[11Nov.2023 19:28:39.697] [Netty Epoll Server IO #2/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
-[11Nov.2023 19:28:40.032] [Netty Epoll Server IO #3/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
-[11Nov.2023 19:28:40.433] [Netty Epoll Server IO #4/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
-[11Nov.2023 19:28:40.699] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[11Nov.2023 19:28:40.706] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[11Nov.2023 19:28:40.707] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[11Nov.2023 19:28:40.707] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[11Nov.2023 19:28:40.714] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[11Nov.2023 19:28:40.715] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[11Nov.2023 19:28:40.715] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[11Nov.2023 19:28:40.722] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[11Nov.2023 19:28:40.726] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[11Nov.2023 19:28:40.735] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[11Nov.2023 19:28:40.735] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[11Nov.2023 19:28:40.738] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[11Nov.2023 19:28:40.740] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[11Nov.2023 19:28:40.747] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[11Nov.2023 19:28:40.749] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[11Nov.2023 19:28:40.750] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[11Nov.2023 19:28:40.751] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[11Nov.2023 19:28:40.754] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[11Nov.2023 19:28:40.755] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[11Nov.2023 19:28:40.758] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[11Nov.2023 19:28:40.787] [Netty Epoll Server IO #5/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
-[11Nov.2023 19:28:40.988] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[11Nov.2023 19:28:41.078] [Netty Epoll Server IO #6/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
-[11Nov.2023 19:28:41.372] [Netty Epoll Server IO #0/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
-[11Nov.2023 19:28:41.489] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 1%
-[11Nov.2023 19:28:41.730] [Netty Epoll Server IO #1/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
-[11Nov.2023 19:28:41.990] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 15%
-[11Nov.2023 19:28:42.038] [Netty Epoll Server IO #2/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
-[11Nov.2023 19:28:42.488] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 41%
-[11Nov.2023 19:28:42.625] [Netty Epoll Server IO #3/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
-[11Nov.2023 19:28:42.938] [Netty Epoll Server IO #4/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
-[11Nov.2023 19:28:42.988] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 65%
-[11Nov.2023 19:28:43.197] [Netty Epoll Server IO #5/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
-[11Nov.2023 19:28:43.415] [Netty Epoll Server IO #6/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
-[11Nov.2023 19:28:43.490] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 84%
-[11Nov.2023 19:28:43.702] [Netty Epoll Server IO #7/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
-[11Nov.2023 19:28:43.942] [Netty Epoll Server IO #0/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
-[11Nov.2023 19:28:44.149] [Netty Epoll Server IO #1/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
-[11Nov.2023 19:28:44.308] [Netty Epoll Server IO #2/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
-[11Nov.2023 19:28:44.760] [Netty Epoll Server IO #3/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
-[11Nov.2023 19:28:46.943] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 15955 ms
-[11Nov.2023 19:28:46.943] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (17.067s)! For help, type "help"
-[11Nov.2023 19:28:46.962] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
-[11Nov.2023 19:29:36.471] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /advancement (grant|revoke)
-[11Nov.2023 19:29:36.472] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /attribute <target> <attribute> (get|base|modifier)
-[11Nov.2023 19:29:36.472] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /execute (run|if|unless|as|at|store|positioned|rotated|facing|align|anchored|in)
-[11Nov.2023 19:29:36.473] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /bossbar (add|remove|list|set|get)
-[11Nov.2023 19:29:36.473] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /clear [<targets>]
-[11Nov.2023 19:29:36.473] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /clone <begin> <end> <destination> [replace|masked|filtered]
-[11Nov.2023 19:29:36.474] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /data (merge|get|remove|modify)
-[11Nov.2023 19:29:36.474] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /datapack (enable|disable|list)
-[11Nov.2023 19:29:36.475] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /debug (start|stop|function)
-[11Nov.2023 19:29:36.475] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /defaultgamemode (survival|creative|adventure|spectator)
-[11Nov.2023 19:29:36.476] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /difficulty [peaceful|easy|normal|hard]
-[11Nov.2023 19:29:36.478] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /effect (clear|give)
-[11Nov.2023 19:29:36.479] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /me <action>
-[11Nov.2023 19:29:36.479] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /enchant <targets> <enchantment> [<level>]
-[11Nov.2023 19:29:36.480] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /experience (add|set|query)
-[11Nov.2023 19:29:36.481] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /xp -> experience
-[11Nov.2023 19:29:36.482] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /fill <from> <to> <block> [replace|keep|outline|hollow|destroy]
-[11Nov.2023 19:29:36.483] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /forceload (add|remove|query)
-[11Nov.2023 19:29:36.483] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /function <name>
-[11Nov.2023 19:29:36.484] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /gamemode (survival|creative|adventure|spectator)
-[11Nov.2023 19:29:36.484] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /gamerule (announceAdvancements|commandBlockOutput|disableElytraMovementCheck|disableRaids|doDaylightCycle|doEntityDrops|doFireTick|doImmediateRespawn|doInsomnia|doLimitedCrafting|doMobLoot|doMobSpawning|doPatrolSpawning|doTileDrops|doTraderSpawning|doWardenSpawning|doWeatherCycle|drowningDamage|fallDamage|fireDamage|forgiveDeadPlayers|freezeDamage|keepInventory|logAdminCommands|maxCommandChainLength|maxEntityCramming|mobGriefing|naturalRegeneration|playersSleepingPercentage|randomTickSpeed|reducedDebugInfo|sendCommandFeedback|showDeathMessages|spawnRadius|spectatorsGenerateChunks|universalAnger)
-[11Nov.2023 19:29:36.485] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /give <targets> <item> [<count>]
-[11Nov.2023 19:29:36.486] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /help [<command>]
-[11Nov.2023 19:29:36.487] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /item (replace|modify)
-[11Nov.2023 19:29:36.490] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /kick <targets> [<reason>]
-[11Nov.2023 19:29:36.490] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /kill [<targets>]
-[11Nov.2023 19:29:36.491] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /list [uuids]
-[11Nov.2023 19:29:36.491] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /locate (structure|biome|poi)
-[11Nov.2023 19:29:36.492] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /loot (replace|insert|give|spawn)
-[11Nov.2023 19:29:36.493] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /msg <targets> <message>
-[11Nov.2023 19:29:36.493] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /tell -> msg
-[11Nov.2023 19:29:36.494] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /w -> msg
-[11Nov.2023 19:29:36.494] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /particle <name> [<pos>]
-[11Nov.2023 19:29:36.494] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /place (feature|jigsaw|structure|template)
-[11Nov.2023 19:29:36.495] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /playsound <sound> (master|music|record|weather|block|hostile|neutral|player|ambient|voice)
-[11Nov.2023 19:29:36.495] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /reload
-[11Nov.2023 19:29:36.496] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /recipe (give|take)
-[11Nov.2023 19:29:36.497] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /say <message>
-[11Nov.2023 19:29:36.497] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /schedule (function|clear)
-[11Nov.2023 19:29:36.498] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /scoreboard (objectives|players)
-[11Nov.2023 19:29:36.498] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /seed
-[11Nov.2023 19:29:36.502] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /setblock <pos> <block> [destroy|keep|replace]
-[11Nov.2023 19:29:36.503] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /spawnpoint [<targets>]
-[11Nov.2023 19:29:36.504] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /setworldspawn [<pos>]
-[11Nov.2023 19:29:36.504] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /spectate [<target>]
-[11Nov.2023 19:29:36.504] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /spreadplayers <center> <spreadDistance> <maxRange> (<respectTeams>|under)
-[11Nov.2023 19:29:36.505] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /stopsound <targets> [*|master|music|record|weather|block|hostile|neutral|player|ambient|voice]
-[11Nov.2023 19:29:36.505] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /summon <entity> [<pos>]
-[11Nov.2023 19:29:36.506] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /tag <targets> (add|remove|list)
-[11Nov.2023 19:29:36.506] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /team (list|add|remove|empty|join|leave|modify)
-[11Nov.2023 19:29:36.507] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /teammsg <message>
-[11Nov.2023 19:29:36.508] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /tm -> teammsg
-[11Nov.2023 19:29:36.508] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /teleport (<location>|<destination>|<targets>)
-[11Nov.2023 19:29:36.509] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /tp -> teleport
-[11Nov.2023 19:29:36.509] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /tellraw <targets> <message>
-[11Nov.2023 19:29:36.509] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /time (set|add|query)
-[11Nov.2023 19:29:36.509] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /title <targets> (clear|reset|title|subtitle|actionbar|times)
-[11Nov.2023 19:29:36.510] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /trigger <objective> [add|set]
-[11Nov.2023 19:29:36.510] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /weather (clear|rain|thunder)
-[11Nov.2023 19:29:36.510] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /worldborder (add|set|center|damage|get|warning)
-[11Nov.2023 19:29:36.510] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /jfr (start|stop)
-[11Nov.2023 19:29:36.510] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /ban-ip <target> [<reason>]
-[11Nov.2023 19:29:36.510] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /banlist [ips|players]
-[11Nov.2023 19:29:36.510] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /ban <targets> [<reason>]
-[11Nov.2023 19:29:36.510] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /deop <targets>
-[11Nov.2023 19:29:36.511] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /op <targets>
-[11Nov.2023 19:29:36.511] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /pardon <targets>
-[11Nov.2023 19:29:36.511] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /pardon-ip <target>
-[11Nov.2023 19:29:36.511] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /perf (start|stop)
-[11Nov.2023 19:29:36.511] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /save-all [flush]
-[11Nov.2023 19:29:36.511] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /save-off
-[11Nov.2023 19:29:36.511] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /save-on
-[11Nov.2023 19:29:36.511] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /setidletimeout <minutes>
-[11Nov.2023 19:29:36.511] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /stop
-[11Nov.2023 19:29:36.512] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /whitelist (on|off|list|add|remove|reload)
-[11Nov.2023 19:29:36.512] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /ftblibrary (gamemode|rain|day|night|nbtedit|generate_loot_tables)
-[11Nov.2023 19:29:36.512] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /ftbteams (party|server|msg|info|list|force-disband)
-[11Nov.2023 19:29:36.513] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /ftbchunks (claim|unclaim|load|unload|unclaim_all|unload_all|info|admin)
-[11Nov.2023 19:29:36.518] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /chunks -> ftbchunks
-[11Nov.2023 19:29:36.519] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /carryon (debug|clear|place)
-[11Nov.2023 19:29:36.519] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /curios (list|replace|set|add|remove|clear|drop|reset)
-[11Nov.2023 19:29:36.520] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /forge (tps|track|entity|generate|dimensions|mods|tags)
-[11Nov.2023 19:29:36.520] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /config showfile <mod> <type>
-[11Nov.2023 19:29:36.521] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /create (rainbowDebug|overlay|trains|fixLighting|highlight|killTrain|passenger|coupling|config|ponder|clone|glue|util|u)
-[11Nov.2023 19:29:36.521] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /c (rainbowDebug|overlay|trains|fixLighting|highlight|killTrain|passenger|coupling|config|ponder|clone|glue|util|u)
-[11Nov.2023 19:29:36.522] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /deathhistory (<player>|<player_uuid>)
-[11Nov.2023 19:30:10.624] [User Authenticator #1/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player WolfOfTheGaming is 21ad7002-f1a4-4765-8b87-6444cc9eca69
-[11Nov.2023 19:30:12.772] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.player.Player from class tschipp.carryon.common.carry.CarryOnDataManager
-[11Nov.2023 19:30:13.014] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@65a74e6d
-[11Nov.2023 19:30:13.066] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: WolfOfTheGaming[/178.20.88.244:59034] logged in with entity id 40 at (-147.1835821198677, 80.0, 2226.6887317917244)
-[11Nov.2023 19:30:13.241] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BW] WolfOfTheGaming joined the game
-[11Nov.2023 19:30:17.778] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4912ms or 98 ticks behind
-[11Nov.2023 19:31:02.382] [User Authenticator #2/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player WolfOfTheGaming is 21ad7002-f1a4-4765-8b87-6444cc9eca69
-[11Nov.2023 19:31:29.878] [User Authenticator #3/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player BernhardBMX is b5b3d888-4807-436f-b529-3aa62274a8ac
-[11Nov.2023 19:32:04.706] [User Authenticator #4/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player BernhardBMX is b5b3d888-4807-436f-b529-3aa62274a8ac
-[11Nov.2023 19:32:42.784] [User Authenticator #5/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player WolfOfTheGaming is 21ad7002-f1a4-4765-8b87-6444cc9eca69
-[11Nov.2023 19:32:45.355] [User Authenticator #6/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player BernhardBMX is b5b3d888-4807-436f-b529-3aa62274a8ac
-[11Nov.2023 19:33:46.382] [User Authenticator #7/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player BernhardBMX is b5b3d888-4807-436f-b529-3aa62274a8ac
-[11Nov.2023 19:35:05.004] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: WolfOfTheGaming lost connection: Disconnected
-[11Nov.2023 19:35:05.004] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BW] WolfOfTheGaming left the game
-[11Nov.2023 19:35:05.160] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@26b1436e[id=21ad7002-f1a4-4765-8b87-6444cc9eca69,name=WolfOfTheGaming,properties={textures=[com.mojang.authlib.properties.Property@45d125f1]},legacy=false] (/178.20.88.244:59067) lost connection: Disconnected
-[11Nov.2023 19:35:05.160] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@6b18bb59[id=b5b3d888-4807-436f-b529-3aa62274a8ac,name=BernhardBMX,properties={textures=[com.mojang.authlib.properties.Property@6d671884]},legacy=false] (/212.86.57.69:52420) lost connection: Disconnected
-[11Nov.2023 19:35:05.161] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@517848b8[id=b5b3d888-4807-436f-b529-3aa62274a8ac,name=BernhardBMX,properties={textures=[com.mojang.authlib.properties.Property@2523b682]},legacy=false] (/212.86.57.69:52453) lost connection: Disconnected
-[11Nov.2023 19:35:05.161] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@484060a4[id=21ad7002-f1a4-4765-8b87-6444cc9eca69,name=WolfOfTheGaming,properties={textures=[com.mojang.authlib.properties.Property@5776d892]},legacy=false] (/178.20.88.244:59094) lost connection: Disconnected
-[11Nov.2023 19:35:05.161] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@330e3e2b[id=b5b3d888-4807-436f-b529-3aa62274a8ac,name=BernhardBMX,properties={textures=[com.mojang.authlib.properties.Property@4171cab1]},legacy=false] (/212.86.57.69:52501) lost connection: Disconnected
-[11Nov.2023 19:35:05.161] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@1d628960[id=b5b3d888-4807-436f-b529-3aa62274a8ac,name=BernhardBMX,properties={textures=[com.mojang.authlib.properties.Property@6bd72a90]},legacy=false] (/212.86.57.69:52546) lost connection: Disconnected
-[11Nov.2023 19:35:05.163] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
-[11Nov.2023 19:35:05.214] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
-[11Nov.2023 19:35:05.215] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
-[11Nov.2023 19:35:05.215] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
-[11Nov.2023 19:35:07.661] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[create_world]'/minecraft:overworld
-[11Nov.2023 19:35:09.226] [IO-Worker-15/WARN] [net.minecraft.world.level.chunk.storage.RegionFile/]: Saving oversized chunk [-11, 139] (2026189 bytes} to external file ./create_world/entities/c.-11.139.mcc
-[11Nov.2023 19:35:09.282] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[create_world]'/minecraft:the_end
-[11Nov.2023 19:35:09.283] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[create_world]'/minecraft:the_nether
-[11Nov.2023 19:35:09.303] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (create_world): All chunks are saved
-[11Nov.2023 19:35:09.303] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[11Nov.2023 19:35:09.304] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[11Nov.2023 19:35:09.304] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
-[11Nov.2023 19:35:09.338] [Server thread/INFO] [FTB Chunks/]: Shutting down map thread
+[11Nov.2023 19:38:37.198] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 43.2.11, --fml.mcVersion, 1.19.2, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20220805.130853]
+[11Nov.2023 19:38:37.203] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.8+10.0.8+main.0ef7e830 starting: java version 17.0.8.1 by Private Build; OS Linux arch amd64 version 5.4.0-100-generic
+[11Nov.2023 19:38:37.719] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/home/cloudy/minecraft/create_network/4_CREATE/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2363!/ Service=ModLauncher Env=SERVER
+[11Nov.2023 19:38:38.292] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /home/cloudy/minecraft/create_network/4_CREATE/libraries/net/minecraftforge/fmlcore/1.19.2-43.2.11/fmlcore-1.19.2-43.2.11.jar is missing mods.toml file
+[11Nov.2023 19:38:38.294] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /home/cloudy/minecraft/create_network/4_CREATE/libraries/net/minecraftforge/javafmllanguage/1.19.2-43.2.11/javafmllanguage-1.19.2-43.2.11.jar is missing mods.toml file
+[11Nov.2023 19:38:38.297] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /home/cloudy/minecraft/create_network/4_CREATE/libraries/net/minecraftforge/lowcodelanguage/1.19.2-43.2.11/lowcodelanguage-1.19.2-43.2.11.jar is missing mods.toml file
+[11Nov.2023 19:38:38.299] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /home/cloudy/minecraft/create_network/4_CREATE/libraries/net/minecraftforge/mclanguage/1.19.2-43.2.11/mclanguage-1.19.2-43.2.11.jar is missing mods.toml file
+[11Nov.2023 19:38:38.598] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 4 dependencies adding them to mods collection
+[11Nov.2023 19:38:41.869] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[11Nov.2023 19:38:42.065] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [de.maxhenkel.tradecycling.MixinConnector]
+[11Nov.2023 19:38:42.068] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments []
+[11Nov.2023 19:38:42.083] [main/WARN] [mixin/]: Reference map 'morevillagers-forge-forge-refmap.json' for morevillagers.mixins.json could not be read. If this is a development environment you can ignore this message
+[11Nov.2023 19:38:50.325] [main/INFO] [net.minecraft.util.datafix.DataFixers/]: Building unoptimized datafixer
+[11Nov.2023 19:38:53.871] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
+[11Nov.2023 19:38:53.879] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftblibrary:edit_nbt_response
+[11Nov.2023 19:38:53.984] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbteams:open_gui
+[11Nov.2023 19:38:53.989] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbteams:update_settings
+[11Nov.2023 19:38:53.993] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbteams:send_message
+[11Nov.2023 19:38:54.000] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbteams:create_party
+[11Nov.2023 19:38:54.005] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbteams:player_gui_operation
+[11Nov.2023 19:38:54.028] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbchunks:request_map_data
+[11Nov.2023 19:38:54.058] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbchunks:request_chunk_change
+[11Nov.2023 19:38:54.060] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbchunks:teleport_from_map
+[11Nov.2023 19:38:54.073] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbchunks:sync_tx
+[11Nov.2023 19:38:54.077] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbchunks:update_force_load_expiry
+[11Nov.2023 19:38:54.078] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbchunks:server_config_request
+[11Nov.2023 19:38:54.109] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 43.2.11, for MC 1.19.2 with MCP 20220805.130853
+[11Nov.2023 19:38:54.109] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v43.2.11 Initialized
+[11Nov.2023 19:38:59.971] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 4 clay_ball = 1 clay
+[11Nov.2023 19:38:59.978] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 4 snowball = 1 snow_block
+[11Nov.2023 19:38:59.978] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 4 glowstone_dust = 1 glowstone
+[11Nov.2023 19:38:59.979] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 4 brick = 1 bricks
+[11Nov.2023 19:38:59.982] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 4 nether_brick = 1 nether_bricks
+[11Nov.2023 19:38:59.982] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 9 nether_wart = 1 nether_wart_block
+[11Nov.2023 19:38:59.986] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 4 quartz = 1 quartz_block
+[11Nov.2023 19:38:59.986] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 9 melon_slice = 1 melon
+[11Nov.2023 19:38:59.986] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 4 sand = 1 sandstone
+[11Nov.2023 19:38:59.987] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 4 red_sand = 1 red_sandstone
+[11Nov.2023 19:39:00.114] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 4 clay_ball = 1 clay
+[11Nov.2023 19:39:00.338] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [trade_cycling] Starting version check at https://maxhenkel.de/update/trade_cycling.json
+[11Nov.2023 19:39:01.048] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [trade_cycling] Found status: UP_TO_DATE Current: 1.19.2-1.0.5 Target: null
+[11Nov.2023 19:39:01.049] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[11Nov.2023 19:39:01.446] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 43.2.11 Target: 43.3.0
+[11Nov.2023 19:39:01.447] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [flywheel] Starting version check at https://api.modrinth.com/updates/flywheel/forge_updates.json
+[11Nov.2023 19:39:01.731] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [flywheel] Found status: AHEAD Current: 0.6.8.a-14 Target: null
+[11Nov.2023 19:39:01.732] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [clumps] Starting version check at https://updates.blamejared.com/get?n=clumps&gv=1.19.2
+[11Nov.2023 19:39:01.837] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [clumps] Found status: BETA Current: 9.0.0+14 Target: 9.0.0+14
+[11Nov.2023 19:39:01.837] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [corpse] Starting version check at https://maxhenkel.de/update/corpse.json
+[11Nov.2023 19:39:01.879] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [corpse] Found status: UP_TO_DATE Current: 1.19.2-1.0.0 Target: null
+[11Nov.2023 19:39:03.687] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[11Nov.2023 19:39:05.851] [main/WARN] [net.minecraft.server.packs.VanillaPackResources/]: Assets URL 'union:/home/cloudy/minecraft/create_network/4_CREATE/libraries/net/minecraft/server/1.19.2-20220805.130853/server-1.19.2-20220805.130853-srg.jar%23135!/assets/.mcassetsroot' uses unexpected schema
+[11Nov.2023 19:39:05.852] [main/WARN] [net.minecraft.server.packs.VanillaPackResources/]: Assets URL 'union:/home/cloudy/minecraft/create_network/4_CREATE/libraries/net/minecraft/server/1.19.2-20220805.130853/server-1.19.2-20220805.130853-srg.jar%23135!/data/.mcassetsroot' uses unexpected schema
+[11Nov.2023 19:39:10.249] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 24 recipes
+[11Nov.2023 19:39:11.381] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 2388 advancements
+[11Nov.2023 19:39:12.976] [main/WARN] [net.minecraft.server.dedicated.DedicatedServerProperties/]: Failed to parse level-type default, defaulting to minecraft:normal
+[11Nov.2023 19:39:13.061] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.19.2
+[11Nov.2023 19:39:13.061] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[11Nov.2023 19:39:13.065] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[11Nov.2023 19:39:13.066] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[11Nov.2023 19:39:13.336] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:53687
+[11Nov.2023 19:39:13.377] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[11Nov.2023 19:39:13.784] [Server thread/INFO] [FTB Teams/]: loaded team data: 8 known players, 11 teams total
+[11Nov.2023 19:39:13.807] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "create_world"
+[11Nov.2023 19:39:14.410] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[11Nov.2023 19:39:22.039] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[11Nov.2023 19:39:22.310] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[11Nov.2023 19:39:22.350] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[11Nov.2023 19:39:22.439] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[11Nov.2023 19:39:22.463] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[11Nov.2023 19:39:22.570] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[11Nov.2023 19:39:22.586] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[11Nov.2023 19:39:22.602] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[11Nov.2023 19:39:22.602] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[11Nov.2023 19:39:22.762] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[11Nov.2023 19:39:22.773] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[11Nov.2023 19:39:22.785] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[11Nov.2023 19:39:22.874] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[11Nov.2023 19:39:22.900] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[11Nov.2023 19:39:22.918] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[11Nov.2023 19:39:22.952] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[11Nov.2023 19:39:22.963] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[11Nov.2023 19:39:22.974] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[11Nov.2023 19:39:23.412] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[11Nov.2023 19:39:23.914] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 1%
+[11Nov.2023 19:39:24.412] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 17%
+[11Nov.2023 19:39:24.915] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 35%
+[11Nov.2023 19:39:25.412] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 63%
+[11Nov.2023 19:39:26.063] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 87%
+[11Nov.2023 19:39:26.422] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 95%
+[11Nov.2023 19:39:26.484] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 12073 ms
+[11Nov.2023 19:39:26.486] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (12.946s)! For help, type "help"
+[11Nov.2023 19:39:26.635] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[11Nov.2023 19:40:43.680] [User Authenticator #1/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player BernhardBMX is b5b3d888-4807-436f-b529-3aa62274a8ac
+[11Nov.2023 19:40:45.354] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.player.Player from class tschipp.carryon.common.carry.CarryOnDataManager
+[11Nov.2023 19:40:45.540] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@485ec341
+[11Nov.2023 19:40:45.607] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: BernhardBMX[/212.86.57.69:52669] logged in with entity id 40 at (-3201.6612553777886, 60.98062101454591, 1704.0000743375344)
+[11Nov.2023 19:40:45.775] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BW] BernhardBMX joined the game
+[11Nov.2023 19:40:52.923] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7480ms or 149 ticks behind
+[11Nov.2023 19:41:48.897] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2054ms or 41 ticks behind
+[11Nov.2023 19:41:56.446] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BernhardBMX moved too quickly! -0.051261201777322185,2.0348555063978253,18.359728092022976
+[11Nov.2023 19:42:34.409] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2065ms or 41 ticks behind
+[11Nov.2023 19:42:38.346] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@70690b67
+[11Nov.2023 19:43:21.968] [User Authenticator #2/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player BernhardBMX is b5b3d888-4807-436f-b529-3aa62274a8ac
+[11Nov.2023 19:43:26.665] [User Authenticator #3/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player WolfOfTheGaming is 21ad7002-f1a4-4765-8b87-6444cc9eca69
+[11Nov.2023 19:43:41.372] [User Authenticator #4/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player BernhardBMX is b5b3d888-4807-436f-b529-3aa62274a8ac
+[11Nov.2023 19:44:47.684] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BernhardBMX lost connection: Disconnected
+[11Nov.2023 19:44:47.684] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BW] BernhardBMX left the game
+[11Nov.2023 19:44:47.789] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@544d03da[id=b5b3d888-4807-436f-b529-3aa62274a8ac,name=BernhardBMX,properties={textures=[com.mojang.authlib.properties.Property@32c2428]},legacy=false] (/212.86.57.69:52711) lost connection: Disconnected
+[11Nov.2023 19:44:47.790] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@2e05c462[id=21ad7002-f1a4-4765-8b87-6444cc9eca69,name=WolfOfTheGaming,properties={textures=[com.mojang.authlib.properties.Property@77f102b1]},legacy=false] (/178.20.88.244:57143) lost connection: Disconnected
+[11Nov.2023 19:44:47.790] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@68c39073[id=b5b3d888-4807-436f-b529-3aa62274a8ac,name=BernhardBMX,properties={textures=[com.mojang.authlib.properties.Property@6a329f0f]},legacy=false] (/212.86.57.69:52729) lost connection: Disconnected
+[11Nov.2023 19:45:13.577] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 144183ms or 2883 ticks behind
+[11Nov.2023 19:45:25.467] [IO-Worker-18/WARN] [net.minecraft.world.level.chunk.storage.RegionFile/]: Saving oversized chunk [-11, 139] (2010973 bytes} to external file ./create_world/entities/c.-11.139.mcc
+[11Nov.2023 19:46:59.312] [User Authenticator #5/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player WolfOfTheGaming is 21ad7002-f1a4-4765-8b87-6444cc9eca69
+[11Nov.2023 19:47:01.099] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: WolfOfTheGaming[/178.20.88.244:63089] logged in with entity id 34576 at (-147.1835821198677, 80.0, 2226.6887317917244)
+[11Nov.2023 19:47:01.107] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BW] WolfOfTheGaming joined the game
+[11Nov.2023 19:47:05.336] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4143ms or 82 ticks behind
+[11Nov.2023 19:47:08.563] [IO-Worker-21/WARN] [net.minecraft.world.level.chunk.storage.RegionFile/]: Saving oversized chunk [-11, 139] (2010973 bytes} to external file ./create_world/entities/c.-11.139.mcc
+[11Nov.2023 19:49:25.893] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: WolfOfTheGaming lost connection: Disconnected
+[11Nov.2023 19:49:25.894] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BW] WolfOfTheGaming left the game
+[11Nov.2023 19:49:26.788] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 126494ms or 2529 ticks behind
+[11Nov.2023 19:49:26.895] [IO-Worker-27/WARN] [net.minecraft.world.level.chunk.storage.RegionFile/]: Saving oversized chunk [-11, 139] (1992278 bytes} to external file ./create_world/entities/c.-11.139.mcc
+[11Nov.2023 19:52:46.356] [User Authenticator #6/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player WolfOfTheGaming is 21ad7002-f1a4-4765-8b87-6444cc9eca69
+[11Nov.2023 19:52:48.139] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@743ad64b
+[11Nov.2023 19:52:48.172] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: WolfOfTheGaming[/178.20.88.244:50128] logged in with entity id 67972 at (-146.64139139817857, 80.0, 2225.8842444735474)
+[11Nov.2023 19:52:48.203] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BW] WolfOfTheGaming joined the game
+[11Nov.2023 19:52:52.584] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4391ms or 87 ticks behind
+[11Nov.2023 19:53:04.321] [User Authenticator #7/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player WolfOfTheGaming is 21ad7002-f1a4-4765-8b87-6444cc9eca69
+[11Nov.2023 19:53:15.439] [User Authenticator #8/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player WolfOfTheGaming is 21ad7002-f1a4-4765-8b87-6444cc9eca69
+[11Nov.2023 19:54:11.274] [User Authenticator #9/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player WolfOfTheGaming is 21ad7002-f1a4-4765-8b87-6444cc9eca69
+[11Nov.2023 19:55:16.207] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: WolfOfTheGaming lost connection: Disconnected
+[11Nov.2023 19:55:16.208] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BW] WolfOfTheGaming left the game
+[11Nov.2023 19:55:16.250] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@7e50b93e[id=21ad7002-f1a4-4765-8b87-6444cc9eca69,name=WolfOfTheGaming,properties={textures=[com.mojang.authlib.properties.Property@6de33850]},legacy=false] (/178.20.88.244:50136) lost connection: Disconnected
+[11Nov.2023 19:55:16.250] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@67468990[id=21ad7002-f1a4-4765-8b87-6444cc9eca69,name=WolfOfTheGaming,properties={textures=[com.mojang.authlib.properties.Property@3e2e1be8]},legacy=false] (/178.20.88.244:50142) lost connection: Disconnected
+[11Nov.2023 19:55:16.251] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@7d38c97b[id=21ad7002-f1a4-4765-8b87-6444cc9eca69,name=WolfOfTheGaming,properties={textures=[com.mojang.authlib.properties.Property@7c7b508a]},legacy=false] (/178.20.88.244:50150) lost connection: Disconnected
+[11Nov.2023 19:55:18.120] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 130577ms or 2611 ticks behind
+[11Nov.2023 19:55:18.370] [IO-Worker-41/WARN] [net.minecraft.world.level.chunk.storage.RegionFile/]: Saving oversized chunk [-11, 139] (1961195 bytes} to external file ./create_world/entities/c.-11.139.mcc
+[11Nov.2023 19:55:28.344] [User Authenticator #10/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player WolfOfTheGaming is 21ad7002-f1a4-4765-8b87-6444cc9eca69
+[11Nov.2023 19:55:30.109] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@18925f55
+[11Nov.2023 19:55:30.125] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: WolfOfTheGaming[/178.20.88.244:50158] logged in with entity id 101375 at (-146.64139139817857, 80.0, 2225.8842444735474)
+[11Nov.2023 19:55:30.139] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BW] WolfOfTheGaming joined the game
+[11Nov.2023 19:56:26.883] [User Authenticator #11/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player WolfOfTheGaming is 21ad7002-f1a4-4765-8b87-6444cc9eca69
+[11Nov.2023 19:57:13.699] [User Authenticator #12/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player WolfOfTheGaming is 21ad7002-f1a4-4765-8b87-6444cc9eca69
+[11Nov.2023 19:57:25.474] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: WolfOfTheGaming lost connection: Disconnected
+[11Nov.2023 19:57:25.475] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BW] WolfOfTheGaming left the game
+[11Nov.2023 19:57:25.529] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@21bd14f4[id=21ad7002-f1a4-4765-8b87-6444cc9eca69,name=WolfOfTheGaming,properties={textures=[com.mojang.authlib.properties.Property@61be62dc]},legacy=false] (/178.20.88.244:50167) lost connection: Disconnected
+[11Nov.2023 19:57:25.639] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 110446ms or 2208 ticks behind
+[11Nov.2023 19:57:27.091] [IO-Worker-46/WARN] [net.minecraft.world.level.chunk.storage.RegionFile/]: Saving oversized chunk [-11, 139] (1909781 bytes} to external file ./create_world/entities/c.-11.139.mcc
+[11Nov.2023 19:57:29.107] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@64d38459
+[11Nov.2023 19:57:29.119] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: WolfOfTheGaming[/178.20.88.244:50171] logged in with entity id 134829 at (-146.65524583859644, 80.0, 2225.6355350015806)
+[11Nov.2023 19:57:29.123] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BW] WolfOfTheGaming joined the game
+[11Nov.2023 19:58:25.190] [User Authenticator #13/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player WolfOfTheGaming is 21ad7002-f1a4-4765-8b87-6444cc9eca69
+[11Nov.2023 19:59:32.798] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: WolfOfTheGaming lost connection: Disconnected
+[11Nov.2023 19:59:32.799] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BW] WolfOfTheGaming left the game
+[11Nov.2023 19:59:32.830] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@5ac7cc78[id=21ad7002-f1a4-4765-8b87-6444cc9eca69,name=WolfOfTheGaming,properties={textures=[com.mojang.authlib.properties.Property@7ac0c963]},legacy=false] (/178.20.88.244:50181) lost connection: Disconnected
+[11Nov.2023 19:59:33.524] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 112931ms or 2258 ticks behind
+[11Nov.2023 19:59:34.058] [IO-Worker-51/WARN] [net.minecraft.world.level.chunk.storage.RegionFile/]: Saving oversized chunk [-11, 139] (1859502 bytes} to external file ./create_world/entities/c.-11.139.mcc
+[11Nov.2023 19:59:39.351] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[11Nov.2023 19:59:39.393] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[11Nov.2023 19:59:39.394] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[11Nov.2023 19:59:39.394] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[11Nov.2023 19:59:40.318] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[create_world]'/minecraft:overworld
+[11Nov.2023 19:59:40.494] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[create_world]'/minecraft:the_nether
+[11Nov.2023 19:59:40.502] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[create_world]'/minecraft:the_end
+[11Nov.2023 19:59:40.527] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (create_world): All chunks are saved
+[11Nov.2023 19:59:40.527] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[11Nov.2023 19:59:40.527] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[11Nov.2023 19:59:40.527] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[11Nov.2023 19:59:40.546] [Server thread/INFO] [FTB Chunks/]: Shutting down map thread
