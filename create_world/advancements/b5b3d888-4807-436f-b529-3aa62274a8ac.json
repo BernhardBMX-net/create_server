@@ -455,6 +455,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/tinted_glass": {
+    "criteria": {
+      "has_amethyst_shard": "2023-11-11 13:33:40 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/kinetics/gantry_shaft": {
     "criteria": {
       "has_item": "2023-05-26 12:45:15 +0000"
@@ -812,6 +818,12 @@
   "create:recipes/create.palettes/crafting/kinetics/yellow_seat_from_other_seat": {
     "criteria": {
       "has_seat": "2023-09-15 16:05:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/diamond_from_smelting_deepslate_diamond_ore": {
+    "criteria": {
+      "has_deepslate_diamond_ore": "2023-11-11 13:26:50 +0000"
     },
     "done": true
   },
@@ -3215,6 +3227,12 @@
     },
     "done": true
   },
+  "create:chute": {
+    "criteria": {
+      "0": "2023-11-11 18:22:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/golden_helmet": {
     "criteria": {
       "has_gold_ingot": "2023-05-25 16:45:30 +0000"
@@ -4405,6 +4423,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/spyglass": {
+    "criteria": {
+      "has_amethyst_shard": "2023-11-11 13:33:40 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/cut_diorite_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2023-05-24 17:06:04 +0000"
@@ -5244,6 +5268,12 @@
   "create:recipes/create.base/crafting/kinetics/lime_valve_handle_from_other_valve_handle": {
     "criteria": {
       "has_valve": "2023-09-16 16:11:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/amethyst_block": {
+    "criteria": {
+      "has_amethyst_shard": "2023-11-11 13:33:40 +0000"
     },
     "done": true
   },
@@ -6265,6 +6295,7 @@
       "porkchop": "2023-05-24 14:37:58 +0000",
       "tropical_fish": "2023-06-02 19:27:56 +0000",
       "apple": "2023-05-25 18:27:58 +0000",
+      "spider_eye": "2023-11-11 18:35:29 +0000",
       "potato": "2023-09-15 15:58:03 +0000",
       "mutton": "2023-05-23 17:54:24 +0000",
       "bread": "2023-05-24 15:50:13 +0000",
@@ -7479,6 +7510,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/kinetics/smart_chute": {
+    "criteria": {
+      "has_item": "2023-11-11 18:22:06 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/crafting/kinetics/pink_seat": {
     "criteria": {
       "has_wool": "2023-05-23 17:54:21 +0000"
@@ -7584,6 +7621,12 @@
   "minecraft:recipes/food/pumpkin_pie": {
     "criteria": {
       "has_pumpkin": "2023-08-14 08:08:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/diamond_from_blasting_deepslate_diamond_ore": {
+    "criteria": {
+      "has_deepslate_diamond_ore": "2023-11-11 13:26:50 +0000"
     },
     "done": true
   },
