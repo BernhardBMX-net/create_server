@@ -737,6 +737,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/jungle_wood": {
+    "criteria": {
+      "has_log": "2023-11-12 15:06:01 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/kinetics/cuckoo_clock": {
     "criteria": {
       "has_item": "2023-09-10 10:30:13 +0000"
@@ -818,6 +824,12 @@
   "create:recipes/create.base/crafting/kinetics/millstone": {
     "criteria": {
       "has_item": "2023-09-10 11:13:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_planks": {
+    "criteria": {
+      "has_logs": "2023-11-12 15:06:01 +0000"
     },
     "done": true
   },
@@ -1457,6 +1469,12 @@
   "minecraft:recipes/tools/wooden_hoe": {
     "criteria": {
       "has_stick": "2023-08-15 16:54:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_trapdoor": {
+    "criteria": {
+      "has_planks": "2023-11-12 15:06:03 +0000"
     },
     "done": true
   },
@@ -2150,6 +2168,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/jungle_sign": {
+    "criteria": {
+      "has_planks": "2023-11-12 15:06:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/andesite": {
     "criteria": {
       "has_stone": "2023-09-01 13:32:02 +0000"
@@ -2429,6 +2453,12 @@
   "minecraft:recipes/decorations/andesite_wall_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2023-09-01 13:24:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_door": {
+    "criteria": {
+      "has_planks": "2023-11-12 15:06:03 +0000"
     },
     "done": true
   },
@@ -3195,6 +3225,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/jungle_fence": {
+    "criteria": {
+      "has_planks": "2023-11-12 15:06:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/white_wool_from_string": {
     "criteria": {
       "has_string": "2023-09-03 14:49:31 +0000"
@@ -3397,6 +3433,12 @@
   "farmersdelight:recipes/farmersdelight/cooking/glow_berry_custard": {
     "criteria": {
       "has_any_ingredient": "2023-09-01 13:52:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_pressure_plate": {
+    "criteria": {
+      "has_planks": "2023-11-12 15:06:03 +0000"
     },
     "done": true
   },
@@ -3766,6 +3808,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/jungle_window": {
+    "criteria": {
+      "has_ingredient": "2023-11-12 15:06:03 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/cut_dripstone_brick_stairs_from_stone_types_dripstone_stonecutting": {
     "criteria": {
       "has_stone_types_dripstone": "2023-09-01 13:50:41 +0000"
@@ -3809,6 +3857,7 @@
       "minecraft:lush_caves": "2023-09-01 13:52:17 +0000",
       "minecraft:ice_spikes": "2023-09-09 13:19:33 +0000",
       "minecraft:desert": "2023-11-12 09:43:22 +0000",
+      "minecraft:jungle": "2023-11-12 15:04:13 +0000",
       "minecraft:snowy_beach": "2023-08-15 16:36:55 +0000",
       "minecraft:warm_ocean": "2023-11-11 11:59:06 +0000",
       "minecraft:old_growth_birch_forest": "2023-08-15 16:48:14 +0000",
@@ -4250,6 +4299,12 @@
   "create:recipes/create.palettes/andesite_bars_from_andesite_alloy_stonecutting": {
     "criteria": {
       "has_andesite_alloy": "2023-09-10 10:30:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_button": {
+    "criteria": {
+      "has_planks": "2023-11-12 15:06:03 +0000"
     },
     "done": true
   },
@@ -4940,6 +4995,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/jungle_slab": {
+    "criteria": {
+      "has_planks": "2023-11-12 15:06:03 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/dark_oak_window": {
     "criteria": {
       "has_ingredient": "2023-09-01 13:21:01 +0000"
@@ -5060,6 +5121,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/jungle_stairs": {
+    "criteria": {
+      "has_planks": "2023-11-12 15:06:03 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/cut_limestone_stairs_from_stone_types_limestone_stonecutting": {
     "criteria": {
       "has_stone_types_limestone": "2023-09-01 13:45:19 +0000"
@@ -5123,6 +5190,12 @@
   "minecraft:recipes/transportation/warped_fungus_on_a_stick": {
     "criteria": {
       "has_warped_fungus": "2023-11-11 11:36:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_fence_gate": {
+    "criteria": {
+      "has_planks": "2023-11-12 15:06:03 +0000"
     },
     "done": true
   },

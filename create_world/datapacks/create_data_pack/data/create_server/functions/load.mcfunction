@@ -1,0 +1,1 @@
+tellraw @a ["",{"text":"[Create Server] ","color":"red"},{"text":"Das Datapack wurde geladen.","color":"green"}]
