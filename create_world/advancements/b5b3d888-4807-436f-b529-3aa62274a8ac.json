@@ -5644,6 +5644,7 @@
       "minecraft:taiga": "2023-05-24 16:14:09 +0000",
       "minecraft:deep_ocean": "2023-05-24 15:57:51 +0000",
       "minecraft:frozen_river": "2023-05-24 16:49:14 +0000",
+      "minecraft:sunflower_plains": "2023-11-12 10:01:32 +0000",
       "minecraft:birch_forest": "2023-05-24 14:50:00 +0000",
       "minecraft:beach": "2023-05-23 17:53:18 +0000",
       "minecraft:dark_forest": "2023-05-23 17:35:06 +0000",
@@ -5663,10 +5664,12 @@
       "minecraft:deep_cold_ocean": "2023-05-26 12:32:28 +0000",
       "minecraft:frozen_ocean": "2023-05-24 16:47:04 +0000",
       "minecraft:deep_frozen_ocean": "2023-05-26 12:34:43 +0000",
+      "minecraft:windswept_forest": "2023-11-12 10:03:20 +0000",
       "minecraft:ocean": "2023-05-23 17:53:31 +0000",
       "minecraft:jungle": "2023-08-15 17:13:04 +0000",
       "minecraft:old_growth_spruce_taiga": "2023-05-24 16:13:00 +0000",
       "minecraft:snowy_beach": "2023-05-24 16:46:48 +0000",
+      "minecraft:windswept_savanna": "2023-11-12 10:03:37 +0000",
       "minecraft:deep_lukewarm_ocean": "2023-05-24 15:48:44 +0000",
       "minecraft:frozen_peaks": "2023-05-26 12:21:44 +0000",
       "minecraft:old_growth_birch_forest": "2023-05-23 17:33:41 +0000",
@@ -6344,6 +6347,12 @@
   "minecraft:recipes/redstone/jungle_button": {
     "criteria": {
       "has_the_recipe": "2023-08-16 07:47:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/fast_travel": {
+    "criteria": {
+      "travelled": "2023-11-12 11:42:13 +0000"
     },
     "done": true
   },
