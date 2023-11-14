@@ -167,6 +167,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/detector_rail": {
+    "criteria": {
+      "has_rail": "2023-11-12 18:40:06 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/cut_dripstone_wall_from_stone_types_dripstone_stonecutting": {
     "criteria": {
       "has_stone_types_dripstone": "2023-09-01 13:50:41 +0000"
@@ -443,6 +449,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/lightning_rod_with_villager_no_fire": {
+    "criteria": {
+      "lightning_rod_with_villager_no_fire": "2023-11-12 18:04:33 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/smelting/scoria": {
     "criteria": {
       "has_item": "2023-09-01 13:11:39 +0000"
@@ -476,6 +488,12 @@
   "minecraft:recipes/decorations/fletching_table": {
     "criteria": {
       "has_flint": "2023-08-15 16:37:07 +0000"
+    },
+    "done": true
+  },
+  "create:encased_fan": {
+    "criteria": {
+      "0": "2023-11-12 18:34:44 +0000"
     },
     "done": true
   },
@@ -538,6 +556,12 @@
       "has_stone_types_scorchia": "2023-08-15 16:20:39 +0000"
     },
     "done": true
+  },
+  "morevillagers:all_professions_traded": {
+    "criteria": {
+      "cleric": "2023-11-12 18:08:53 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/building_blocks/smooth_quartz": {
     "criteria": {
@@ -1454,6 +1478,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cut_copper_slab_from_cut_copper_stonecutting": {
+    "criteria": {
+      "has_cut_copper": "2023-11-12 18:13:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_nugget": {
     "criteria": {
       "has_gold_ingot": "2023-08-15 16:29:42 +0000"
@@ -1535,6 +1565,12 @@
   "create:recipes/create.base/crafting/kinetics/rose_quartz_lamp": {
     "criteria": {
       "has_item": "2023-09-10 10:28:27 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/whisk": {
+    "criteria": {
+      "has_item": "2023-11-12 18:30:53 +0000"
     },
     "done": true
   },
@@ -1655,6 +1691,12 @@
   "minecraft:recipes/transportation/minecart": {
     "criteria": {
       "has_iron_ingot": "2023-08-15 16:29:17 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/encased_fan": {
+    "criteria": {
+      "has_item": "2023-11-12 18:30:53 +0000"
     },
     "done": true
   },
@@ -1784,6 +1826,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/birch_cabinet": {
+    "criteria": {
+      "has_birch_trapdoor": "2023-11-12 18:35:02 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/cut_crimsite_brick_slab_from_stone_types_crimsite_stonecutting": {
     "criteria": {
       "has_stone_types_crimsite": "2023-09-01 13:54:15 +0000"
@@ -1811,6 +1859,12 @@
   "minecraft:recipes/food/baked_potato_from_smoking": {
     "criteria": {
       "has_potato": "2023-11-11 10:48:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_copper_slab": {
+    "criteria": {
+      "has_cut_copper": "2023-11-12 18:13:53 +0000"
     },
     "done": true
   },
@@ -1876,7 +1930,8 @@
   },
   "morevillagers:all_workstations_get": {
     "criteria": {
-      "brewingstand": "2023-11-12 09:53:39 +0000"
+      "brewingstand": "2023-11-12 09:53:39 +0000",
+      "stonecutter": "2023-11-12 18:13:34 +0000"
     },
     "done": false
   },
@@ -2462,6 +2517,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/waxed_cut_copper_from_honeycomb": {
+    "criteria": {
+      "has_cut_copper": "2023-11-12 18:13:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/nether_brick_stairs": {
     "criteria": {
       "has_nether_bricks": "2023-11-11 11:27:43 +0000"
@@ -2714,6 +2775,18 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/kinetics/nozzle": {
+    "criteria": {
+      "has_item": "2023-11-12 18:31:09 +0000"
+    },
+    "done": true
+  },
+  "create:mechanical_press": {
+    "criteria": {
+      "0": "2023-11-12 18:30:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/map": {
     "criteria": {
       "has_compass": "2023-08-15 16:46:36 +0000"
@@ -2819,6 +2892,12 @@
   "create:recipes/create.palettes/small_granite_brick_stairs_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2023-09-01 13:26:04 +0000"
+    },
+    "done": true
+  },
+  "morevillagers:first_trade": {
+    "criteria": {
+      "villagertrade": "2023-11-12 18:08:53 +0000"
     },
     "done": true
   },
@@ -3442,6 +3521,12 @@
     },
     "done": true
   },
+  "minecraft:end/root": {
+    "criteria": {
+      "entered_end": "2023-11-12 18:56:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/black_wool": {
     "criteria": {
       "has_white_wool": "2023-08-31 12:30:00 +0000"
@@ -3915,6 +4000,12 @@
     },
     "done": true
   },
+  "minecraft:nether/find_bastion": {
+    "criteria": {
+      "bastion": "2023-11-12 18:52:06 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/cut_granite_bricks_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2023-09-01 13:26:04 +0000"
@@ -4008,6 +4099,12 @@
   "create:recipes/create.base/crafting/kinetics/vertical_gearboxfrom_conversion": {
     "criteria": {
       "has_item": "2023-09-10 11:13:57 +0000"
+    },
+    "done": true
+  },
+  "create:fan_processing": {
+    "criteria": {
+      "0": "2023-11-12 18:41:02 +0000"
     },
     "done": true
   },
@@ -4470,6 +4567,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cut_copper_stairs": {
+    "criteria": {
+      "has_cut_copper": "2023-11-12 18:13:53 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/kinetics/mechanical_pump": {
     "criteria": {
       "has_item": "2023-09-02 13:47:08 +0000"
@@ -4566,6 +4669,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/activator_rail": {
+    "criteria": {
+      "has_rail": "2023-11-12 18:40:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dark_oak_stairs": {
     "criteria": {
       "has_planks": "2023-09-01 13:21:01 +0000"
@@ -4584,6 +4693,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/blue_ice": {
+    "criteria": {
+      "has_packed_ice": "2023-11-12 18:53:30 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/cut_andesite_brick_slab_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2023-09-01 13:24:00 +0000"
@@ -4593,6 +4708,12 @@
   "minecraft:recipes/building_blocks/deepslate": {
     "criteria": {
       "has_cobbled_deepslate": "2023-09-01 13:33:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2023-11-12 18:08:53 +0000"
     },
     "done": true
   },
@@ -4674,6 +4795,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cut_copper_stairs_from_cut_copper_stonecutting": {
+    "criteria": {
+      "has_cut_copper": "2023-11-12 18:13:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_granite_stairs_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2023-09-01 13:26:04 +0000"
@@ -4707,6 +4834,12 @@
   "create:recipes/create.palettes/cut_diorite_brick_slab_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2023-09-01 13:32:02 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/propeller": {
+    "criteria": {
+      "has_item": "2023-11-12 18:30:53 +0000"
     },
     "done": true
   },
@@ -4884,6 +5017,12 @@
   "minecraft:recipes/tools/stone_shovel": {
     "criteria": {
       "has_cobblestone": "2023-08-15 16:20:58 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/super_glue": {
+    "criteria": {
+      "has_item": "2023-11-12 18:30:53 +0000"
     },
     "done": true
   },
@@ -5097,6 +5236,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/powered_rail": {
+    "criteria": {
+      "has_rail": "2023-11-12 18:40:06 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/crafting/kinetics/pink_seat": {
     "criteria": {
       "has_wool": "2023-08-31 12:30:00 +0000"
@@ -5175,6 +5320,12 @@
     },
     "done": true
   },
+  "minecraft:story/enter_the_end": {
+    "criteria": {
+      "entered_end": "2023-11-12 18:56:49 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/small_scorchia_brick_stairs_from_stone_types_scorchia_stonecutting": {
     "criteria": {
       "has_stone_types_scorchia": "2023-08-15 16:20:39 +0000"
@@ -5220,6 +5371,12 @@
   "create:recipes/create.base/crafting/kinetics/white_sail": {
     "criteria": {
       "has_item": "2023-09-10 10:30:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/rail": {
+    "criteria": {
+      "has_the_recipe": "2023-11-12 18:40:05 +0000"
     },
     "done": true
   },

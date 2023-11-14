@@ -323,6 +323,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/end_stone_brick_stairs_from_end_stone_brick_stonecutting": {
+    "criteria": {
+      "has_end_stone_brick": "2023-11-13 14:47:40 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/cut_granite_slab_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2023-05-30 16:14:54 +0000"
@@ -521,6 +527,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/materials/brass_ingot_from_decompacting": {
+    "criteria": {
+      "has_item": "2023-11-12 17:20:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/dark_oak_chest_boat": {
     "criteria": {
       "has_boat": "2023-05-23 17:56:54 +0000"
@@ -530,6 +542,12 @@
   "create:recipes/create.base/crafting/kinetics/deployer": {
     "criteria": {
       "has_item": "2023-06-02 19:42:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_slab": {
+    "criteria": {
+      "has_end_stone_bricks": "2023-11-13 14:47:40 +0000"
     },
     "done": true
   },
@@ -1207,6 +1225,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/purpur_slab": {
+    "criteria": {
+      "has_purpur_block": "2023-11-13 14:46:13 +0000"
+    },
+    "done": true
+  },
   "storagedrawers:recipes/storagedrawers/one_stack_upgrade": {
     "criteria": {
       "has_template": "2023-05-23 17:53:39 +0000"
@@ -1360,6 +1384,12 @@
   "minecraft:recipes/building_blocks/dried_kelp_block": {
     "criteria": {
       "has_dried_kelp": "2023-06-02 20:19:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_slab_from_end_stone_brick_stonecutting": {
+    "criteria": {
+      "has_end_stone_brick": "2023-11-13 14:47:40 +0000"
     },
     "done": true
   },
@@ -1816,6 +1846,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/end_stone_brick_wall_from_end_stone_brick_stonecutting": {
+    "criteria": {
+      "has_end_stone_brick": "2023-11-13 14:47:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/sugar_from_sugar_cane": {
     "criteria": {
       "has_sugar_cane": "2023-05-23 17:58:27 +0000"
@@ -2035,6 +2071,12 @@
   "minecraft:recipes/food/beetroot_soup": {
     "criteria": {
       "has_beetroot": "2023-05-23 18:07:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/orange_glazed_terracotta": {
+    "criteria": {
+      "has_orange_terracotta": "2023-11-12 16:04:46 +0000"
     },
     "done": true
   },
@@ -2308,6 +2350,7 @@
       "blastfurnace": "2023-05-23 18:35:32 +0000",
       "lectern": "2023-06-02 21:08:42 +0000",
       "stonecutter": "2023-05-23 18:36:17 +0000",
+      "purpuraltar": "2023-11-13 14:53:13 +0000",
       "composter": "2023-06-02 21:07:49 +0000"
     },
     "done": false
@@ -2762,6 +2805,12 @@
     },
     "done": true
   },
+  "minecraft:end/find_end_city": {
+    "criteria": {
+      "in_city": "2023-11-13 14:46:08 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/small_veridium_brick_slab_from_stone_types_veridium_stonecutting": {
     "criteria": {
       "has_stone_types_veridium": "2023-06-06 19:14:47 +0000"
@@ -2771,6 +2820,12 @@
   "minecraft:recipes/combat/leather_chestplate": {
     "criteria": {
       "has_leather": "2023-05-24 08:45:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/enter_end_gateway": {
+    "criteria": {
+      "entered_end_gateway": "2023-11-13 14:40:07 +0000"
     },
     "done": true
   },
@@ -3369,6 +3424,12 @@
     },
     "done": true
   },
+  "minecraft:end/elytra": {
+    "criteria": {
+      "elytra": "2023-11-12 17:03:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_stone_bricks_stone_from_stonecutting": {
     "criteria": {
       "has_stone": "2023-05-23 19:46:56 +0000"
@@ -3402,6 +3463,12 @@
   "farmersdelight:recipes/farmersdelight/rice_bag": {
     "criteria": {
       "has_rice": "2023-05-23 17:58:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_stairs": {
+    "criteria": {
+      "has_purpur_block": "2023-11-13 14:46:13 +0000"
     },
     "done": true
   },
@@ -3540,6 +3607,12 @@
   "minecraft:recipes/building_blocks/cut_red_sandstone_slab_from_red_sandstone_stonecutting": {
     "criteria": {
       "has_red_sandstone": "2023-06-02 21:58:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_pillar_from_purpur_block_stonecutting": {
+    "criteria": {
+      "has_purpur_block": "2023-11-13 14:46:13 +0000"
     },
     "done": true
   },
@@ -3933,6 +4006,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/end_stone_brick_stairs": {
+    "criteria": {
+      "has_end_stone_bricks": "2023-11-13 14:47:40 +0000"
+    },
+    "done": true
+  },
   "storagedrawers:recipes/storagedrawers/warped_trim": {
     "criteria": {
       "has_planks": "2023-05-23 17:53:39 +0000"
@@ -3984,6 +4063,7 @@
       "minecraft:zombified_piglin": "2023-06-26 19:15:16 +0000",
       "minecraft:witch": "2023-05-24 08:50:13 +0000",
       "minecraft:wither_skeleton": "2023-06-02 18:36:50 +0000",
+      "minecraft:shulker": "2023-11-13 14:47:00 +0000",
       "minecraft:piglin": "2023-05-30 19:20:47 +0000",
       "minecraft:enderman": "2023-06-03 12:43:07 +0000",
       "minecraft:silverfish": "2023-06-06 21:08:55 +0000",
@@ -4002,6 +4082,12 @@
   "minecraft:recipes/misc/music_disc_5": {
     "criteria": {
       "has_disc_fragment_5": "2023-06-03 20:47:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_glazed_terracotta": {
+    "criteria": {
+      "has_brown_terracotta": "2023-11-12 16:08:06 +0000"
     },
     "done": true
   },
@@ -4419,6 +4505,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/end_stone_brick_wall": {
+    "criteria": {
+      "has_end_stone_bricks": "2023-11-13 14:47:40 +0000"
+    },
+    "done": true
+  },
   "storagedrawers:recipes/storagedrawers/max_redstone_upgrade": {
     "criteria": {
       "has_template": "2023-05-23 17:53:39 +0000"
@@ -4690,6 +4782,7 @@
       "minecraft:taiga": "2023-05-23 18:21:28 +0000",
       "minecraft:deep_ocean": "2023-05-23 18:00:35 +0000",
       "minecraft:birch_forest": "2023-05-30 16:32:32 +0000",
+      "minecraft:wooded_badlands": "2023-11-12 16:30:24 +0000",
       "minecraft:badlands": "2023-09-28 19:22:24 +0000",
       "minecraft:beach": "2023-05-23 17:53:16 +0000",
       "minecraft:dark_forest": "2023-05-23 18:59:26 +0000",
@@ -5123,6 +5216,12 @@
   "minecraft:recipes/tools/golden_hoe": {
     "criteria": {
       "has_gold_ingot": "2023-05-23 18:01:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_stairs_from_purpur_block_stonecutting": {
+    "criteria": {
+      "has_purpur_block": "2023-11-13 14:46:13 +0000"
     },
     "done": true
   },
@@ -6135,6 +6234,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/shulker_box": {
+    "criteria": {
+      "has_shulker_shell": "2023-11-13 14:47:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_basalt": {
     "criteria": {
       "has_basalt": "2023-06-02 18:35:11 +0000"
@@ -6375,6 +6480,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/purpur_pillar": {
+    "criteria": {
+      "has_purpur_block": "2023-11-13 14:46:13 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/materials/copper_ingot": {
     "criteria": {
       "has_item": "2023-06-06 19:58:22 +0000"
@@ -6450,6 +6561,12 @@
   "minecraft:recipes/building_blocks/stripped_spruce_wood": {
     "criteria": {
       "has_log": "2023-06-08 15:54:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_slab_from_purpur_block_stonecutting": {
+    "criteria": {
+      "has_purpur_block": "2023-11-13 14:46:13 +0000"
     },
     "done": true
   },

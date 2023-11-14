@@ -155,6 +155,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/magenta_stained_glass_pane": {
+    "criteria": {
+      "has_glass": "2023-11-12 16:19:34 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/curiosities/peculiar_bell": {
     "criteria": {
       "has_item": "2023-05-31 18:11:44 +0000"
@@ -428,6 +434,12 @@
   "minecraft:recipes/building_blocks/smooth_basalt": {
     "criteria": {
       "has_basalt": "2023-05-25 13:36:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/emerald": {
+    "criteria": {
+      "has_emerald_block": "2023-11-12 17:12:24 +0000"
     },
     "done": true
   },
@@ -1076,6 +1088,12 @@
   "create:water_wheel": {
     "criteria": {
       "0": "2023-05-26 12:52:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/create_beacon": {
+    "criteria": {
+      "beacon": "2023-11-13 16:33:00 +0000"
     },
     "done": true
   },
@@ -1767,6 +1785,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/diamond": {
+    "criteria": {
+      "has_diamond_block": "2023-11-13 16:30:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_nugget_from_smelting": {
     "criteria": {
       "has_golden_helmet": "2023-05-25 17:29:38 +0000"
@@ -2412,6 +2436,12 @@
   "minecraft:recipes/redstone/oak_fence_gate": {
     "criteria": {
       "has_planks": "2023-05-25 17:37:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2023-11-13 15:54:29 +0000"
     },
     "done": true
   },
@@ -3665,6 +3695,12 @@
     },
     "done": true
   },
+  "create:train_roadkill": {
+    "criteria": {
+      "0": "2023-11-13 16:46:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/birch_trapdoor": {
     "criteria": {
       "has_planks": "2023-05-23 17:54:03 +0000"
@@ -4285,6 +4321,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/nether_wart_block": {
+    "criteria": {
+      "has_nether_wart": "2023-11-13 16:10:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobblestone_slab": {
     "criteria": {
       "has_cobblestone": "2023-05-23 17:55:09 +0000"
@@ -4807,6 +4849,8 @@
       "minecraft:spider": "2023-05-25 13:03:12 +0000",
       "minecraft:piglin_brute": "2023-06-05 17:52:22 +0000",
       "minecraft:creeper": "2023-05-25 13:03:42 +0000",
+      "minecraft:wither": "2023-11-13 16:26:56 +0000",
+      "minecraft:evoker": "2023-11-12 16:47:43 +0000",
       "minecraft:phantom": "2023-09-17 13:47:15 +0000",
       "minecraft:zombified_piglin": "2023-05-29 17:03:56 +0000",
       "minecraft:witch": "2023-08-14 09:55:00 +0000",
@@ -5193,6 +5237,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/spyglass_at_parrot": {
+    "criteria": {
+      "spyglass_at_parrot": "2023-11-12 16:55:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/nether_brick_stairs_from_nether_bricks_stonecutting": {
     "criteria": {
       "has_nether_bricks": "2023-05-25 15:26:13 +0000"
@@ -5505,6 +5555,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/totem_of_undying": {
+    "criteria": {
+      "used_totem": "2023-11-13 16:20:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cobbled_deepslate_wall": {
     "criteria": {
       "has_cobbled_deepslate": "2023-05-24 16:21:30 +0000"
@@ -5639,6 +5695,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:snowy_slopes": "2023-11-12 16:41:45 +0000",
       "minecraft:old_growth_pine_taiga": "2023-05-25 17:06:22 +0000",
       "minecraft:mushroom_fields": "2023-06-01 18:39:23 +0000",
       "minecraft:taiga": "2023-05-24 16:14:09 +0000",
@@ -5646,6 +5703,8 @@
       "minecraft:frozen_river": "2023-05-24 16:49:14 +0000",
       "minecraft:sunflower_plains": "2023-11-12 10:01:32 +0000",
       "minecraft:birch_forest": "2023-05-24 14:50:00 +0000",
+      "minecraft:wooded_badlands": "2023-11-12 16:58:26 +0000",
+      "minecraft:badlands": "2023-11-12 16:57:44 +0000",
       "minecraft:beach": "2023-05-23 17:53:18 +0000",
       "minecraft:dark_forest": "2023-05-23 17:35:06 +0000",
       "minecraft:mangrove_swamp": "2023-08-14 09:49:43 +0000",
@@ -5658,11 +5717,13 @@
       "minecraft:snowy_taiga": "2023-05-24 16:46:42 +0000",
       "minecraft:grove": "2023-05-24 18:07:44 +0000",
       "minecraft:swamp": "2023-08-14 09:49:20 +0000",
+      "minecraft:jagged_peaks": "2023-11-12 16:41:48 +0000",
       "minecraft:cold_ocean": "2023-05-24 16:11:32 +0000",
       "minecraft:forest": "2023-05-24 14:57:48 +0000",
       "minecraft:lush_caves": "2023-05-24 16:21:40 +0000",
       "minecraft:deep_cold_ocean": "2023-05-26 12:32:28 +0000",
       "minecraft:frozen_ocean": "2023-05-24 16:47:04 +0000",
+      "minecraft:desert": "2023-11-12 16:58:28 +0000",
       "minecraft:deep_frozen_ocean": "2023-05-26 12:34:43 +0000",
       "minecraft:windswept_forest": "2023-11-12 10:03:20 +0000",
       "minecraft:ocean": "2023-05-23 17:53:31 +0000",
@@ -6172,6 +6233,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/bone_meal_from_bone_block": {
+    "criteria": {
+      "has_bone_block": "2023-11-13 16:51:51 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/cut_diorite_stairs_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2023-05-24 17:06:04 +0000"
@@ -6253,6 +6320,12 @@
   "create:recipes/create.base/crafting/kinetics/rotation_speed_controller": {
     "criteria": {
       "has_item": "2023-05-31 18:12:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/summon_wither": {
+    "criteria": {
+      "summoned": "2023-11-13 16:25:52 +0000"
     },
     "done": true
   },
@@ -6567,9 +6640,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/beacon": {
+    "criteria": {
+      "has_nether_star": "2023-11-13 16:27:03 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/logistics/andesite_funnel": {
     "criteria": {
       "has_item": "2023-05-26 12:45:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_bricks": {
+    "criteria": {
+      "has_nether_wart": "2023-11-13 16:10:05 +0000"
     },
     "done": true
   },
@@ -7319,6 +7404,12 @@
   "create:recipes/create.palettes/cut_dripstone_brick_slab_from_stone_types_dripstone_stonecutting": {
     "criteria": {
       "has_stone_types_dripstone": "2023-05-24 15:25:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/skull_banner_pattern": {
+    "criteria": {
+      "has_wither_skeleton_skull": "2023-11-13 15:54:29 +0000"
     },
     "done": true
   },
