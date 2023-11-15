@@ -1,0 +1,16 @@
+name: Run Minecraft Server
+
+on:
+  push:
+    branches: ["Cloudy"]
+  pull_request:
+    branches: ["Cloudy"]
+  release:
+    types: created
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - run: ./run.sh
