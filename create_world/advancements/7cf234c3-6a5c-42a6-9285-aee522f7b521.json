@@ -119,6 +119,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/magma_block": {
+    "criteria": {
+      "has_magma_cream": "2023-11-15 18:23:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/ladder": {
     "criteria": {
       "has_stick": "2023-05-24 16:24:28 +0000"
@@ -788,6 +794,12 @@
   "minecraft:recipes/building_blocks/orange_concrete_powder": {
     "criteria": {
       "has_gravel": "2023-05-25 17:58:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2023-11-15 18:53:31 +0000"
     },
     "done": true
   },
@@ -2246,6 +2258,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2023-11-15 18:53:31 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/kinetics/wooden_bracket": {
     "criteria": {
       "has_item": "2023-06-01 18:04:52 +0000"
@@ -2297,6 +2315,12 @@
   "create:recipes/create.base/crafting/kinetics/speedometer": {
     "criteria": {
       "has_item": "2023-06-01 18:04:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2023-11-15 18:53:31 +0000"
     },
     "done": true
   },
@@ -5281,6 +5305,8 @@
       "porkchop": "2023-05-24 16:18:52 +0000",
       "tropical_fish": "2023-11-12 13:19:50 +0000",
       "apple": "2023-06-01 18:35:26 +0000",
+      "spider_eye": "2023-11-15 19:10:41 +0000",
+      "potato": "2023-11-15 19:05:32 +0000",
       "mutton": "2023-05-24 16:37:22 +0000",
       "bread": "2023-05-29 18:04:45 +0000",
       "golden_apple": "2023-06-05 14:53:20 +0000",

@@ -407,6 +407,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_smelting_raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2023-11-15 18:44:09 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/cut_granite_slab_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2023-05-24 15:29:30 +0000"
@@ -1271,6 +1277,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/raw_gold_block": {
+    "criteria": {
+      "has_raw_gold": "2023-11-15 18:44:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_boots": {
     "criteria": {
       "has_iron_ingot": "2023-05-24 15:12:23 +0000"
@@ -1971,6 +1983,12 @@
     },
     "done": true
   },
+  "create:track_signal": {
+    "criteria": {
+      "0": "2023-11-15 16:47:00 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/kinetics/gantry_carriage": {
     "criteria": {
       "has_item": "2023-05-26 14:06:04 +0000"
@@ -2463,7 +2481,8 @@
       "minecraft:sheep": "2023-05-29 17:26:32 +0000",
       "minecraft:cow": "2023-05-25 16:10:56 +0000",
       "minecraft:goat": "2023-05-30 18:24:16 +0000",
-      "minecraft:chicken": "2023-05-26 12:45:42 +0000"
+      "minecraft:chicken": "2023-05-26 12:45:42 +0000",
+      "minecraft:wolf": "2023-11-17 16:03:01 +0000"
     },
     "done": false
   },
@@ -2608,6 +2627,12 @@
   "minecraft:recipes/food/golden_apple": {
     "criteria": {
       "has_gold_ingot": "2023-05-25 16:45:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_blasting_raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2023-11-15 18:44:09 +0000"
     },
     "done": true
   },
@@ -5135,6 +5160,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone_from_smelting_deepslate_redstone_ore": {
+    "criteria": {
+      "has_deepslate_redstone_ore": "2023-11-15 14:52:48 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/cut_diorite_slab_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2023-05-24 17:06:04 +0000"
@@ -6403,6 +6434,12 @@
   "create:recipes/create.palettes/vertical_framed_glass_from_glass_colorless_stonecutting": {
     "criteria": {
       "has_glass_colorless": "2023-06-03 08:59:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_from_blasting_deepslate_redstone_ore": {
+    "criteria": {
+      "has_deepslate_redstone_ore": "2023-11-15 14:52:48 +0000"
     },
     "done": true
   },
