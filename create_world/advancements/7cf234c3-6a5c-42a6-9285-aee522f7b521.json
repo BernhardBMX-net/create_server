@@ -773,6 +773,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+    "criteria": {
+      "has_gold_block": "2023-11-18 20:49:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_blue_stained_glass": {
     "criteria": {
       "has_glass": "2023-06-01 18:53:04 +0000"
@@ -1244,6 +1250,12 @@
   "create:recipes/create.palettes/crafting/palettes/scorchia": {
     "criteria": {
       "has_item": "2023-11-11 12:47:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/magma_cream": {
+    "criteria": {
+      "has_blaze_powder": "2023-11-18 21:30:19 +0000"
     },
     "done": true
   },
@@ -2273,6 +2285,12 @@
   "minecraft:story/enter_the_nether": {
     "criteria": {
       "entered_nether": "2023-05-25 17:40:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_crystal": {
+    "criteria": {
+      "has_ender_eye": "2023-11-18 21:30:31 +0000"
     },
     "done": true
   },
@@ -4032,6 +4050,7 @@
       "minecraft:magma_cube": "2023-06-05 14:41:40 +0000",
       "minecraft:spider": "2023-05-26 13:40:06 +0000",
       "minecraft:creeper": "2023-06-01 19:08:31 +0000",
+      "minecraft:phantom": "2023-11-18 13:16:42 +0000",
       "minecraft:zombified_piglin": "2023-06-06 16:01:22 +0000",
       "minecraft:shulker": "2023-06-02 20:25:19 +0000",
       "minecraft:piglin": "2023-11-11 11:58:27 +0000",
@@ -4058,6 +4077,12 @@
   "minecraft:recipes/building_blocks/chiseled_quartz_block_from_quartz_block_stonecutting": {
     "criteria": {
       "has_quartz_block": "2023-09-18 17:11:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/ender_eye": {
+    "criteria": {
+      "has_blaze_powder": "2023-11-18 21:30:19 +0000"
     },
     "done": true
   },
@@ -4999,6 +5024,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/fire_charge": {
+    "criteria": {
+      "has_blaze_powder": "2023-11-18 21:30:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/soul_torch": {
     "criteria": {
       "has_soul_sand": "2023-06-02 18:38:10 +0000"
@@ -5696,9 +5727,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/ender_chest": {
+    "criteria": {
+      "has_ender_eye": "2023-11-18 21:30:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/spruce_stairs": {
     "criteria": {
       "has_planks": "2023-11-12 16:01:59 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/oak_cabinet": {
+    "criteria": {
+      "has_oak_trapdoor": "2023-11-17 20:56:48 +0000"
     },
     "done": true
   },
@@ -5844,6 +5887,7 @@
     "criteria": {
       "sweet_berries": "2023-05-31 18:06:42 +0000",
       "beetroot": "2023-05-25 14:18:22 +0000",
+      "chorus_flower": "2023-11-18 12:09:16 +0000",
       "sugar_cane": "2023-05-25 14:23:53 +0000",
       "wheat": "2023-05-25 14:22:34 +0000",
       "pumpkin": "2023-05-25 14:18:27 +0000",

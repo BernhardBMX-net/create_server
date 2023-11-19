@@ -21,7 +21,7 @@
 		"ftbchunks:entity_interact_mode": "allies"
 		"ftbchunks:nonliving_entity_attack_mode": "allies"
 		"ftbchunks:claim_visibility": "public"
-		"ftbchunks:location_mode": "allies"
+		"ftbchunks:location_mode": "public"
 	}
 	message_history: [ ]
 	extra: { }

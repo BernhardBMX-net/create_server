@@ -49,6 +49,8 @@
 		{ from: "b5b3d888-4807-436f-b529-3aa62274a8ac", date: 1694706612154L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.invited\",\"with\":[{\"color\":\"yellow\",\"text\":\"WolfOfTheGaming\"}]}" }
 		{ from: "00000000-0000-0000-0000-000000000000", date: 1694706615637L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"WolfOfTheGaming\"}]}" }
 		{ from: "b5b3d888-4807-436f-b529-3aa62274a8ac", date: 1694706625956L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.promoted\",\"with\":[{\"color\":\"yellow\",\"text\":\"WolfOfTheGaming\"}]}" }
+		{ from: "b5b3d888-4807-436f-b529-3aa62274a8ac", date: 1700315170153L, text: "{\"text\":\"Hi\"}" }
+		{ from: "b5b3d888-4807-436f-b529-3aa62274a8ac", date: 1700315175185L, text: "{\"text\":\"F\"}" }
 	]
 	extra: { }
 }

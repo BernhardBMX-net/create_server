@@ -317,6 +317,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/end_stone_brick_stairs_from_end_stone_brick_stonecutting": {
+    "criteria": {
+      "has_end_stone_brick": "2023-11-18 11:26:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_smelting_raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2023-11-18 19:19:09 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/cut_granite_slab_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2023-09-15 23:36:47 +0000"
@@ -533,6 +545,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/end_stone_brick_slab": {
+    "criteria": {
+      "has_end_stone_bricks": "2023-11-18 11:26:24 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/kinetics/track_observer_from_other_plates": {
     "criteria": {
       "has_item": "2023-09-14 18:53:32 +0000"
@@ -635,6 +653,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_mutton_from_smoking": {
+    "criteria": {
+      "has_mutton": "2023-11-18 14:12:57 +0000"
+    },
+    "done": true
+  },
   "storagedrawers:recipes/storagedrawers/redstone_upgrade": {
     "criteria": {
       "has_template": "2023-09-14 15:21:35 +0000"
@@ -675,7 +699,8 @@
     "criteria": {
       "enderian": "2023-10-07 23:19:28 +0000",
       "librarian": "2023-10-08 00:50:56 +0000",
-      "florist": "2023-11-13 12:44:05 +0000"
+      "florist": "2023-11-13 12:44:05 +0000",
+      "fisherman": "2023-11-18 16:14:03 +0000"
     },
     "done": false
   },
@@ -1063,6 +1088,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/raw_gold_block": {
+    "criteria": {
+      "has_raw_gold": "2023-11-18 19:19:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_boots": {
     "criteria": {
       "has_iron_ingot": "2023-09-14 18:34:38 +0000"
@@ -1429,6 +1460,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/end_stone_brick_slab_from_end_stone_brick_stonecutting": {
+    "criteria": {
+      "has_end_stone_brick": "2023-11-18 11:26:24 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/cooking/pumpkin_soup": {
     "criteria": {
       "has_any_ingredient": "2023-09-14 17:40:34 +0000"
@@ -1592,6 +1629,12 @@
   "minecraft:recipes/building_blocks/raw_iron_block": {
     "criteria": {
       "has_raw_iron": "2023-09-14 18:33:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton": {
+    "criteria": {
+      "has_mutton": "2023-11-18 14:12:57 +0000"
     },
     "done": true
   },
@@ -1925,6 +1968,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/end_stone_brick_wall_from_end_stone_brick_stonecutting": {
+    "criteria": {
+      "has_end_stone_brick": "2023-11-18 11:26:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_nugget": {
     "criteria": {
       "has_gold_ingot": "2023-09-17 11:31:59 +0000"
@@ -2143,7 +2192,8 @@
   },
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
-      "minecraft:fox": "2023-11-15 19:20:42 +0000"
+      "minecraft:fox": "2023-11-15 19:20:42 +0000",
+      "minecraft:wolf": "2023-11-18 15:07:45 +0000"
     },
     "done": false
   },
@@ -2282,6 +2332,12 @@
   "minecraft:recipes/food/golden_apple": {
     "criteria": {
       "has_gold_ingot": "2023-09-17 11:31:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_blasting_raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2023-11-18 19:19:09 +0000"
     },
     "done": true
   },
@@ -2482,6 +2538,8 @@
       "barrel": "2023-09-17 11:24:37 +0000",
       "huntingpost": "2023-10-07 18:46:46 +0000",
       "fletchingtable": "2023-10-07 18:28:25 +0000",
+      "grindstone": "2023-11-18 15:18:25 +0000",
+      "gardeningtable": "2023-11-18 14:48:06 +0000",
       "smithingtable": "2023-10-07 18:49:07 +0000",
       "lectern": "2023-10-07 21:44:07 +0000",
       "stonecutter": "2023-10-07 16:34:30 +0000",
@@ -3444,6 +3502,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_mutton_from_campfire_cooking": {
+    "criteria": {
+      "has_mutton": "2023-11-18 14:12:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_polished_blackstone_stonecutting": {
     "criteria": {
       "has_polished_blackstone": "2023-09-15 18:06:53 +0000"
@@ -3464,9 +3528,10 @@
   },
   "create:wrench_goggles": {
     "criteria": {
-      "0": "2023-09-17 11:33:06 +0000"
+      "0": "2023-09-17 11:33:06 +0000",
+      "1": "2023-11-18 10:50:41 +0000"
     },
-    "done": false
+    "done": true
   },
   "create:recipes/create.base/crafting/kinetics/mechanical_crafter": {
     "criteria": {
@@ -3771,6 +3836,7 @@
   "morevillagers:all_villages": {
     "criteria": {
       "plains": "2023-09-15 21:31:40 +0000",
+      "savanna": "2023-11-18 15:14:10 +0000",
       "desert": "2023-10-07 17:32:43 +0000",
       "snowy": "2023-11-15 19:24:33 +0000"
     },
@@ -4025,6 +4091,12 @@
   "create:recipes/create.palettes/cut_diorite_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2023-09-14 16:01:06 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/milk_bottle": {
+    "criteria": {
+      "has_milk_bucket": "2023-11-18 14:53:32 +0000"
     },
     "done": true
   },
@@ -4295,6 +4367,12 @@
   "minecraft:recipes/building_blocks/polished_basalt_from_basalt_stonecutting": {
     "criteria": {
       "has_basalt": "2023-09-14 16:31:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_stairs": {
+    "criteria": {
+      "has_end_stone_bricks": "2023-11-18 11:26:24 +0000"
     },
     "done": true
   },
@@ -4828,6 +4906,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/end_stone_brick_wall": {
+    "criteria": {
+      "has_end_stone_bricks": "2023-11-18 11:26:24 +0000"
+    },
+    "done": true
+  },
   "storagedrawers:recipes/storagedrawers/max_redstone_upgrade": {
     "criteria": {
       "has_template": "2023-09-14 15:21:35 +0000"
@@ -5208,6 +5292,18 @@
   "create:recipes/create.palettes/cut_granite_bricks_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2023-09-15 23:36:47 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/cooking/hot_cocoa": {
+    "criteria": {
+      "has_any_ingredient": "2023-11-18 14:53:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/axolotl_in_a_bucket": {
+    "criteria": {
+      "axolotl_bucket": "2023-11-18 17:03:22 +0000"
     },
     "done": true
   },
@@ -5702,7 +5798,9 @@
       "cooked_porkchop": "2023-09-14 17:40:46 +0000",
       "cooked_mutton": "2023-09-14 15:24:50 +0000",
       "sweet_berries": "2023-11-15 19:35:03 +0000",
+      "baked_potato": "2023-11-18 12:03:04 +0000",
       "apple": "2023-11-13 12:49:52 +0000",
+      "potato": "2023-11-18 12:00:58 +0000",
       "golden_apple": "2023-09-17 19:31:17 +0000",
       "cooked_chicken": "2023-11-12 05:35:26 +0000",
       "enchanted_golden_apple": "2023-09-17 19:13:59 +0000",
@@ -6433,6 +6531,12 @@
   "minecraft:recipes/building_blocks/waxed_copper_block_from_honeycomb": {
     "criteria": {
       "has_copper_block": "2023-09-17 11:30:02 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/cooking/pasta_with_mutton_chop": {
+    "criteria": {
+      "has_any_ingredient": "2023-11-18 14:12:57 +0000"
     },
     "done": true
   },
