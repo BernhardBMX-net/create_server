@@ -1,15 +1,27 @@
-[19Nov.2023 00:05:04.512] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: The_ZYRO lost connection: Disconnected
-[19Nov.2023 00:05:04.513] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TZ] The_ZYRO left the game
-[19Nov.2023 00:05:04.513] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client [TZ] The_ZYRO
-[19Nov.2023 08:23:30.205] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
-[19Nov.2023 08:23:30.254] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
-[19Nov.2023 08:23:30.257] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
-[19Nov.2023 08:23:30.258] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
-[19Nov.2023 08:23:34.818] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[create_world]'/minecraft:overworld
-[19Nov.2023 08:23:35.137] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[create_world]'/minecraft:the_end
-[19Nov.2023 08:23:35.149] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[create_world]'/minecraft:the_nether
-[19Nov.2023 08:23:35.203] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (create_world): All chunks are saved
-[19Nov.2023 08:23:35.203] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[19Nov.2023 08:23:35.203] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[19Nov.2023 08:23:35.203] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
-[19Nov.2023 08:23:35.821] [Server thread/INFO] [FTB Chunks/]: Shutting down map thread
+[04Dez.2023 15:21:11.336] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@73d2d8f9[id=<null>,name=Puhmuckel,properties={},legacy=false] (/77.11.9.189:55153) lost connection: Disconnected
+[04Dez.2023 15:23:27.590] [User Authenticator #166/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Puhmuckel is cf79782d-9c92-410a-82f4-f1f6dd0ba56f
+[04Dez.2023 15:23:29.245] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@36eb23a
+[04Dez.2023 15:23:29.255] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Puhmuckel[/77.11.9.189:55433] logged in with entity id 6045483 at (-272.47394248834553, 72.0, 593.8554271947372)
+[04Dez.2023 15:23:29.258] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Grün] Puhmuckel joined the game
+[04Dez.2023 15:23:31.492] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2159ms or 43 ticks behind
+[04Dez.2023 15:23:31.606] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of [Grün] Puhmuckel (17)
+[04Dez.2023 15:23:31.606] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to [Grün] Puhmuckel
+[04Dez.2023 15:23:31.847] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player cf79782d-9c92-410a-82f4-f1f6dd0ba56f
+[04Dez.2023 15:23:32.884] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player cf79782d-9c92-410a-82f4-f1f6dd0ba56f
+[04Dez.2023 15:23:32.884] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player [Grün] Puhmuckel (cf79782d-9c92-410a-82f4-f1f6dd0ba56f) successfully connected to voice chat
+[04Dez.2023 16:06:43.294] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Puhmuckel lost connection: Disconnected
+[04Dez.2023 16:06:43.294] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Grün] Puhmuckel left the game
+[04Dez.2023 16:06:43.320] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client [Grün] Puhmuckel
+[04Dez.2023 17:23:56.938] [User Authenticator #167/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player BernhardBMX is b5b3d888-4807-436f-b529-3aa62274a8ac
+[04Dez.2023 17:23:58.704] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@7026e9a
+[04Dez.2023 17:23:58.710] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: BernhardBMX[/213.220.158.231:59849] logged in with entity id 6067639 at (-3215.641500027463, 59.0, 1710.864097528655)
+[04Dez.2023 17:23:58.712] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BernhardBMX joined the game
+[04Dez.2023 17:24:01.022] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2240ms or 44 ticks behind
+[04Dez.2023 17:24:02.617] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of [Endboss] BernhardBMX (17)
+[04Dez.2023 17:24:02.617] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to [Endboss] BernhardBMX
+[04Dez.2023 17:24:03.590] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player b5b3d888-4807-436f-b529-3aa62274a8ac
+[04Dez.2023 17:24:04.594] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player b5b3d888-4807-436f-b529-3aa62274a8ac
+[04Dez.2023 17:24:04.594] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player [Endboss] BernhardBMX (b5b3d888-4807-436f-b529-3aa62274a8ac) successfully connected to voice chat
+[04Dez.2023 17:51:16.492] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BernhardBMX lost connection: Disconnected
+[04Dez.2023 17:51:16.492] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Endboss] BernhardBMX left the game
+[04Dez.2023 17:51:16.493] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client [Endboss] BernhardBMX

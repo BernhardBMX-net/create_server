@@ -5916,6 +5916,12 @@
     },
     "done": true
   },
+  "create:train_whistle": {
+    "criteria": {
+      "0": "2023-11-19 11:09:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:snowy_slopes": "2023-05-27 18:16:47 +0000",

@@ -1,4 +1,10 @@
 {
+  "minecraft:recipes/building_blocks/weathered_cut_copper_stairs_from_weathered_copper_stonecutting": {
+    "criteria": {
+      "has_weathered_copper": "2023-11-19 12:03:04 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.base/blasting/zinc_ingot_from_raw_ore": {
     "criteria": {
       "has_item": "2023-09-03 10:17:53 +0000"
@@ -83,9 +89,21 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/cooked_mutton_chops_from_smoking": {
+    "criteria": {
+      "cooked_mutton_chops": "2023-11-19 12:49:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_helmet": {
     "criteria": {
       "has_leather": "2023-09-03 14:08:23 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/place_cooking_pot": {
+    "criteria": {
+      "cooking_pot": "2023-11-19 12:51:28 +0000"
     },
     "done": true
   },
@@ -257,6 +275,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/bacon_and_eggs": {
+    "criteria": {
+      "has_bacon": "2023-11-19 13:31:38 +0000"
+    },
+    "done": true
+  },
   "create:brass": {
     "criteria": {
       "0": "2023-11-16 21:36:31 +0000"
@@ -272,6 +296,12 @@
   "minecraft:recipes/redstone/hopper": {
     "criteria": {
       "has_iron_ingot": "2023-08-15 16:29:17 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/polished_cut_veridium_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2023-11-19 12:29:30 +0000"
     },
     "done": true
   },
@@ -314,6 +344,12 @@
   "create:recipes/create.palettes/cut_tuff_slab_from_stone_types_tuff_stonecutting": {
     "criteria": {
       "has_stone_types_tuff": "2023-09-01 13:52:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oxidized_cut_copper_stairs_from_oxidized_copper_stonecutting": {
+    "criteria": {
+      "has_oxidized_copper": "2023-11-19 14:19:27 +0000"
     },
     "done": true
   },
@@ -569,6 +605,12 @@
     },
     "done": true
   },
+  "farmersdelight:main/place_skillet": {
+    "criteria": {
+      "skillet": "2023-11-19 12:48:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/fletching_table": {
     "criteria": {
       "has_flint": "2023-08-15 16:37:07 +0000"
@@ -602,6 +644,12 @@
   "minecraft:recipes/misc/iron_nugget_from_smelting": {
     "criteria": {
       "has_iron_shovel": "2023-08-15 17:09:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_weathered_copper_from_honeycomb": {
+    "criteria": {
+      "has_weathered_copper": "2023-11-19 12:03:04 +0000"
     },
     "done": true
   },
@@ -803,6 +851,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/cut_veridium_brick_slab_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2023-11-19 12:29:30 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/cut_granite_brick_slab_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2023-09-01 13:26:04 +0000"
@@ -872,6 +926,12 @@
   "minecraft:recipes/redstone/birch_button": {
     "criteria": {
       "has_planks": "2023-08-15 16:58:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_bed": {
+    "criteria": {
+      "has_light_gray_wool": "2023-11-19 12:23:58 +0000"
     },
     "done": true
   },
@@ -1028,6 +1088,12 @@
   "minecraft:recipes/building_blocks/birch_planks": {
     "criteria": {
       "has_logs": "2023-08-15 16:53:13 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/small_veridium_bricks_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2023-11-19 12:29:30 +0000"
     },
     "done": true
   },
@@ -1211,6 +1277,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/nether_salad": {
+    "criteria": {
+      "has_bowl": "2023-11-19 12:55:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/stone_sword": {
     "criteria": {
       "has_cobblestone": "2023-08-15 16:20:58 +0000"
@@ -1220,6 +1292,12 @@
   "minecraft:recipes/decorations/cobblestone_wall": {
     "criteria": {
       "has_cobblestone": "2023-08-15 16:20:58 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/cut_veridium_bricks_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2023-11-19 12:29:30 +0000"
     },
     "done": true
   },
@@ -1385,6 +1463,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/waxed_oxidized_copper_from_honeycomb": {
+    "criteria": {
+      "has_oxidized_copper": "2023-11-19 14:19:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/explore_nether": {
     "criteria": {
       "minecraft:crimson_forest": "2023-08-15 16:14:09 +0000",
@@ -1490,9 +1574,21 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/cut_veridium_slab_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2023-11-19 12:29:30 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/kinetics/hose_pulley": {
     "criteria": {
       "has_item": "2023-09-02 13:47:08 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/small_veridium_brick_wall_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2023-11-19 12:29:30 +0000"
     },
     "done": true
   },
@@ -1622,6 +1718,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/cooked_mutton_chops": {
+    "criteria": {
+      "cooked_mutton_chops": "2023-11-19 12:49:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_tile_slab_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2023-09-01 13:33:01 +0000"
@@ -1709,6 +1811,12 @@
   "storagedrawers:recipes/storagedrawers/warped_drawers": {
     "criteria": {
       "has_chest": "2023-08-31 12:28:36 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/cut_veridium_brick_wall_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2023-11-19 12:29:30 +0000"
     },
     "done": true
   },
@@ -1934,6 +2042,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/oxidized_cut_copper": {
+    "criteria": {
+      "has_oxidized_copper": "2023-11-19 14:19:27 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/cut_deepslate_slab_from_stone_types_deepslate_stonecutting": {
     "criteria": {
       "has_stone_types_deepslate": "2023-11-17 19:10:23 +0000"
@@ -1955,6 +2069,12 @@
   "minecraft:recipes/decorations/diorite_wall_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2023-09-01 13:32:02 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/hamburger": {
+    "criteria": {
+      "has_beef_patty": "2023-11-19 13:31:36 +0000"
     },
     "done": true
   },
@@ -2138,6 +2258,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_the_recipe": "2023-11-19 12:55:37 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/cut_crimsite_brick_slab_from_stone_types_crimsite_stonecutting": {
     "criteria": {
       "has_stone_types_crimsite": "2023-09-01 13:54:15 +0000"
@@ -2234,6 +2360,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/mixed_salad": {
+    "criteria": {
+      "has_bowl": "2023-11-19 12:55:37 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.base/smelting/zinc_ingot_from_crushed": {
     "criteria": {
       "has_item": "2023-11-17 19:30:50 +0000"
@@ -2321,6 +2453,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/oxidized_cut_copper_from_oxidized_copper_stonecutting": {
+    "criteria": {
+      "has_oxidized_copper": "2023-11-19 14:19:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/birch_fence": {
     "criteria": {
       "has_planks": "2023-08-15 16:58:10 +0000"
@@ -2360,6 +2498,12 @@
   "create:recipes/create.palettes/layered_dripstone_from_stone_types_dripstone_stonecutting": {
     "criteria": {
       "has_stone_types_dripstone": "2023-09-01 13:50:41 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/use_cutting_board": {
+    "criteria": {
+      "cutting_board": "2023-11-19 12:49:52 +0000"
     },
     "done": true
   },
@@ -2495,6 +2639,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/veridium_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2023-11-19 12:29:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/arrow": {
     "criteria": {
       "has_flint": "2023-08-15 16:37:07 +0000"
@@ -2627,6 +2777,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/beef_patty_from_smoking": {
+    "criteria": {
+      "beef_patty": "2023-11-19 12:54:31 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/polished_cut_deepslate_wall_from_stone_types_deepslate_stonecutting": {
     "criteria": {
       "has_stone_types_deepslate": "2023-11-17 19:10:23 +0000"
@@ -2711,6 +2867,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/small_veridium_brick_slab_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2023-11-19 12:29:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_chestplate": {
     "criteria": {
       "has_leather": "2023-09-03 14:08:23 +0000"
@@ -2726,6 +2888,12 @@
   "create:recipes/create.base/crafting/appliances/crafting_blueprint": {
     "criteria": {
       "has_item": "2023-08-15 16:54:00 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/bacon_sandwich": {
+    "criteria": {
+      "has_bacon": "2023-11-19 13:31:38 +0000"
     },
     "done": true
   },
@@ -4013,6 +4181,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/polished_cut_veridium_stairs_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2023-11-19 12:29:30 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/cut_asurine_stairs_from_stone_types_asurine_stonecutting": {
     "criteria": {
       "has_stone_types_asurine": "2023-11-18 18:59:35 +0000"
@@ -4091,6 +4265,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/weathered_cut_copper_from_weathered_copper_stonecutting": {
+    "criteria": {
+      "has_weathered_copper": "2023-11-19 12:03:04 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/cut_scorchia_from_stone_types_scorchia_stonecutting": {
     "criteria": {
       "has_stone_types_scorchia": "2023-08-15 16:20:39 +0000"
@@ -4154,6 +4334,12 @@
   "minecraft:recipes/building_blocks/stripped_dark_oak_wood": {
     "criteria": {
       "has_log": "2023-08-31 12:30:38 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/cooked_bacon_from_smoking": {
+    "criteria": {
+      "cooked_bacon": "2023-11-19 12:54:02 +0000"
     },
     "done": true
   },
@@ -4295,6 +4481,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/beef_patty": {
+    "criteria": {
+      "beef_patty": "2023-11-19 12:54:31 +0000"
+    },
+    "done": true
+  },
   "storagedrawers:recipes/storagedrawers/max_redstone_upgrade": {
     "criteria": {
       "has_template": "2023-08-15 16:14:23 +0000"
@@ -4304,6 +4496,12 @@
   "minecraft:recipes/building_blocks/gray_concrete_powder": {
     "criteria": {
       "has_gravel": "2023-08-15 16:20:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_banner": {
+    "criteria": {
+      "has_light_gray_wool": "2023-11-19 12:23:58 +0000"
     },
     "done": true
   },
@@ -4611,9 +4809,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/light_gray_carpet": {
+    "criteria": {
+      "has_light_gray_wool": "2023-11-19 12:23:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/barrel": {
     "criteria": {
       "has_planks": "2023-08-15 16:58:10 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/beef_patty_from_campfire_cooking": {
+    "criteria": {
+      "beef_patty": "2023-11-19 12:54:31 +0000"
     },
     "done": true
   },
@@ -4683,6 +4893,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/layered_veridium_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2023-11-19 12:29:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/diamond_block": {
     "criteria": {
       "has_diamond": "2023-09-01 13:54:58 +0000"
@@ -4701,6 +4917,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/small_veridium_brick_stairs_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2023-11-19 12:29:30 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/polished_cut_granite_stairs_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2023-09-01 13:26:04 +0000"
@@ -4710,6 +4932,12 @@
   "minecraft:recipes/decorations/flower_pot": {
     "criteria": {
       "has_brick": "2023-08-15 17:14:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/weathered_cut_copper_slab_from_weathered_copper_stonecutting": {
+    "criteria": {
+      "has_weathered_copper": "2023-11-19 12:03:04 +0000"
     },
     "done": true
   },
@@ -4743,6 +4971,12 @@
     },
     "done": true
   },
+  "farmersdelight:main/craft_knife": {
+    "criteria": {
+      "diamond_knife": "2023-11-19 12:49:11 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/kinetics/belt_connector": {
     "criteria": {
       "has_item": "2023-09-10 10:30:13 +0000"
@@ -4764,6 +4998,12 @@
   "create:recipes/misc/smelting/copper_ingot_from_crushed": {
     "criteria": {
       "has_item": "2023-11-18 10:56:19 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/cut_veridium_stairs_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2023-11-19 12:29:30 +0000"
     },
     "done": true
   },
@@ -4905,6 +5145,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/cooked_bacon_from_campfire_cooking": {
+    "criteria": {
+      "cooked_bacon": "2023-11-19 12:54:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_bed": {
     "criteria": {
       "has_white_wool": "2023-08-31 12:30:00 +0000"
@@ -4926,6 +5172,12 @@
   "create:recipes/create.palettes/polished_cut_crimsite_wall_from_stone_types_crimsite_stonecutting": {
     "criteria": {
       "has_stone_types_crimsite": "2023-09-01 13:54:15 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/polished_cut_veridium_wall_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2023-11-19 12:29:30 +0000"
     },
     "done": true
   },
@@ -5079,6 +5331,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_bowl": "2023-11-19 12:55:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/gray_wool": {
     "criteria": {
       "has_white_wool": "2023-08-31 12:30:00 +0000"
@@ -5136,6 +5394,12 @@
   "create:recipes/create.palettes/andesite_bars_from_andesite_alloy_stonecutting": {
     "criteria": {
       "has_andesite_alloy": "2023-09-10 10:30:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oxidized_cut_copper_slab_from_oxidized_copper_stonecutting": {
+    "criteria": {
+      "has_oxidized_copper": "2023-11-19 14:19:27 +0000"
     },
     "done": true
   },
@@ -5283,6 +5547,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/materials/zinc_ingot_from_decompacting": {
+    "criteria": {
+      "has_item": "2023-11-19 17:17:51 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/kinetics/rope_pulley": {
     "criteria": {
       "has_item": "2023-09-10 10:30:13 +0000"
@@ -5364,6 +5634,12 @@
   "minecraft:recipes/building_blocks/cut_copper_from_copper_block_stonecutting": {
     "criteria": {
       "has_copper_block": "2023-09-03 12:09:16 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/veridium_pillar_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2023-11-19 12:29:30 +0000"
     },
     "done": true
   },
@@ -5631,6 +5907,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/cut_veridium_brick_stairs_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2023-11-19 12:29:30 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/logistics/stockpile_switch": {
     "criteria": {
       "has_item": "2023-11-16 21:42:34 +0000"
@@ -5755,9 +6037,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/weathered_cut_copper": {
+    "criteria": {
+      "has_weathered_copper": "2023-11-19 12:03:04 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/cooked_bacon": {
+    "criteria": {
+      "cooked_bacon": "2023-11-19 12:54:02 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/kinetics/crafter_slot_cover": {
     "criteria": {
       "has_item": "2023-11-17 16:31:37 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/cut_veridium_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2023-11-19 12:29:30 +0000"
     },
     "done": true
   },
@@ -5872,6 +6172,12 @@
   "create:recipes/create.palettes/polished_cut_calcite_from_stone_types_calcite_stonecutting": {
     "criteria": {
       "has_stone_types_calcite": "2023-09-01 13:45:17 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/polished_cut_veridium_slab_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2023-11-19 12:29:30 +0000"
     },
     "done": true
   },
@@ -6229,6 +6535,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/cut_veridium_wall_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2023-11-19 12:29:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/enter_the_end": {
     "criteria": {
       "entered_end": "2023-11-12 18:56:49 +0000"
@@ -6256,6 +6568,12 @@
   "minecraft:recipes/redstone/jungle_fence_gate": {
     "criteria": {
       "has_planks": "2023-11-12 15:06:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/mojang_banner_pattern": {
+    "criteria": {
+      "has_enchanted_golden_apple": "2023-11-19 17:46:48 +0000"
     },
     "done": true
   },
@@ -6370,6 +6688,12 @@
   "create:recipes/create.palettes/layered_asurine_from_stone_types_asurine_stonecutting": {
     "criteria": {
       "has_stone_types_asurine": "2023-11-18 18:59:35 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/cooked_mutton_chops_from_campfire_cooking": {
+    "criteria": {
+      "cooked_mutton_chops": "2023-11-19 12:49:52 +0000"
     },
     "done": true
   },

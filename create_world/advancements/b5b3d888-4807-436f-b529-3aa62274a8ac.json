@@ -281,9 +281,21 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/cut_crimsite_brick_wall_from_stone_types_crimsite_stonecutting": {
+    "criteria": {
+      "has_stone_types_crimsite": "2023-11-22 14:57:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dark_oak_door": {
     "criteria": {
       "has_planks": "2023-10-07 09:18:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_stairs": {
+    "criteria": {
+      "has_sandstone": "2023-11-25 21:06:22 +0000"
     },
     "done": true
   },
@@ -443,6 +455,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/sandstone_slab": {
+    "criteria": {
+      "has_sandstone": "2023-11-25 21:06:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/smooth_basalt": {
     "criteria": {
       "has_basalt": "2023-05-25 13:36:42 +0000"
@@ -494,6 +512,12 @@
   "minecraft:recipes/building_blocks/blue_wool": {
     "criteria": {
       "has_white_wool": "2023-05-23 17:54:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_brick_wall_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2023-11-25 16:40:30 +0000"
     },
     "done": true
   },
@@ -569,6 +593,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_deepslate_tiles_stonecutting": {
+    "criteria": {
+      "has_deepslate_tiles": "2023-11-28 16:50:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_leggings": {
     "criteria": {
       "has_diamond": "2023-05-24 18:18:57 +0000"
@@ -602,6 +632,12 @@
   "minecraft:recipes/building_blocks/netherite_block": {
     "criteria": {
       "has_netherite_ingot": "2023-06-02 19:47:30 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/smelting/gold_ingot_from_crushed": {
+    "criteria": {
+      "has_item": "2023-11-22 15:04:31 +0000"
     },
     "done": true
   },
@@ -701,6 +737,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/deepslate_tile_slab_from_deepslate_tiles_stonecutting": {
+    "criteria": {
+      "has_deepslate_tiles": "2023-11-28 16:50:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/lightning_rod_with_villager_no_fire": {
     "criteria": {
       "lightning_rod_with_villager_no_fire": "2023-08-22 12:31:46 +0000"
@@ -746,6 +788,12 @@
   "minecraft:recipes/decorations/stone_brick_wall": {
     "criteria": {
       "has_stone_bricks": "2023-05-25 17:39:12 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/place_skillet": {
+    "criteria": {
+      "skillet": "2023-11-20 14:37:37 +0000"
     },
     "done": true
   },
@@ -835,7 +883,8 @@
   },
   "morevillagers:all_professions_traded": {
     "criteria": {
-      "enderian": "2023-08-14 09:05:09 +0000"
+      "enderian": "2023-08-14 09:05:09 +0000",
+      "librarian": "2023-11-20 14:30:27 +0000"
     },
     "done": false
   },
@@ -1103,6 +1152,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/layered_crimsite_from_stone_types_crimsite_stonecutting": {
+    "criteria": {
+      "has_stone_types_crimsite": "2023-11-22 14:57:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/create_beacon": {
     "criteria": {
       "beacon": "2023-11-13 16:33:00 +0000"
@@ -1328,6 +1383,12 @@
   "create:recipes/create.palettes/crafting/kinetics/black_seat_from_other_seat": {
     "criteria": {
       "has_seat": "2023-09-15 16:05:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2023-11-25 16:40:30 +0000"
     },
     "done": true
   },
@@ -1577,6 +1638,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/appliances/schedule_clear": {
+    "criteria": {
+      "has_item": "2023-11-19 10:05:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/stone_sword": {
     "criteria": {
       "has_cobblestone": "2023-05-23 17:55:09 +0000"
@@ -1643,6 +1710,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/deepslate_tile_wall_from_deepslate_tiles_stonecutting": {
+    "criteria": {
+      "has_deepslate_tiles": "2023-11-28 16:50:52 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/brass_bars_from_ingots_brass_stonecutting": {
     "criteria": {
       "has_ingots_brass": "2023-05-31 18:11:44 +0000"
@@ -1664,6 +1737,12 @@
   "minecraft:recipes/misc/purple_dye": {
     "criteria": {
       "has_red_dye": "2023-05-30 18:09:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_brick_wall": {
+    "criteria": {
+      "has_deepslate_bricks": "2023-11-25 16:40:30 +0000"
     },
     "done": true
   },
@@ -1736,6 +1815,12 @@
   "create:recipes/create.palettes/small_calcite_brick_stairs_from_stone_types_calcite_stonecutting": {
     "criteria": {
       "has_stone_types_calcite": "2023-06-05 17:28:24 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/cut_crimsite_wall_from_stone_types_crimsite_stonecutting": {
+    "criteria": {
+      "has_stone_types_crimsite": "2023-11-22 14:57:32 +0000"
     },
     "done": true
   },
@@ -1917,6 +2002,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/deepslate_tile_stairs": {
+    "criteria": {
+      "has_deepslate_tiles": "2023-11-28 16:50:52 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/cut_granite_brick_stairs_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2023-05-24 15:29:30 +0000"
@@ -2019,6 +2110,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cut_sandstone_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2023-11-25 21:06:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/root": {
     "criteria": {
       "entered_nether": "2023-05-25 13:28:07 +0000"
@@ -2040,6 +2137,18 @@
   "create:recipes/create.palettes/polished_cut_asurine_stairs_from_stone_types_asurine_stonecutting": {
     "criteria": {
       "has_stone_types_asurine": "2023-09-15 16:56:36 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/small_crimsite_brick_stairs_from_stone_types_crimsite_stonecutting": {
+    "criteria": {
+      "has_stone_types_crimsite": "2023-11-22 14:57:32 +0000"
+    },
+    "done": true
+  },
+  "create:extendo_grip": {
+    "criteria": {
+      "0": "2023-11-20 14:39:14 +0000"
     },
     "done": true
   },
@@ -2265,6 +2374,12 @@
     },
     "done": true
   },
+  "create:display_link": {
+    "criteria": {
+      "0": "2023-11-19 09:40:48 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/netherite_knife_smithing": {
     "criteria": {
       "has_netherite_ingot": "2023-06-02 19:47:30 +0000"
@@ -2325,6 +2440,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/cut_crimsite_brick_stairs_from_stone_types_crimsite_stonecutting": {
+    "criteria": {
+      "has_stone_types_crimsite": "2023-11-22 14:57:32 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/polished_cut_asurine_from_stone_types_asurine_stonecutting": {
     "criteria": {
       "has_stone_types_asurine": "2023-09-15 16:56:36 +0000"
@@ -2346,6 +2467,12 @@
   "create:recipes/create.palettes/cut_asurine_wall_from_stone_types_asurine_stonecutting": {
     "criteria": {
       "has_stone_types_asurine": "2023-09-15 16:56:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_sandstone_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2023-11-25 21:06:22 +0000"
     },
     "done": true
   },
@@ -2487,6 +2614,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_sandstone": {
+    "criteria": {
+      "has_sandstone": "2023-11-25 21:06:22 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/cut_deepslate_slab_from_stone_types_deepslate_stonecutting": {
     "criteria": {
       "has_stone_types_deepslate": "2023-09-15 15:48:10 +0000"
@@ -2519,6 +2652,12 @@
   "minecraft:recipes/decorations/orange_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2023-05-24 14:54:42 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/crimsite_from_stone_types_crimsite_stonecutting": {
+    "criteria": {
+      "has_stone_types_crimsite": "2023-11-22 14:57:32 +0000"
     },
     "done": true
   },
@@ -2732,9 +2871,21 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/small_crimsite_bricks_from_stone_types_crimsite_stonecutting": {
+    "criteria": {
+      "has_stone_types_crimsite": "2023-11-22 14:57:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
     "criteria": {
       "has_salmon": "2023-05-24 14:56:05 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/cut_crimsite_brick_slab_from_stone_types_crimsite_stonecutting": {
+    "criteria": {
+      "has_stone_types_crimsite": "2023-11-22 14:57:32 +0000"
     },
     "done": true
   },
@@ -2864,6 +3015,7 @@
       "smithingtable": "2023-06-02 19:51:51 +0000",
       "lectern": "2023-09-25 18:03:03 +0000",
       "stonecutter": "2023-05-26 12:57:20 +0000",
+      "cauldron": "2023-11-25 16:39:54 +0000",
       "purpuraltar": "2023-08-14 07:57:30 +0000"
     },
     "done": false
@@ -2883,6 +3035,12 @@
   "create:recipes/create.palettes/polished_cut_granite_slab_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2023-05-24 15:29:30 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/crimsite_pillar_from_stone_types_crimsite_stonecutting": {
+    "criteria": {
+      "has_stone_types_crimsite": "2023-11-22 14:57:32 +0000"
     },
     "done": true
   },
@@ -2955,6 +3113,12 @@
   "minecraft:recipes/decorations/blue_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2023-05-24 14:54:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/sandstone_wall_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2023-11-25 21:06:22 +0000"
     },
     "done": true
   },
@@ -3306,6 +3470,12 @@
     },
     "done": true
   },
+  "morevillagers:master_trade": {
+    "criteria": {
+      "villagertrade": "2023-12-02 11:09:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/mangrove_trapdoor": {
     "criteria": {
       "has_planks": "2023-08-14 18:06:15 +0000"
@@ -3324,6 +3494,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/crimson_planks": {
+    "criteria": {
+      "has_logs": "2023-11-25 16:33:09 +0000"
+    },
+    "done": true
+  },
   "create:chute": {
     "criteria": {
       "0": "2023-11-11 18:22:28 +0000"
@@ -3333,6 +3509,18 @@
   "minecraft:recipes/combat/golden_helmet": {
     "criteria": {
       "has_gold_ingot": "2023-05-25 16:45:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_slab_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2023-11-25 21:06:22 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/cut_crimsite_stairs_from_stone_types_crimsite_stonecutting": {
+    "criteria": {
+      "has_stone_types_crimsite": "2023-11-22 14:57:32 +0000"
     },
     "done": true
   },
@@ -3363,6 +3551,12 @@
   "create:recipes/create.palettes/polished_cut_deepslate_wall_from_stone_types_deepslate_stonecutting": {
     "criteria": {
       "has_stone_types_deepslate": "2023-09-15 15:48:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone": {
+    "criteria": {
+      "has_sandstone": "2023-11-25 21:06:22 +0000"
     },
     "done": true
   },
@@ -3438,9 +3632,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/sandstone_slab_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2023-11-25 21:06:22 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/kinetics/copper_valve_handle": {
     "criteria": {
       "has_item": "2023-05-31 18:02:42 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/small_crimsite_brick_slab_from_stone_types_crimsite_stonecutting": {
+    "criteria": {
+      "has_stone_types_crimsite": "2023-11-22 14:57:32 +0000"
     },
     "done": true
   },
@@ -3531,6 +3737,12 @@
   "create:recipes/create.palettes/small_scorchia_brick_wall_from_stone_types_scorchia_stonecutting": {
     "criteria": {
       "has_stone_types_scorchia": "2023-05-25 18:33:34 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/cut_crimsite_bricks_from_stone_types_crimsite_stonecutting": {
+    "criteria": {
+      "has_stone_types_crimsite": "2023-11-22 14:57:32 +0000"
     },
     "done": true
   },
@@ -3645,6 +3857,12 @@
   "minecraft:recipes/redstone/oak_door": {
     "criteria": {
       "has_planks": "2023-05-25 17:37:34 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/cut_crimsite_slab_from_stone_types_crimsite_stonecutting": {
+    "criteria": {
+      "has_stone_types_crimsite": "2023-11-22 14:57:32 +0000"
     },
     "done": true
   },
@@ -3894,6 +4112,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/deepslate_brick_stairs": {
+    "criteria": {
+      "has_deepslate_bricks": "2023-11-25 16:40:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/pink_stained_glass": {
     "criteria": {
       "has_glass": "2023-06-03 08:59:26 +0000"
@@ -4066,6 +4290,12 @@
   "create:recipes/create.palettes/polished_cut_diorite_wall_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2023-05-24 17:06:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/crimson_hyphae": {
+    "criteria": {
+      "has_log": "2023-11-25 16:33:09 +0000"
     },
     "done": true
   },
@@ -4346,6 +4576,18 @@
     },
     "done": true
   },
+  "create:recipes/misc/blasting/gold_ingot_from_crushed": {
+    "criteria": {
+      "has_item": "2023-11-22 15:04:31 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/small_crimsite_brick_wall_from_stone_types_crimsite_stonecutting": {
+    "criteria": {
+      "has_stone_types_crimsite": "2023-11-22 14:57:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/purpur_pillar_from_purpur_block_stonecutting": {
     "criteria": {
       "has_purpur_block": "2023-08-14 07:40:29 +0000"
@@ -4451,6 +4693,12 @@
   "create:recipes/transportation/crafting/kinetics/minecart_from_contraption_cart": {
     "criteria": {
       "has_item": "2023-09-14 14:01:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tiles_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2023-11-25 16:40:30 +0000"
     },
     "done": true
   },
@@ -4742,6 +4990,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/kinetics/controller_rail": {
+    "criteria": {
+      "has_item": "2023-11-21 15:44:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite_slab_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2023-05-24 17:04:47 +0000"
@@ -4835,6 +5089,12 @@
   "minecraft:recipes/building_blocks/end_stone_brick_stairs": {
     "criteria": {
       "has_end_stone_bricks": "2023-05-25 18:23:23 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/polished_cut_crimsite_stairs_from_stone_types_crimsite_stonecutting": {
+    "criteria": {
+      "has_stone_types_crimsite": "2023-11-22 14:57:32 +0000"
     },
     "done": true
   },
@@ -5018,6 +5278,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/deepslate_brick_slab": {
+    "criteria": {
+      "has_deepslate_bricks": "2023-11-25 16:40:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/voluntary_exile": {
     "criteria": {
       "voluntary_exile": "2023-08-15 17:16:47 +0000"
@@ -5189,6 +5455,12 @@
   "minecraft:recipes/misc/coal_from_blasting_coal_ore": {
     "criteria": {
       "has_coal_ore": "2023-08-16 11:04:12 +0000"
+    },
+    "done": true
+  },
+  "create:display_board_0": {
+    "criteria": {
+      "0": "2023-11-19 12:00:50 +0000"
     },
     "done": true
   },
@@ -5498,6 +5770,18 @@
     },
     "done": true
   },
+  "minecraft:husbandry/obtain_netherite_hoe": {
+    "criteria": {
+      "netherite_hoe": "2023-11-21 15:41:37 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/polished_cut_crimsite_slab_from_stone_types_crimsite_stonecutting": {
+    "criteria": {
+      "has_stone_types_crimsite": "2023-11-22 14:57:32 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/crafting/kinetics/magenta_seat": {
     "criteria": {
       "has_wool": "2023-05-23 17:54:21 +0000"
@@ -5534,6 +5818,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/deepslate_tile_wall_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2023-11-25 16:40:30 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/crafting/kinetics/magenta_seat_from_other_seat": {
     "criteria": {
       "has_seat": "2023-09-15 16:05:45 +0000"
@@ -5555,6 +5845,12 @@
   "minecraft:recipes/redstone/tripwire_hook": {
     "criteria": {
       "has_string": "2023-05-25 17:37:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_tile_wall": {
+    "criteria": {
+      "has_deepslate_tiles": "2023-11-28 16:50:52 +0000"
     },
     "done": true
   },
@@ -5603,6 +5899,12 @@
   "minecraft:recipes/decorations/orange_carpet_from_white_carpet": {
     "criteria": {
       "has_white_carpet": "2023-05-30 15:24:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_stairs_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2023-11-25 21:06:22 +0000"
     },
     "done": true
   },
@@ -5666,9 +5968,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/deepslate_tile_slab": {
+    "criteria": {
+      "has_deepslate_tiles": "2023-11-28 16:50:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_diorite_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2023-05-24 17:06:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_deepslate_bricks": {
+    "criteria": {
+      "has_deepslate_bricks": "2023-11-25 16:40:30 +0000"
     },
     "done": true
   },
@@ -5768,6 +6082,12 @@
     },
     "done": true
   },
+  "create:train_whistle": {
+    "criteria": {
+      "0": "2023-11-19 10:51:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:snowy_slopes": "2023-11-12 16:41:45 +0000",
@@ -5797,6 +6117,7 @@
       "minecraft:forest": "2023-05-24 14:57:48 +0000",
       "minecraft:lush_caves": "2023-05-24 16:21:40 +0000",
       "minecraft:deep_cold_ocean": "2023-05-26 12:32:28 +0000",
+      "minecraft:ice_spikes": "2023-11-20 15:44:17 +0000",
       "minecraft:frozen_ocean": "2023-05-24 16:47:04 +0000",
       "minecraft:desert": "2023-11-12 16:58:28 +0000",
       "minecraft:deep_frozen_ocean": "2023-05-26 12:34:43 +0000",
@@ -5990,6 +6311,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/raw_iron": {
+    "criteria": {
+      "has_raw_iron_block": "2023-11-25 10:01:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stripped_oak_wood": {
     "criteria": {
       "has_log": "2023-08-15 13:01:32 +0000"
@@ -6026,6 +6353,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/deepslate_tile_slab_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2023-11-25 16:40:30 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/deepslate_from_stone_types_deepslate_stonecutting": {
     "criteria": {
       "has_stone_types_deepslate": "2023-09-15 15:48:10 +0000"
@@ -6053,6 +6386,12 @@
   "create:recipes/create.palettes/cut_tuff_wall_from_stone_types_tuff_stonecutting": {
     "criteria": {
       "has_stone_types_tuff": "2023-09-17 09:47:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/sandstone_wall": {
+    "criteria": {
+      "has_sandstone": "2023-11-25 21:06:22 +0000"
     },
     "done": true
   },
@@ -6224,6 +6563,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/polished_cut_crimsite_wall_from_stone_types_crimsite_stonecutting": {
+    "criteria": {
+      "has_stone_types_crimsite": "2023-11-22 14:57:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/birch_pressure_plate": {
     "criteria": {
       "has_planks": "2023-05-23 17:54:03 +0000"
@@ -6335,6 +6680,12 @@
   "storagedrawers:recipes/storagedrawers/crimson_drawers": {
     "criteria": {
       "has_chest": "2023-05-24 16:59:13 +0000"
+    },
+    "done": true
+  },
+  "create:conductor": {
+    "criteria": {
+      "0": "2023-11-19 11:18:47 +0000"
     },
     "done": true
   },
@@ -6461,6 +6812,12 @@
   "create:recipes/create.palettes/crafting/kinetics/green_seat_from_other_seat": {
     "criteria": {
       "has_seat": "2023-09-15 16:05:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tiles": {
+    "criteria": {
+      "has_deepslate_bricks": "2023-11-25 16:40:30 +0000"
     },
     "done": true
   },
@@ -6622,6 +6979,12 @@
   "minecraft:recipes/building_blocks/polished_diorite_slab_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2023-05-24 17:06:04 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/polished_cut_crimsite_from_stone_types_crimsite_stonecutting": {
+    "criteria": {
+      "has_stone_types_crimsite": "2023-11-22 14:57:32 +0000"
     },
     "done": true
   },
@@ -7159,6 +7522,12 @@
     },
     "done": true
   },
+  "create:long_train": {
+    "criteria": {
+      "0": "2023-11-19 12:44:08 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/kinetics/fluid_pipe_vertical": {
     "criteria": {
       "has_item": "2023-05-31 18:02:42 +0000"
@@ -7177,8 +7546,15 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2023-11-25 16:40:30 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
+      "glow_berries": "2023-11-22 14:42:23 +0000",
       "sweet_berries": "2023-05-24 16:57:59 +0000",
       "kelp": "2023-05-24 16:58:39 +0000",
       "beetroot": "2023-05-29 17:10:39 +0000",
@@ -7639,6 +8015,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/cut_crimsite_from_stone_types_crimsite_stonecutting": {
+    "criteria": {
+      "has_stone_types_crimsite": "2023-11-22 14:57:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_button": {
     "criteria": {
       "has_planks": "2023-05-25 17:37:34 +0000"
@@ -7768,6 +8150,12 @@
   "minecraft:recipes/building_blocks/blackstone_stairs_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2023-05-25 18:34:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_deepslate_tiles": {
+    "criteria": {
+      "has_deepslate_tiles": "2023-11-28 16:50:52 +0000"
     },
     "done": true
   },
@@ -7972,6 +8360,12 @@
   "minecraft:recipes/transportation/rail": {
     "criteria": {
       "has_minecart": "2023-10-07 08:40:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_slab_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2023-11-25 16:40:30 +0000"
     },
     "done": true
   },

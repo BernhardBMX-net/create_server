@@ -215,6 +215,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/detector_rail": {
+    "criteria": {
+      "has_rail": "2023-11-19 14:16:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_planks": {
+    "criteria": {
+      "has_log": "2023-11-25 22:09:30 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/cut_dripstone_wall_from_stone_types_dripstone_stonecutting": {
     "criteria": {
       "has_stone_types_dripstone": "2023-06-02 15:11:44 +0000"
@@ -230,6 +242,12 @@
   "create:recipes/create.palettes/cut_crimsite_brick_wall_from_stone_types_crimsite_stonecutting": {
     "criteria": {
       "has_stone_types_crimsite": "2023-05-24 16:40:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_stairs": {
+    "criteria": {
+      "has_sandstone": "2023-11-25 21:05:47 +0000"
     },
     "done": true
   },
@@ -362,6 +380,12 @@
   "minecraft:recipes/building_blocks/pink_concrete_powder": {
     "criteria": {
       "has_gravel": "2023-05-25 17:58:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_slab": {
+    "criteria": {
+      "has_sandstone": "2023-11-25 21:05:47 +0000"
     },
     "done": true
   },
@@ -542,6 +566,12 @@
   "minecraft:recipes/transportation/dark_oak_chest_boat": {
     "criteria": {
       "has_boat": "2023-05-24 17:12:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_bed": {
+    "criteria": {
+      "has_black_wool": "2023-11-19 14:20:04 +0000"
     },
     "done": true
   },
@@ -932,6 +962,12 @@
   "minecraft:recipes/redstone/birch_button": {
     "criteria": {
       "has_planks": "2023-05-24 18:43:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_bed": {
+    "criteria": {
+      "has_light_gray_wool": "2023-11-28 15:36:37 +0000"
     },
     "done": true
   },
@@ -1491,10 +1527,11 @@
     "criteria": {
       "minecraft:crimson_forest": "2023-11-12 14:54:06 +0000",
       "minecraft:nether_wastes": "2023-05-25 17:40:09 +0000",
+      "minecraft:soul_sand_valley": "2023-11-19 15:10:05 +0000",
       "minecraft:basalt_deltas": "2023-05-30 18:01:34 +0000",
       "minecraft:warped_forest": "2023-06-02 18:25:48 +0000"
     },
-    "done": false
+    "done": true
   },
   "create:recipes/create.palettes/small_tuff_brick_stairs_from_stone_types_tuff_stonecutting": {
     "criteria": {
@@ -1517,6 +1554,12 @@
   "create:recipes/create.base/crafting/appliances/copper_diving_helmet": {
     "criteria": {
       "has_item": "2023-06-05 14:51:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/diamond": {
+    "criteria": {
+      "has_diamond_block": "2023-11-19 11:56:55 +0000"
     },
     "done": true
   },
@@ -1661,6 +1704,12 @@
   "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2023-05-25 17:35:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2023-11-25 21:05:47 +0000"
     },
     "done": true
   },
@@ -1862,6 +1911,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/steak_and_potatoes": {
+    "criteria": {
+      "has_baked_potato": "2023-11-25 20:53:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_hoe": {
     "criteria": {
       "has_stick": "2023-05-24 16:24:28 +0000"
@@ -1901,6 +1956,12 @@
   "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2023-05-25 17:35:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_sandstone_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2023-11-25 21:05:46 +0000"
     },
     "done": true
   },
@@ -2015,6 +2076,12 @@
   "minecraft:recipes/food/cooked_chicken_from_smoking": {
     "criteria": {
       "has_chicken": "2023-05-29 18:13:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone": {
+    "criteria": {
+      "has_sandstone": "2023-11-25 21:05:47 +0000"
     },
     "done": true
   },
@@ -2195,6 +2262,12 @@
   "farmersdelight:recipes/misc/iron_nugget_from_smelting_knife": {
     "criteria": {
       "has_iron_knife": "2023-06-02 20:13:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_wood": {
+    "criteria": {
+      "has_log": "2023-11-25 22:09:30 +0000"
     },
     "done": true
   },
@@ -2464,6 +2537,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/sandstone_wall_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2023-11-25 21:05:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_brick_stairs": {
     "criteria": {
       "has_stone_bricks": "2023-05-25 17:35:25 +0000"
@@ -2505,6 +2584,12 @@
       "has_planks": "2023-11-12 16:01:59 +0000"
     },
     "done": true
+  },
+  "farmersdelight:main/master_chef": {
+    "criteria": {
+      "chicken_soup": "2023-11-27 19:10:29 +0000"
+    },
+    "done": false
   },
   "create:recipes/create.palettes/layered_dripstone_from_stone_types_dripstone_stonecutting": {
     "criteria": {
@@ -2632,6 +2717,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/black_carpet": {
+    "criteria": {
+      "has_black_wool": "2023-11-19 14:20:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_nugget_from_blasting": {
     "criteria": {
       "has_golden_shovel": "2023-05-24 17:52:02 +0000"
@@ -2728,6 +2819,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cut_sandstone_slab_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2023-11-25 21:05:46 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/cut_crimsite_stairs_from_stone_types_crimsite_stonecutting": {
     "criteria": {
       "has_stone_types_crimsite": "2023-05-24 16:40:07 +0000"
@@ -2755,6 +2852,12 @@
   "create:recipes/create.palettes/polished_cut_deepslate_wall_from_stone_types_deepslate_stonecutting": {
     "criteria": {
       "has_stone_types_deepslate": "2023-11-11 13:00:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone": {
+    "criteria": {
+      "has_sandstone": "2023-11-25 21:05:47 +0000"
     },
     "done": true
   },
@@ -2803,6 +2906,12 @@
   "minecraft:recipes/redstone/dropper": {
     "criteria": {
       "has_redstone": "2023-06-01 17:03:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_slab_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2023-11-25 21:05:47 +0000"
     },
     "done": true
   },
@@ -2917,6 +3026,12 @@
   "create:recipes/create.palettes/andesite_pillar_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2023-05-24 16:40:47 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/stuffed_potato": {
+    "criteria": {
+      "has_baked_potato": "2023-11-25 20:53:58 +0000"
     },
     "done": true
   },
@@ -4056,6 +4171,7 @@
       "minecraft:piglin": "2023-11-11 11:58:27 +0000",
       "minecraft:silverfish": "2023-05-25 17:37:28 +0000",
       "minecraft:enderman": "2023-06-02 19:29:23 +0000",
+      "minecraft:stray": "2023-11-28 16:28:44 +0000",
       "minecraft:zombie": "2023-05-25 17:35:06 +0000",
       "minecraft:drowned": "2023-05-25 14:44:57 +0000",
       "minecraft:zombie_villager": "2023-06-01 18:04:41 +0000"
@@ -4512,6 +4628,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/light_gray_banner": {
+    "criteria": {
+      "has_light_gray_wool": "2023-11-28 15:36:38 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/polished_cut_crimsite_slab_from_stone_types_crimsite_stonecutting": {
     "criteria": {
       "has_stone_types_crimsite": "2023-05-24 16:40:07 +0000"
@@ -4551,6 +4673,12 @@
   "minecraft:recipes/building_blocks/glowstone": {
     "criteria": {
       "has_glowstone_dust": "2023-11-14 15:27:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_banner": {
+    "criteria": {
+      "has_black_wool": "2023-11-19 14:20:04 +0000"
     },
     "done": true
   },
@@ -4605,6 +4733,12 @@
   "minecraft:recipes/decorations/cartography_table": {
     "criteria": {
       "has_paper": "2023-05-25 14:37:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_stairs_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2023-11-25 21:05:46 +0000"
     },
     "done": true
   },
@@ -4784,6 +4918,7 @@
       "minecraft:stony_shore": "2023-05-24 18:46:13 +0000",
       "minecraft:snowy_plains": "2023-11-12 13:40:15 +0000",
       "minecraft:snowy_taiga": "2023-05-29 18:08:37 +0000",
+      "minecraft:dripstone_caves": "2023-11-19 20:33:39 +0000",
       "minecraft:grove": "2023-05-30 15:12:32 +0000",
       "minecraft:cold_ocean": "2023-05-25 17:08:21 +0000",
       "minecraft:forest": "2023-05-24 16:09:26 +0000",
@@ -4817,6 +4952,12 @@
   "create:recipes/create.palettes/small_andesite_brick_slab_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2023-05-24 16:40:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_carpet": {
+    "criteria": {
+      "has_light_gray_wool": "2023-11-28 15:36:38 +0000"
     },
     "done": true
   },
@@ -4973,6 +5114,12 @@
   "create:recipes/create.palettes/cut_tuff_wall_from_stone_types_tuff_stonecutting": {
     "criteria": {
       "has_stone_types_tuff": "2023-05-24 16:39:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/sandstone_wall": {
+    "criteria": {
+      "has_sandstone": "2023-11-25 21:05:47 +0000"
     },
     "done": true
   },
@@ -5333,11 +5480,13 @@
       "cooked_beef": "2023-05-25 14:36:18 +0000",
       "chorus_fruit": "2023-06-02 20:00:08 +0000",
       "beef": "2023-05-24 16:24:44 +0000",
+      "baked_potato": "2023-11-25 20:54:51 +0000",
       "porkchop": "2023-05-24 16:18:52 +0000",
       "tropical_fish": "2023-11-12 13:19:50 +0000",
       "apple": "2023-06-01 18:35:26 +0000",
       "spider_eye": "2023-11-15 19:10:41 +0000",
       "potato": "2023-11-15 19:05:32 +0000",
+      "poisonous_potato": "2023-11-19 17:41:17 +0000",
       "mutton": "2023-05-24 16:37:22 +0000",
       "bread": "2023-05-29 18:04:45 +0000",
       "golden_apple": "2023-06-05 14:53:20 +0000",
@@ -5370,6 +5519,12 @@
   "minecraft:recipes/building_blocks/warped_hyphae": {
     "criteria": {
       "has_log": "2023-11-14 14:49:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/fast_travel": {
+    "criteria": {
+      "travelled": "2023-11-19 15:10:12 +0000"
     },
     "done": true
   },
@@ -5673,6 +5828,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/activator_rail": {
+    "criteria": {
+      "has_rail": "2023-11-19 14:16:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/diamond_shovel": {
     "criteria": {
       "has_diamond": "2023-06-01 17:05:19 +0000"
@@ -5814,6 +5975,12 @@
   "create:recipes/create.palettes/deepslate_pillar_from_stone_types_deepslate_stonecutting": {
     "criteria": {
       "has_stone_types_deepslate": "2023-11-11 13:00:17 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/eat_comfort_food": {
+    "criteria": {
+      "comfort": "2023-11-27 19:10:29 +0000"
     },
     "done": true
   },
@@ -6348,6 +6515,18 @@
   "minecraft:recipes/building_blocks/snow_block": {
     "criteria": {
       "has_snowball": "2023-05-30 15:59:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/powered_rail": {
+    "criteria": {
+      "has_rail": "2023-11-19 14:16:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_allium": {
+    "criteria": {
+      "has_allium": "2023-11-27 19:02:20 +0000"
     },
     "done": true
   },

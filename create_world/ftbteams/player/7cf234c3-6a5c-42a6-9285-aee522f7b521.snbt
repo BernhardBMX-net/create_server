@@ -1,7 +1,7 @@
 {
 	id: "7cf234c3-6a5c-42a6-9285-aee522f7b521"
 	type: "player"
-	player_name: "Notremo"
+	player_name: "notremo"
 	ranks: {
 		7cf234c3-6a5c-42a6-9285-aee522f7b521: "owner"
 	}
@@ -16,10 +16,10 @@
 		"ftbchunks:allow_fake_players": 0b
 		"ftbchunks:allow_named_fake_players": [ ]
 		"ftbchunks:allow_fake_players_by_id": 1b
-		"ftbchunks:block_edit_mode": "allies"
-		"ftbchunks:block_interact_mode": "allies"
-		"ftbchunks:entity_interact_mode": "allies"
-		"ftbchunks:nonliving_entity_attack_mode": "allies"
+		"ftbchunks:block_edit_mode": "private"
+		"ftbchunks:block_interact_mode": "private"
+		"ftbchunks:entity_interact_mode": "private"
+		"ftbchunks:nonliving_entity_attack_mode": "private"
 		"ftbchunks:claim_visibility": "public"
 		"ftbchunks:location_mode": "public"
 	}

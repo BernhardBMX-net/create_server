@@ -393,6 +393,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/dried_kelp_from_smoking": {
+    "criteria": {
+      "has_kelp": "2023-11-27 14:55:32 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/cut_asurine_wall_from_stone_types_asurine_stonecutting": {
     "criteria": {
       "has_stone_types_asurine": "2023-11-17 15:17:29 +0000"
@@ -714,6 +720,12 @@
   "minecraft:recipes/building_blocks/cobbled_deepslate_stairs": {
     "criteria": {
       "has_cobbled_deepslate": "2023-11-17 15:11:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smelting": {
+    "criteria": {
+      "has_kelp": "2023-11-27 14:55:32 +0000"
     },
     "done": true
   },
@@ -1946,6 +1958,12 @@
   "farmersdelight:recipes/farmersdelight/cooking/pumpkin_soup": {
     "criteria": {
       "has_any_ingredient": "2023-11-17 14:44:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
+    "criteria": {
+      "has_kelp": "2023-11-27 14:55:32 +0000"
     },
     "done": true
   },

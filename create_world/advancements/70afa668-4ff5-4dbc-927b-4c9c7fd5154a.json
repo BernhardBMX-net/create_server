@@ -353,6 +353,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/emerald": {
+    "criteria": {
+      "has_emerald_block": "2023-11-20 20:13:25 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/cut_andesite_bricks_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2023-05-24 08:42:38 +0000"
@@ -2796,6 +2802,12 @@
   "minecraft:recipes/transportation/spruce_chest_boat": {
     "criteria": {
       "has_boat": "2023-05-23 17:56:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coal": {
+    "criteria": {
+      "has_coal_block": "2023-11-20 20:09:20 +0000"
     },
     "done": true
   },

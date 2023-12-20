@@ -8,7 +8,7 @@
 	}
 	properties: {
 		"ftbteams:display_name": "Bernhard & Wolfi"
-		"ftbteams:description": ""
+		"ftbteams:description": "Team From BernhardBMX and WolfOfTheGaming"
 		"ftbteams:color": "#FFFFFF"
 		"ftbteams:free_to_join": 0b
 		"ftbteams:max_msg_history_size": 1000

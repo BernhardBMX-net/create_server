@@ -2908,6 +2908,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/roast_chicken_block": {
+    "criteria": {
+      "has_cooked_chicken": "2023-11-19 16:57:31 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/polished_cut_scoria_stairs_from_stone_types_scoria_stonecutting": {
     "criteria": {
       "has_stone_types_scoria": "2023-05-23 19:37:55 +0000"
@@ -4752,9 +4758,21 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/chicken_sandwich": {
+    "criteria": {
+      "has_cooked_chicken": "2023-11-19 16:57:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/white_wool_from_string": {
     "criteria": {
       "has_string": "2023-05-26 16:42:10 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/cabbage_from_leaves": {
+    "criteria": {
+      "has_cabbage_leaf": "2023-11-26 10:52:36 +0000"
     },
     "done": true
   },
@@ -6269,6 +6287,12 @@
     },
     "done": true
   },
+  "create:compacting": {
+    "criteria": {
+      "0": "2023-11-19 18:50:27 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/crafting/materials/zinc_block_from_compacting": {
     "criteria": {
       "has_item": "2023-05-23 20:08:00 +0000"
@@ -6317,6 +6341,7 @@
       "bread": "2023-05-24 19:20:09 +0000",
       "suspicious_stew": "2023-05-23 18:16:05 +0000",
       "golden_carrot": "2023-06-02 20:55:31 +0000",
+      "cooked_chicken": "2023-11-19 16:57:34 +0000",
       "mushroom_stew": "2023-05-23 18:22:01 +0000",
       "carrot": "2023-05-24 13:03:05 +0000"
     },
@@ -6757,6 +6782,12 @@
   "create:recipes/create.base/crafting/kinetics/spout": {
     "criteria": {
       "has_item": "2023-06-08 14:00:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blue_ice": {
+    "criteria": {
+      "has_packed_ice": "2023-11-19 18:18:04 +0000"
     },
     "done": true
   },
