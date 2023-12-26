@@ -8,7 +8,7 @@ else
     git add .
     git status
     git commit -m "backup commit"
-    git push origin
+    git push --force origin
 fi
 
 read -p "Do you want to start the server now (Y/N)? " response

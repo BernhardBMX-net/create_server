@@ -1,15 +1,15 @@
-[25Dez.2023 00:06:59.629] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Puhmuckel lost connection: Disconnected
-[25Dez.2023 00:06:59.631] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Grün] Puhmuckel left the game
-[25Dez.2023 00:06:59.633] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client [Grün] Puhmuckel
-[25Dez.2023 12:56:40.976] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
-[25Dez.2023 12:56:41.024] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
-[25Dez.2023 12:56:41.026] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
-[25Dez.2023 12:56:41.026] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
-[25Dez.2023 12:56:42.994] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[create_world]'/minecraft:overworld
-[25Dez.2023 12:56:48.553] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[create_world]'/minecraft:the_end
-[25Dez.2023 12:56:48.555] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[create_world]'/minecraft:the_nether
-[25Dez.2023 12:56:48.577] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (create_world): All chunks are saved
-[25Dez.2023 12:56:48.577] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[25Dez.2023 12:56:48.577] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[25Dez.2023 12:56:48.577] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
-[25Dez.2023 12:56:51.832] [Server thread/INFO] [FTB Chunks/]: Shutting down map thread
+[26Dez.2023 20:51:42.598] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: There are 0 of a max of 8 players online: 
+[26Dez.2023 20:51:52.641] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[26Dez.2023 20:51:52.642] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: restart<--[HERE]
+[26Dez.2023 20:51:58.443] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[26Dez.2023 20:51:58.680] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[26Dez.2023 20:51:58.681] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[26Dez.2023 20:51:58.681] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[26Dez.2023 20:52:00.386] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[create_world]'/minecraft:overworld
+[26Dez.2023 20:52:05.153] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[create_world]'/minecraft:the_end
+[26Dez.2023 20:52:05.156] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[create_world]'/minecraft:the_nether
+[26Dez.2023 20:52:05.188] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (create_world): All chunks are saved
+[26Dez.2023 20:52:05.189] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[26Dez.2023 20:52:05.189] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[26Dez.2023 20:52:05.189] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[26Dez.2023 20:52:07.392] [Server thread/INFO] [FTB Chunks/]: Shutting down map thread
