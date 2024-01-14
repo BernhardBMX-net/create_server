@@ -503,6 +503,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/crimson_button": {
+    "criteria": {
+      "has_planks": "2024-01-14 14:22:21 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/kinetics/gantry_shaft": {
     "criteria": {
       "has_item": "2023-05-26 12:45:15 +0000"
@@ -1164,6 +1170,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/crimson_slab": {
+    "criteria": {
+      "has_planks": "2024-01-14 14:22:21 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/cooking/baked_cod_stew": {
     "criteria": {
       "has_any_ingredient": "2023-05-25 16:04:24 +0000"
@@ -1185,6 +1197,12 @@
   "minecraft:recipes/building_blocks/mossy_stone_bricks_from_vine": {
     "criteria": {
       "has_vine": "2023-09-17 11:25:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/crimson_stairs": {
+    "criteria": {
+      "has_planks": "2024-01-14 14:22:21 +0000"
     },
     "done": true
   },
@@ -4491,6 +4509,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/crimson_pressure_plate": {
+    "criteria": {
+      "has_planks": "2024-01-14 14:22:21 +0000"
+    },
+    "done": true
+  },
   "morevillagers:first_trade": {
     "criteria": {
       "villagertrade": "2023-08-14 09:05:09 +0000"
@@ -4549,6 +4573,12 @@
   "minecraft:recipes/redstone/dispenser": {
     "criteria": {
       "has_bow": "2023-09-16 09:50:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crimson_fence": {
+    "criteria": {
+      "has_planks": "2024-01-14 14:22:21 +0000"
     },
     "done": true
   },
@@ -4759,6 +4789,12 @@
   "minecraft:recipes/misc/gold_ingot_from_smelting_nether_gold_ore": {
     "criteria": {
       "has_nether_gold_ore": "2023-06-05 13:05:35 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/appliances/netherite_diving_helmet_from_netherite": {
+    "criteria": {
+      "has_item": "2024-01-14 14:31:07 +0000"
     },
     "done": true
   },
@@ -5038,6 +5074,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/crimson_window": {
+    "criteria": {
+      "has_ingredient": "2024-01-14 14:22:21 +0000"
+    },
+    "done": true
+  },
   "storagedrawers:recipes/storagedrawers/void_upgrade": {
     "criteria": {
       "has_template": "2023-05-23 17:53:45 +0000"
@@ -5263,6 +5305,12 @@
   "minecraft:recipes/building_blocks/lime_stained_glass": {
     "criteria": {
       "has_glass": "2023-06-03 08:59:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crimson_sign": {
+    "criteria": {
+      "has_planks": "2024-01-14 14:22:21 +0000"
     },
     "done": true
   },
@@ -5605,6 +5653,12 @@
   "create:recipes/create.base/crafting/kinetics/copper_valve_handle_from_others": {
     "criteria": {
       "has_item": "2023-05-31 18:02:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/crimson_fence_gate": {
+    "criteria": {
+      "has_planks": "2024-01-14 14:22:21 +0000"
     },
     "done": true
   },
@@ -7132,6 +7186,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/crimson_door": {
+    "criteria": {
+      "has_planks": "2024-01-14 14:22:21 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/kinetics/portable_storage_interface": {
     "criteria": {
       "has_item": "2023-05-26 14:06:04 +0000"
@@ -7237,6 +7297,12 @@
   "minecraft:recipes/tools/stone_hoe": {
     "criteria": {
       "has_cobblestone": "2023-05-23 17:55:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/crimson_trapdoor": {
+    "criteria": {
+      "has_planks": "2024-01-14 14:22:21 +0000"
     },
     "done": true
   },
