@@ -3,8 +3,8 @@
 	type: "party"
 	owner: "b5b3d888-4807-436f-b529-3aa62274a8ac"
 	ranks: {
+		88dc475d-bb68-493d-92d7-6055a64eecfa: "member"
 		b5b3d888-4807-436f-b529-3aa62274a8ac: "owner"
-		21ad7002-f1a4-4765-8b87-6444cc9eca69: "officer"
 	}
 	properties: {
 		"ftbteams:display_name": "Bernhard & Wolfi"
@@ -51,6 +51,9 @@
 		{ from: "b5b3d888-4807-436f-b529-3aa62274a8ac", date: 1694706625956L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.promoted\",\"with\":[{\"color\":\"yellow\",\"text\":\"WolfOfTheGaming\"}]}" }
 		{ from: "b5b3d888-4807-436f-b529-3aa62274a8ac", date: 1700315170153L, text: "{\"text\":\"Hi\"}" }
 		{ from: "b5b3d888-4807-436f-b529-3aa62274a8ac", date: 1700315175185L, text: "{\"text\":\"F\"}" }
+		{ from: "b5b3d888-4807-436f-b529-3aa62274a8ac", date: 1705750277651L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.invited\",\"with\":[{\"color\":\"yellow\",\"text\":\"Mc_Wolfi\"}]}" }
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1705750279908L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"Mc_Wolfi\"}]}" }
+		{ from: "b5b3d888-4807-436f-b529-3aa62274a8ac", date: 1705750287730L, text: "{\"color\":\"gold\",\"translate\":\"ftbteams.message.kicked\",\"with\":[{\"color\":\"yellow\",\"text\":\"WolfOfTheGaming\"},{\"color\":\"aqua\",\"clickEvent\":{\"action\":\"run_command\",\"value\":\"/ftbteams info BernhardWolfi#64214427\"},\"text\":\"Bernhard & Wolfi\"}]}" }
 	]
 	extra: { }
 }

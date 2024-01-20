@@ -1,12 +1,12 @@
 {
-	id: "21ad7002-f1a4-4765-8b87-6444cc9eca69"
+	id: "88dc475d-bb68-493d-92d7-6055a64eecfa"
 	type: "player"
-	player_name: "WolfOfTheGaming"
+	player_name: "Mc_Wolfi"
 	ranks: { }
 	properties: {
-		"ftbteams:display_name": "WolfOfTheGaming"
+		"ftbteams:display_name": "Mc_Wolfi"
 		"ftbteams:description": ""
-		"ftbteams:color": "#A859FF"
+		"ftbteams:color": "#59E0FF"
 		"ftbteams:free_to_join": 0b
 		"ftbteams:max_msg_history_size": 1000
 		"ftbchunks:allow_explosions": 0b

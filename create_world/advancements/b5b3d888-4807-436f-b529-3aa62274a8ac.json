@@ -3030,6 +3030,7 @@
   "morevillagers:all_workstations_get": {
     "criteria": {
       "barrel": "2023-08-16 11:21:00 +0000",
+      "grindstone": "2024-01-20 12:32:39 +0000",
       "smithingtable": "2023-06-02 19:51:51 +0000",
       "lectern": "2023-09-25 18:03:03 +0000",
       "stonecutter": "2023-05-26 12:57:20 +0000",
@@ -7844,6 +7845,12 @@
   "minecraft:recipes/building_blocks/diorite_stairs": {
     "criteria": {
       "has_diorite": "2023-05-24 17:06:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/conduit": {
+    "criteria": {
+      "has_nautilus_core": "2024-01-20 11:52:03 +0000"
     },
     "done": true
   },

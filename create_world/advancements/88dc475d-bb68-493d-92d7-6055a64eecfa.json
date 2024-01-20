@@ -1460,6 +1460,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/magma_cream": {
+    "criteria": {
+      "has_blaze_powder": "2024-01-20 12:42:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2023-09-14 16:40:03 +0000"
@@ -4938,6 +4944,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/ender_eye": {
+    "criteria": {
+      "has_blaze_powder": "2024-01-20 12:42:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/netherite_scrap": {
     "criteria": {
       "has_ancient_debris": "2023-11-14 16:14:23 +0000"
@@ -5720,6 +5732,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:snowy_slopes": "2024-01-20 13:22:35 +0000",
       "minecraft:old_growth_pine_taiga": "2023-11-12 09:55:46 +0000",
       "minecraft:mushroom_fields": "2023-09-14 16:37:01 +0000",
       "minecraft:taiga": "2023-09-14 15:56:32 +0000",
@@ -5757,6 +5770,7 @@
       "minecraft:windswept_savanna": "2023-11-12 10:03:03 +0000",
       "minecraft:warm_ocean": "2023-10-07 17:28:10 +0000",
       "minecraft:deep_lukewarm_ocean": "2023-09-14 16:36:17 +0000",
+      "minecraft:flower_forest": "2024-01-20 13:23:03 +0000",
       "minecraft:frozen_peaks": "2023-09-14 16:35:25 +0000",
       "minecraft:old_growth_birch_forest": "2023-09-14 15:27:13 +0000",
       "minecraft:deep_dark": "2023-09-15 17:43:00 +0000",
@@ -6034,6 +6048,12 @@
   "create:water_supply": {
     "criteria": {
       "0": "2023-09-21 16:03:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/fire_charge": {
+    "criteria": {
+      "has_blaze_powder": "2024-01-20 12:42:15 +0000"
     },
     "done": true
   },
