@@ -653,6 +653,12 @@
     },
     "done": true
   },
+  "minecraft:end/kill_dragon": {
+    "criteria": {
+      "killed_dragon": "2024-01-20 14:35:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs": {
     "criteria": {
       "has_polished_blackstone_bricks": "2023-09-15 18:07:06 +0000"
@@ -716,6 +722,12 @@
   "create:encased_fan": {
     "criteria": {
       "0": "2023-09-15 17:55:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
+    "criteria": {
+      "has_chicken": "2024-01-21 09:25:35 +0000"
     },
     "done": true
   },
@@ -1106,6 +1118,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/jungle_wood": {
+    "criteria": {
+      "has_log": "2024-01-21 04:37:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/netherite_chestplate_smithing": {
     "criteria": {
       "has_netherite_ingot": "2023-11-20 18:19:28 +0000"
@@ -1223,6 +1241,12 @@
   "create:recipes/create.base/crafting/kinetics/millstone": {
     "criteria": {
       "has_item": "2023-09-15 17:52:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_planks": {
+    "criteria": {
+      "has_logs": "2024-01-21 04:37:00 +0000"
     },
     "done": true
   },
@@ -1508,6 +1532,12 @@
     },
     "done": true
   },
+  "minecraft:nether/brew_potion": {
+    "criteria": {
+      "potion": "2024-01-20 13:40:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/stone_sword": {
     "criteria": {
       "has_cobblestone": "2023-09-14 15:21:36 +0000"
@@ -1625,6 +1655,12 @@
   "minecraft:recipes/building_blocks/light_gray_stained_glass": {
     "criteria": {
       "has_glass": "2023-09-15 18:58:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/dragon_egg": {
+    "criteria": {
+      "dragon_egg": "2024-01-20 15:50:05 +0000"
     },
     "done": true
   },
@@ -1803,6 +1839,12 @@
   "minecraft:recipes/building_blocks/light_gray_wool": {
     "criteria": {
       "has_white_wool": "2023-09-15 17:34:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken": {
+    "criteria": {
+      "has_chicken": "2024-01-21 09:25:35 +0000"
     },
     "done": true
   },
@@ -2430,6 +2472,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_chicken_from_smoking": {
+    "criteria": {
+      "has_chicken": "2024-01-21 09:25:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/smooth_sandstone": {
     "criteria": {
       "has_sandstone": "2023-10-07 17:36:58 +0000"
@@ -2933,6 +2981,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/snow": {
+    "criteria": {
+      "has_snowball": "2024-01-21 02:39:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/blue_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2023-09-14 15:21:36 +0000"
@@ -3182,6 +3236,12 @@
   "minecraft:recipes/decorations/black_carpet": {
     "criteria": {
       "has_black_wool": "2023-09-15 17:35:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/cure_zombie_villager": {
+    "criteria": {
+      "cured_zombie": "2024-01-20 13:44:08 +0000"
     },
     "done": true
   },
@@ -3836,6 +3896,12 @@
   "create:recipes/create.palettes/layered_calcite_from_stone_types_calcite_stonecutting": {
     "criteria": {
       "has_stone_types_calcite": "2023-09-14 16:41:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/respawn_dragon": {
+    "criteria": {
+      "summoned_dragon": "2024-01-20 14:31:23 +0000"
     },
     "done": true
   },
@@ -4920,6 +4986,7 @@
       "minecraft:phantom": "2023-09-16 23:15:40 +0000",
       "minecraft:zombified_piglin": "2023-09-17 16:20:48 +0000",
       "minecraft:wither_skeleton": "2023-09-17 17:57:35 +0000",
+      "minecraft:ender_dragon": "2024-01-20 14:35:43 +0000",
       "minecraft:shulker": "2023-10-08 11:32:32 +0000",
       "minecraft:piglin": "2023-09-15 18:31:42 +0000",
       "minecraft:enderman": "2023-09-14 18:05:36 +0000",
@@ -5741,6 +5808,7 @@
       "minecraft:frozen_river": "2023-09-15 19:38:19 +0000",
       "minecraft:sunflower_plains": "2023-11-12 10:01:25 +0000",
       "minecraft:birch_forest": "2023-09-14 16:34:39 +0000",
+      "minecraft:windswept_hills": "2024-01-20 13:37:27 +0000",
       "minecraft:wooded_badlands": "2023-10-07 17:30:20 +0000",
       "minecraft:bamboo_jungle": "2023-11-12 18:38:54 +0000",
       "minecraft:badlands": "2023-11-12 18:18:31 +0000",
@@ -7660,6 +7728,12 @@
   "minecraft:recipes/misc/magenta_dye_from_allium": {
     "criteria": {
       "has_allium": "2023-11-12 18:45:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/snow_block": {
+    "criteria": {
+      "has_snowball": "2024-01-21 02:39:34 +0000"
     },
     "done": true
   },

@@ -737,6 +737,12 @@
     },
     "done": true
   },
+  "minecraft:end/kill_dragon": {
+    "criteria": {
+      "killed_dragon": "2024-01-20 14:41:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs": {
     "criteria": {
       "has_polished_blackstone_bricks": "2023-05-26 13:05:21 +0000"
@@ -1797,6 +1803,12 @@
   "minecraft:recipes/building_blocks/light_gray_stained_glass": {
     "criteria": {
       "has_glass": "2023-06-03 08:59:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_mob_near_sculk_catalyst": {
+    "criteria": {
+      "kill_mob_near_sculk_catalyst": "2024-01-20 19:07:51 +0000"
     },
     "done": true
   },
@@ -4095,6 +4107,12 @@
     },
     "done": true
   },
+  "minecraft:end/respawn_dragon": {
+    "criteria": {
+      "summoned_dragon": "2024-01-20 14:31:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_polished_blackstone_bricks_stonecutting": {
     "criteria": {
       "has_polished_blackstone_bricks": "2023-05-26 13:05:21 +0000"
@@ -5215,10 +5233,12 @@
       "minecraft:zombified_piglin": "2023-05-29 17:03:56 +0000",
       "minecraft:witch": "2023-08-14 09:55:00 +0000",
       "minecraft:wither_skeleton": "2023-05-25 15:27:22 +0000",
+      "minecraft:ender_dragon": "2024-01-20 14:41:27 +0000",
       "minecraft:shulker": "2023-05-25 18:18:15 +0000",
       "minecraft:piglin": "2023-05-25 16:56:09 +0000",
       "minecraft:enderman": "2023-05-25 15:28:42 +0000",
       "minecraft:silverfish": "2023-05-25 16:49:35 +0000",
+      "minecraft:endermite": "2024-01-20 14:19:55 +0000",
       "minecraft:zombie": "2023-05-24 14:42:20 +0000",
       "minecraft:drowned": "2023-05-31 16:03:57 +0000",
       "minecraft:zombie_villager": "2023-05-25 16:05:53 +0000"
