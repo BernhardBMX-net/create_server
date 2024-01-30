@@ -1,160 +1,132 @@
-[22Jan.2024 13:24:20.762] [User Authenticator #99/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player BernhardBMX is b5b3d888-4807-436f-b529-3aa62274a8ac
-[22Jan.2024 13:24:22.703] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@c273053
-[22Jan.2024 13:24:22.710] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: BernhardBMX[/212.86.44.204:51860] logged in with entity id 850368 at (-1.440505328279382, 47.0, 1.5936276965960219)
-[22Jan.2024 13:24:22.713] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Endboss] BernhardBMX joined the game
-[22Jan.2024 13:24:27.044] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of [Endboss] BernhardBMX (17)
-[22Jan.2024 13:24:27.044] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to [Endboss] BernhardBMX
-[22Jan.2024 13:24:27.547] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player b5b3d888-4807-436f-b529-3aa62274a8ac
-[22Jan.2024 13:24:28.546] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player b5b3d888-4807-436f-b529-3aa62274a8ac
-[22Jan.2024 13:24:28.547] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player [Endboss] BernhardBMX (b5b3d888-4807-436f-b529-3aa62274a8ac) successfully connected to voice chat
-[22Jan.2024 13:24:29.440] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BernhardBMX lost connection: Disconnected
-[22Jan.2024 13:24:29.442] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Endboss] BernhardBMX left the game
-[22Jan.2024 13:24:29.443] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client [Endboss] BernhardBMX
-[22Jan.2024 13:25:00.262] [User Authenticator #100/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player BernhardBMX is b5b3d888-4807-436f-b529-3aa62274a8ac
-[22Jan.2024 13:25:02.150] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@23de9257
-[22Jan.2024 13:25:02.157] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: BernhardBMX[/212.86.44.204:51974] logged in with entity id 850546 at (-1.440505328279382, 47.0, 1.5936276965960219)
-[22Jan.2024 13:25:02.174] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Endboss] BernhardBMX joined the game
-[22Jan.2024 13:25:02.253] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of [Endboss] BernhardBMX (17)
-[22Jan.2024 13:25:02.254] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to [Endboss] BernhardBMX
-[22Jan.2024 13:25:03.575] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player b5b3d888-4807-436f-b529-3aa62274a8ac
-[22Jan.2024 13:25:04.578] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player b5b3d888-4807-436f-b529-3aa62274a8ac
-[22Jan.2024 13:25:04.579] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player [Endboss] BernhardBMX (b5b3d888-4807-436f-b529-3aa62274a8ac) successfully connected to voice chat
-[22Jan.2024 13:28:01.715] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BernhardBMX moved wrongly!
-[22Jan.2024 13:30:17.637] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2055ms or 41 ticks behind
-[22Jan.2024 13:32:32.956] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BernhardBMX moved wrongly!
-[22Jan.2024 13:33:31.985] [User Authenticator #101/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player The_ZYRO is 17498a0a-5379-4723-b6c8-5774081afda4
-[22Jan.2024 13:33:34.089] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@369006b7
-[22Jan.2024 13:33:34.172] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: The_ZYRO[/91.64.17.22:3269] logged in with entity id 853966 at (776.1320703630591, 39.0, 2121.5597221789835)
-[22Jan.2024 13:33:34.175] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TZ] The_ZYRO joined the game
-[22Jan.2024 13:33:37.312] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BernhardBMX moved too quickly! -4.336700680495724,4.44258917515738,16.60102728194619
-[22Jan.2024 13:33:37.317] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3235ms or 64 ticks behind
-[22Jan.2024 13:33:38.159] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of [TZ] The_ZYRO (17)
-[22Jan.2024 13:33:38.160] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to [TZ] The_ZYRO
-[22Jan.2024 13:33:38.631] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 17498a0a-5379-4723-b6c8-5774081afda4
-[22Jan.2024 13:33:39.638] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 17498a0a-5379-4723-b6c8-5774081afda4
-[22Jan.2024 13:33:39.639] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player [TZ] The_ZYRO (17498a0a-5379-4723-b6c8-5774081afda4) successfully connected to voice chat
-[22Jan.2024 13:40:34.386] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3004ms or 60 ticks behind
-[22Jan.2024 13:42:28.403] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BernhardBMX moved wrongly!
-[22Jan.2024 13:43:08.431] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <[Endboss] BernhardBMX> drück n
-[22Jan.2024 13:47:32.787] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2105ms or 42 ticks behind
-[22Jan.2024 13:47:52.271] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <[Endboss] BernhardBMX> n
-[22Jan.2024 13:50:52.019] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[Endboss] BernhardBMX: Triggered [Sidebar] (set value to 3)]
-[22Jan.2024 13:54:01.189] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[Endboss] BernhardBMX: Triggered [Sidebar] (set value to 2)]
-[22Jan.2024 13:54:38.494] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BernhardBMX moved wrongly!
-[22Jan.2024 14:01:17.692] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[Endboss] BernhardBMX: Triggered [Sidebar] (set value to 3)]
-[22Jan.2024 14:07:17.248] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BernhardBMX moved wrongly!
-[22Jan.2024 14:08:20.230] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <[TZ] The_ZYRO> halllo
-[22Jan.2024 14:08:30.372] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <[Endboss] BernhardBMX> Hi#
-[22Jan.2024 14:09:59.289] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: The_ZYRO lost connection: Disconnected
-[22Jan.2024 14:09:59.289] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TZ] The_ZYRO left the game
-[22Jan.2024 14:09:59.290] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client [TZ] The_ZYRO
-[22Jan.2024 14:10:02.270] [User Authenticator #102/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player The_ZYRO is 17498a0a-5379-4723-b6c8-5774081afda4
-[22Jan.2024 14:10:04.206] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@1a770d4f
-[22Jan.2024 14:10:04.212] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: The_ZYRO[/91.64.17.22:5947] logged in with entity id 874025 at (795.7902569912893, 55.7967356006687, 2105.699999988079)
-[22Jan.2024 14:10:04.216] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TZ] The_ZYRO joined the game
-[22Jan.2024 14:10:04.365] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of [TZ] The_ZYRO (17)
-[22Jan.2024 14:10:04.366] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to [TZ] The_ZYRO
-[22Jan.2024 14:10:05.726] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 17498a0a-5379-4723-b6c8-5774081afda4
-[22Jan.2024 14:10:06.727] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 17498a0a-5379-4723-b6c8-5774081afda4
-[22Jan.2024 14:10:06.727] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player [TZ] The_ZYRO (17498a0a-5379-4723-b6c8-5774081afda4) successfully connected to voice chat
-[22Jan.2024 14:12:42.444] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BernhardBMX moved wrongly!
-[22Jan.2024 14:14:06.345] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: The_ZYRO lost connection: Disconnected
-[22Jan.2024 14:14:06.346] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TZ] The_ZYRO left the game
-[22Jan.2024 14:14:06.347] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client [TZ] The_ZYRO
-[22Jan.2024 14:14:10.118] [User Authenticator #103/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player The_ZYRO is 17498a0a-5379-4723-b6c8-5774081afda4
-[22Jan.2024 14:14:12.104] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@62c90bf8
-[22Jan.2024 14:14:12.110] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: The_ZYRO[/91.64.17.22:6163] logged in with entity id 875049 at (774.9940388053293, 55.0, 2105.699999988079)
-[22Jan.2024 14:14:12.113] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TZ] The_ZYRO joined the game
-[22Jan.2024 14:14:12.346] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of [TZ] The_ZYRO (17)
-[22Jan.2024 14:14:12.346] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to [TZ] The_ZYRO
-[22Jan.2024 14:14:13.586] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 17498a0a-5379-4723-b6c8-5774081afda4
-[22Jan.2024 14:14:14.597] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 17498a0a-5379-4723-b6c8-5774081afda4
-[22Jan.2024 14:14:14.598] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player [TZ] The_ZYRO (17498a0a-5379-4723-b6c8-5774081afda4) successfully connected to voice chat
-[22Jan.2024 14:18:15.338] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Wolf['Melodie'/876127, l='ServerLevel[create_world]', x=774.36, y=52.00, z=2121.53] died: [TZ] Melodie was killed trying to hurt [Endboss] BernhardBMX
-[22Jan.2024 14:21:20.564] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <[Endboss] BernhardBMX> n
-[22Jan.2024 14:22:05.355] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <[Endboss] BernhardBMX> n
-[22Jan.2024 14:24:40.098] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TZ] The_ZYRO fell from a high place
-[22Jan.2024 14:24:41.989] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: The_ZYRO moved too quickly! -8.800000011920929,-7.0,-32.74712625361917
-[22Jan.2024 14:30:29.281] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <[Endboss] BernhardBMX> 1 Dia = 3 Stack Quartz
-[22Jan.2024 14:31:19.885] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2152ms or 43 ticks behind
-[22Jan.2024 14:38:09.579] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-167, y=30, z=-146} BlockPos{x=-167, y=30, z=-147}
-[22Jan.2024 14:39:54.127] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-186, y=35, z=-230} BlockPos{x=-185, y=35, z=-229}
-[22Jan.2024 14:39:54.175] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-186, y=35, z=-230} BlockPos{x=-185, y=35, z=-229}
-[22Jan.2024 14:39:54.226] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-186, y=35, z=-230} BlockPos{x=-185, y=35, z=-229}
-[22Jan.2024 14:39:54.274] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-186, y=35, z=-230} BlockPos{x=-185, y=35, z=-229}
-[22Jan.2024 14:43:47.176] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-78, y=48, z=-358} BlockPos{x=-78, y=50, z=-356}
-[22Jan.2024 14:43:47.223] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-78, y=48, z=-358} BlockPos{x=-78, y=50, z=-356}
-[22Jan.2024 14:44:10.626] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-139, y=49, z=-361} BlockPos{x=-138, y=49, z=-361}
-[22Jan.2024 14:44:10.676] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-139, y=49, z=-361} BlockPos{x=-138, y=49, z=-361}
-[22Jan.2024 14:44:10.724] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-139, y=49, z=-361} BlockPos{x=-138, y=49, z=-361}
-[22Jan.2024 14:44:10.773] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-139, y=49, z=-361} BlockPos{x=-138, y=49, z=-361}
-[22Jan.2024 14:44:10.827] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-139, y=49, z=-361} BlockPos{x=-138, y=49, z=-361}
-[22Jan.2024 14:48:58.075] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-113, y=63, z=-332} BlockPos{x=-114, y=63, z=-332}
-[22Jan.2024 14:48:58.121] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-113, y=63, z=-332} BlockPos{x=-114, y=63, z=-332}
-[22Jan.2024 14:48:58.204] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-113, y=63, z=-332} BlockPos{x=-114, y=63, z=-332}
-[22Jan.2024 14:48:58.220] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-113, y=63, z=-332} BlockPos{x=-114, y=63, z=-332}
-[22Jan.2024 14:48:58.267] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-113, y=63, z=-332} BlockPos{x=-114, y=63, z=-332}
-[22Jan.2024 14:48:58.343] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-113, y=63, z=-332} BlockPos{x=-114, y=63, z=-332}
-[22Jan.2024 14:48:58.370] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-113, y=63, z=-332} BlockPos{x=-114, y=63, z=-332}
-[22Jan.2024 14:48:58.423] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-113, y=63, z=-332} BlockPos{x=-114, y=63, z=-332}
-[22Jan.2024 14:48:58.475] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-113, y=63, z=-332} BlockPos{x=-114, y=63, z=-332}
-[22Jan.2024 14:48:58.521] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-113, y=63, z=-332} BlockPos{x=-114, y=63, z=-332}
-[22Jan.2024 14:48:58.567] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-113, y=63, z=-332} BlockPos{x=-114, y=63, z=-332}
-[22Jan.2024 14:48:58.618] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-113, y=63, z=-332} BlockPos{x=-114, y=63, z=-332}
-[22Jan.2024 14:48:58.669] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-113, y=63, z=-332} BlockPos{x=-114, y=63, z=-332}
-[22Jan.2024 14:48:58.744] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-113, y=63, z=-332} BlockPos{x=-114, y=63, z=-332}
-[22Jan.2024 14:48:58.774] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-113, y=63, z=-332} BlockPos{x=-114, y=63, z=-332}
-[22Jan.2024 14:48:58.822] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-113, y=63, z=-332} BlockPos{x=-114, y=63, z=-332}
-[22Jan.2024 14:48:58.872] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-113, y=63, z=-332} BlockPos{x=-114, y=63, z=-332}
-[22Jan.2024 14:48:58.927] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-113, y=63, z=-332} BlockPos{x=-114, y=63, z=-332}
-[22Jan.2024 14:48:58.971] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-113, y=63, z=-332} BlockPos{x=-114, y=63, z=-332}
-[22Jan.2024 14:49:41.021] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-93, y=65, z=-335} BlockPos{x=-91, y=68, z=-333}
-[22Jan.2024 14:49:41.071] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-93, y=65, z=-335} BlockPos{x=-91, y=68, z=-333}
-[22Jan.2024 14:49:41.120] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-93, y=65, z=-335} BlockPos{x=-91, y=68, z=-333}
-[22Jan.2024 14:49:41.166] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-93, y=65, z=-335} BlockPos{x=-91, y=68, z=-333}
-[22Jan.2024 14:49:57.866] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-68, y=66, z=-331} BlockPos{x=-68, y=65, z=-331}
-[22Jan.2024 14:57:21.766] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=21, y=43, z=-117} BlockPos{x=9, y=50, z=-95}
-[22Jan.2024 14:57:21.813] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=21, y=43, z=-117} BlockPos{x=9, y=50, z=-95}
-[22Jan.2024 15:01:45.697] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: The_ZYRO lost connection: Disconnected
-[22Jan.2024 15:01:45.698] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TZ] The_ZYRO left the game
-[22Jan.2024 15:01:45.698] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client [TZ] The_ZYRO
-[22Jan.2024 15:01:45.752] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@2dad6aa0
-[22Jan.2024 15:03:27.310] [User Authenticator #104/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player The_ZYRO is 17498a0a-5379-4723-b6c8-5774081afda4
-[22Jan.2024 15:03:29.341] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: The_ZYRO[/91.64.17.22:9314] logged in with entity id 918543 at (885.3874067435175, 78.19220752405303, 2092.07882909245)
-[22Jan.2024 15:03:29.345] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TZ] The_ZYRO joined the game
-[22Jan.2024 15:03:29.494] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of [TZ] The_ZYRO (17)
-[22Jan.2024 15:03:29.496] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to [TZ] The_ZYRO
-[22Jan.2024 15:03:30.914] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 17498a0a-5379-4723-b6c8-5774081afda4
-[22Jan.2024 15:03:31.913] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 17498a0a-5379-4723-b6c8-5774081afda4
-[22Jan.2024 15:03:31.945] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player [TZ] The_ZYRO (17498a0a-5379-4723-b6c8-5774081afda4) successfully connected to voice chat
-[22Jan.2024 15:06:26.443] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BernhardBMX lost connection: Disconnected
-[22Jan.2024 15:06:26.443] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Endboss] BernhardBMX left the game
-[22Jan.2024 15:06:26.444] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client [Endboss] BernhardBMX
-[22Jan.2024 15:06:29.088] [User Authenticator #105/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player BernhardBMX is b5b3d888-4807-436f-b529-3aa62274a8ac
-[22Jan.2024 15:06:30.960] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@71f9078
-[22Jan.2024 15:06:30.966] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: BernhardBMX[/212.86.44.204:52714] logged in with entity id 920691 at (901.9530676248908, 78.0, 2093.600791574964)
-[22Jan.2024 15:06:30.970] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Endboss] BernhardBMX joined the game
-[22Jan.2024 15:06:31.078] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of [Endboss] BernhardBMX (17)
-[22Jan.2024 15:06:31.079] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to [Endboss] BernhardBMX
-[22Jan.2024 15:06:31.294] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: The_ZYRO lost connection: Disconnected
-[22Jan.2024 15:06:31.294] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TZ] The_ZYRO left the game
-[22Jan.2024 15:06:31.294] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client [TZ] The_ZYRO
-[22Jan.2024 15:06:32.361] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player b5b3d888-4807-436f-b529-3aa62274a8ac
-[22Jan.2024 15:06:33.361] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player b5b3d888-4807-436f-b529-3aa62274a8ac
-[22Jan.2024 15:06:33.361] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player [Endboss] BernhardBMX (b5b3d888-4807-436f-b529-3aa62274a8ac) successfully connected to voice chat
-[22Jan.2024 15:10:00.805] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@c93258b
-[22Jan.2024 15:15:08.907] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rejecting UseItemOnPacket from BernhardBMX: Location (-3196.5317931473255, 58.25, 1721.4073098301888) too far away from hit block BlockPos{x=-3197, y=58, z=1722}.
-[22Jan.2024 15:26:32.993] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
-[22Jan.2024 15:26:33.034] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
-[22Jan.2024 15:26:33.035] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
-[22Jan.2024 15:26:33.064] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BernhardBMX lost connection: Server closed
-[22Jan.2024 15:26:33.064] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Endboss] BernhardBMX left the game
-[22Jan.2024 15:26:33.099] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
-[22Jan.2024 15:26:35.406] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[create_world]'/minecraft:overworld
-[22Jan.2024 15:26:40.894] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[create_world]'/minecraft:the_end
-[22Jan.2024 15:26:41.269] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[create_world]'/minecraft:the_nether
-[22Jan.2024 15:26:41.288] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (create_world): All chunks are saved
-[22Jan.2024 15:26:41.288] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[22Jan.2024 15:26:41.288] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[22Jan.2024 15:26:41.288] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
-[22Jan.2024 15:26:50.174] [Server thread/INFO] [FTB Chunks/]: Shutting down map thread
+[30Jan.2024 13:08:55.029] [User Authenticator #115/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Mc_Wolfi is 88dc475d-bb68-493d-92d7-6055a64eecfa
+[30Jan.2024 13:08:57.611] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@5caae01
+[30Jan.2024 13:08:57.651] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Mc_Wolfi[/212.86.41.92:65424] logged in with entity id 2541105 at (-5329.512431432215, 71.0, -7839.361340079433)
+[30Jan.2024 13:08:57.839] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Endboss] Mc_Wolfi joined the game
+[30Jan.2024 13:08:57.994] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of [Endboss] Mc_Wolfi (17)
+[30Jan.2024 13:08:57.995] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to [Endboss] Mc_Wolfi
+[30Jan.2024 13:08:59.856] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 88dc475d-bb68-493d-92d7-6055a64eecfa
+[30Jan.2024 13:09:00.856] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 88dc475d-bb68-493d-92d7-6055a64eecfa
+[30Jan.2024 13:09:00.857] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Mc_Wolfi (88dc475d-bb68-493d-92d7-6055a64eecfa) successfully connected to voice chat
+[30Jan.2024 13:09:13.706] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2108ms or 42 ticks behind
+[30Jan.2024 13:09:38.734] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4086ms or 81 ticks behind
+[30Jan.2024 13:11:16.643] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2094ms or 41 ticks behind
+[30Jan.2024 13:12:10.698] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3949ms or 78 ticks behind
+[30Jan.2024 13:12:13.395] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mc_Wolfi moved too quickly! 17.545142570128974,1.4929996922619608,4.623255376039651
+[30Jan.2024 13:12:18.472] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mc_Wolfi moved too quickly! 17.54590714455219,-0.6753765486601111,3.9259315716079755
+[30Jan.2024 13:12:21.546] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mc_Wolfi moved too quickly! 16.855249064185728,5.789719331701491,3.51029179217187
+[30Jan.2024 13:12:41.128] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5680ms or 113 ticks behind
+[30Jan.2024 13:13:54.202] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mc_Wolfi moved too quickly! 11.683819022439366,-3.7681950975538427,-13.041085545601163
+[30Jan.2024 13:14:02.861] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mc_Wolfi moved too quickly! 8.398650562581679,8.189380734951058,-13.576452250240436
+[30Jan.2024 13:14:08.162] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2414ms or 48 ticks behind
+[30Jan.2024 13:14:08.192] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mc_Wolfi moved too quickly! 9.565980526763724,-0.7694503928682224,-15.067952870519548
+[30Jan.2024 13:14:18.889] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mc_Wolfi moved too quickly! 8.644242425853918,6.274915774682256,-14.872164319392141
+[30Jan.2024 13:14:31.515] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mc_Wolfi moved too quickly! 8.21972634622307,0.5890432640286463,-15.541407308875932
+[30Jan.2024 13:15:13.936] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mc_Wolfi moved too quickly! 9.935402299053294,1.1192410207882801,-14.774236602410383
+[30Jan.2024 13:15:28.899] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3700ms or 74 ticks behind
+[30Jan.2024 13:16:29.305] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5907ms or 118 ticks behind
+[30Jan.2024 13:17:11.400] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3302ms or 66 ticks behind
+[30Jan.2024 13:17:11.433] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mc_Wolfi moved too quickly! -9.206295152413531,1.7640809030923492,15.355958354761242
+[30Jan.2024 13:17:20.161] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mc_Wolfi moved too quickly! -9.25672368477126,0.7473743496608449,15.669010117090693
+[30Jan.2024 13:17:22.186] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mc_Wolfi moved too quickly! -9.216498065445649,3.2149421647292513,15.30594320968703
+[30Jan.2024 13:17:35.304] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2755ms or 55 ticks behind
+[30Jan.2024 13:17:35.330] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mc_Wolfi moved too quickly! -9.324966355744891,-2.1974421224451675,15.044987481463977
+[30Jan.2024 13:18:59.667] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4218ms or 84 ticks behind
+[30Jan.2024 13:18:59.697] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mc_Wolfi moved too quickly! -0.033447954067924,-10.054775026465549,-0.07210910939829773
+[30Jan.2024 13:24:10.804] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7356ms or 147 ticks behind
+[30Jan.2024 13:24:10.924] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mc_Wolfi moved too quickly! 15.617541830401933,-1.9996720061949844,7.6614811895815365
+[30Jan.2024 13:28:42.708] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6259ms or 125 ticks behind
+[30Jan.2024 14:03:57.174] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 88dc475d-bb68-493d-92d7-6055a64eecfa timed out
+[30Jan.2024 14:03:57.187] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Mc_Wolfi
+[30Jan.2024 14:03:57.188] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Mc_Wolfi
+[30Jan.2024 14:04:05.023] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mc_Wolfi lost connection: Timed out
+[30Jan.2024 14:04:05.023] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mc_Wolfi left the game
+[30Jan.2024 14:04:05.039] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Mc_Wolfi
+[30Jan.2024 14:04:11.473] [User Authenticator #116/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Mc_Wolfi is 88dc475d-bb68-493d-92d7-6055a64eecfa
+[30Jan.2024 14:04:13.216] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@74955c44
+[30Jan.2024 14:04:13.240] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Mc_Wolfi[/213.220.148.160:49633] logged in with entity id 2561210 at (-4987.615689203909, 48.0, -7441.825412211766)
+[30Jan.2024 14:04:13.243] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mc_Wolfi joined the game
+[30Jan.2024 14:04:15.075] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Mc_Wolfi (17)
+[30Jan.2024 14:04:15.200] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Mc_Wolfi
+[30Jan.2024 14:04:15.511] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 88dc475d-bb68-493d-92d7-6055a64eecfa
+[30Jan.2024 14:04:16.511] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 88dc475d-bb68-493d-92d7-6055a64eecfa
+[30Jan.2024 14:04:16.511] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Mc_Wolfi (88dc475d-bb68-493d-92d7-6055a64eecfa) successfully connected to voice chat
+[30Jan.2024 14:26:43.007] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mc_Wolfi lost connection: Disconnected
+[30Jan.2024 14:26:43.007] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mc_Wolfi left the game
+[30Jan.2024 14:26:43.008] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Mc_Wolfi
+[30Jan.2024 14:33:39.787] [User Authenticator #117/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Mc_Wolfi is 88dc475d-bb68-493d-92d7-6055a64eecfa
+[30Jan.2024 14:33:41.476] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@55fcccf9
+[30Jan.2024 14:33:41.515] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Mc_Wolfi[/213.220.148.160:49900] logged in with entity id 2567555 at (-4992.5576516571, 52.0, -7439.237500011921)
+[30Jan.2024 14:33:41.519] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mc_Wolfi joined the game
+[30Jan.2024 14:33:43.486] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Mc_Wolfi (17)
+[30Jan.2024 14:33:43.488] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Mc_Wolfi
+[30Jan.2024 14:33:43.670] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 88dc475d-bb68-493d-92d7-6055a64eecfa
+[30Jan.2024 14:33:44.647] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 88dc475d-bb68-493d-92d7-6055a64eecfa
+[30Jan.2024 14:33:44.648] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Mc_Wolfi (88dc475d-bb68-493d-92d7-6055a64eecfa) successfully connected to voice chat
+[30Jan.2024 14:49:49.855] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mc_Wolfi lost connection: Disconnected
+[30Jan.2024 14:49:49.855] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mc_Wolfi left the game
+[30Jan.2024 14:49:49.856] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Mc_Wolfi
+[30Jan.2024 14:50:55.314] [User Authenticator #118/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Mc_Wolfi is 88dc475d-bb68-493d-92d7-6055a64eecfa
+[30Jan.2024 14:50:57.074] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@9bb2c71
+[30Jan.2024 14:50:57.081] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Mc_Wolfi[/213.220.148.160:50082] logged in with entity id 2571643 at (-4982.699999988079, 47.0, -7431.309144600936)
+[30Jan.2024 14:50:57.084] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mc_Wolfi joined the game
+[30Jan.2024 14:50:58.904] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Mc_Wolfi (17)
+[30Jan.2024 14:50:58.905] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Mc_Wolfi
+[30Jan.2024 14:50:58.950] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 88dc475d-bb68-493d-92d7-6055a64eecfa
+[30Jan.2024 14:50:59.950] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 88dc475d-bb68-493d-92d7-6055a64eecfa
+[30Jan.2024 14:50:59.951] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Mc_Wolfi (88dc475d-bb68-493d-92d7-6055a64eecfa) successfully connected to voice chat
+[30Jan.2024 15:14:07.511] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 1 pufferfish because there is no smelting recipe
+[30Jan.2024 15:27:11.908] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mc_Wolfi lost connection: Disconnected
+[30Jan.2024 15:27:11.908] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mc_Wolfi left the game
+[30Jan.2024 15:27:11.909] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Mc_Wolfi
+[30Jan.2024 16:25:50.822] [User Authenticator #119/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Mc_Wolfi is 88dc475d-bb68-493d-92d7-6055a64eecfa
+[30Jan.2024 16:25:52.670] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@9cc393e
+[30Jan.2024 16:25:52.677] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Mc_Wolfi[/213.220.148.160:51529] logged in with entity id 2590825 at (-4992.906850190171, 52.0, -7439.842839076284)
+[30Jan.2024 16:25:52.681] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mc_Wolfi joined the game
+[30Jan.2024 16:25:58.672] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Mc_Wolfi (17)
+[30Jan.2024 16:25:58.672] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Mc_Wolfi
+[30Jan.2024 16:25:59.277] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 88dc475d-bb68-493d-92d7-6055a64eecfa
+[30Jan.2024 16:26:00.280] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 88dc475d-bb68-493d-92d7-6055a64eecfa
+[30Jan.2024 16:26:00.280] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Mc_Wolfi (88dc475d-bb68-493d-92d7-6055a64eecfa) successfully connected to voice chat
+[30Jan.2024 16:56:18.366] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-650, y=65, z=-893} BlockPos{x=-651, y=66, z=-893}
+[30Jan.2024 16:56:18.415] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-650, y=65, z=-893} BlockPos{x=-651, y=66, z=-893}
+[30Jan.2024 16:56:18.463] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-651, y=66, z=-892} BlockPos{x=-651, y=66, z=-893}
+[30Jan.2024 16:56:20.216] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-653, y=66, z=-893} BlockPos{x=-653, y=66, z=-892}
+[30Jan.2024 16:56:20.266] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-653, y=66, z=-893} BlockPos{x=-653, y=66, z=-892}
+[30Jan.2024 16:56:20.314] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-653, y=66, z=-893} BlockPos{x=-653, y=66, z=-892}
+[30Jan.2024 16:56:20.364] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-653, y=66, z=-893} BlockPos{x=-653, y=66, z=-892}
+[30Jan.2024 16:56:20.415] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-653, y=66, z=-893} BlockPos{x=-653, y=66, z=-892}
+[30Jan.2024 16:56:20.464] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-652, y=65, z=-891} BlockPos{x=-653, y=66, z=-892}
+[30Jan.2024 16:57:49.335] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-655, y=64, z=-893} BlockPos{x=-647, y=68, z=-896}
+[30Jan.2024 16:57:49.365] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-655, y=64, z=-893} BlockPos{x=-647, y=68, z=-896}
+[30Jan.2024 16:57:49.416] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-655, y=64, z=-893} BlockPos{x=-647, y=68, z=-896}
+[30Jan.2024 17:34:57.536] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3838ms or 76 ticks behind
+[30Jan.2024 17:39:20.810] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 88dc475d-bb68-493d-92d7-6055a64eecfa timed out
+[30Jan.2024 17:39:20.810] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Mc_Wolfi
+[30Jan.2024 17:39:20.839] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Mc_Wolfi
+[30Jan.2024 17:39:29.660] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mc_Wolfi lost connection: Timed out
+[30Jan.2024 17:39:29.660] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mc_Wolfi left the game
+[30Jan.2024 17:39:29.661] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Mc_Wolfi
+[30Jan.2024 18:07:19.387] [User Authenticator #120/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Mc_Wolfi is 88dc475d-bb68-493d-92d7-6055a64eecfa
+[30Jan.2024 18:07:21.624] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@1906d75
+[30Jan.2024 18:07:21.685] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Mc_Wolfi[/213.220.148.160:52308] logged in with entity id 2618837 at (-5321.465131523198, 71.0, -7858.339326483819)
+[30Jan.2024 18:07:21.690] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mc_Wolfi joined the game
+[30Jan.2024 18:07:21.834] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Mc_Wolfi (17)
+[30Jan.2024 18:07:21.834] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Mc_Wolfi
+[30Jan.2024 18:07:23.934] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 88dc475d-bb68-493d-92d7-6055a64eecfa
+[30Jan.2024 18:07:24.933] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 88dc475d-bb68-493d-92d7-6055a64eecfa
+[30Jan.2024 18:07:24.933] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Mc_Wolfi (88dc475d-bb68-493d-92d7-6055a64eecfa) successfully connected to voice chat
+[30Jan.2024 18:16:19.557] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mc_Wolfi lost connection: Disconnected
+[30Jan.2024 18:16:19.558] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mc_Wolfi left the game
+[30Jan.2024 18:16:19.558] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Mc_Wolfi
+[30Jan.2024 19:44:25.539] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[30Jan.2024 19:44:27.761] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[30Jan.2024 19:44:27.796] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[30Jan.2024 19:44:27.796] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[30Jan.2024 19:44:58.807] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[create_world]'/minecraft:overworld
+[30Jan.2024 19:45:06.666] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[create_world]'/minecraft:the_end
+[30Jan.2024 19:45:07.254] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[create_world]'/minecraft:the_nether
+[30Jan.2024 19:45:07.428] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (create_world): All chunks are saved
+[30Jan.2024 19:45:07.429] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[30Jan.2024 19:45:07.429] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[30Jan.2024 19:45:07.429] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[30Jan.2024 19:45:24.595] [Server thread/INFO] [FTB Chunks/]: Shutting down map thread

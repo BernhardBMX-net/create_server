@@ -971,6 +971,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/cut_calcite_wall": {
+    "criteria": {
+      "has_cut_calcite": "2024-01-25 15:47:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_ingot_from_gold_block": {
     "criteria": {
       "has_gold_block": "2023-05-29 18:47:04 +0000"
@@ -1010,6 +1016,12 @@
   "minecraft:recipes/building_blocks/oak_slab": {
     "criteria": {
       "has_planks": "2023-05-24 15:28:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blue_stained_glass_pane": {
+    "criteria": {
+      "has_glass": "2024-01-23 14:08:20 +0000"
     },
     "done": true
   },
@@ -3442,6 +3454,12 @@
   "minecraft:recipes/building_blocks/brick_slab_from_bricks_stonecutting": {
     "criteria": {
       "has_bricks": "2023-05-29 14:25:17 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/cut_calcite_slab": {
+    "criteria": {
+      "has_cut_calcite": "2024-01-25 15:47:54 +0000"
     },
     "done": true
   },
@@ -7679,6 +7697,12 @@
   "create:recipes/create.base/crafting/logistics/brass_tunnel": {
     "criteria": {
       "has_item": "2023-05-27 17:11:14 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/cut_calcite_stairs": {
+    "criteria": {
+      "has_cut_calcite": "2024-01-25 15:47:54 +0000"
     },
     "done": true
   },
