@@ -1,30 +1,26 @@
-[02Feb.2024 09:58:11.864] [User Authenticator #4/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player BernhardBMX is b5b3d888-4807-436f-b529-3aa62274a8ac
-[02Feb.2024 09:58:14.601] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: BernhardBMX[/212.86.53.43:49626] logged in with entity id 9873 at (-3196.734910400358, 59.0, 1711.1932751422257)
-[02Feb.2024 09:58:14.645] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Endboss] BernhardBMX joined the game
-[02Feb.2024 09:58:18.255] [Netty Epoll Server IO #4/INFO] [ShulkerBoxTooltip/]: [ShulkerBoxTooltip] BernhardBMX: protocol version: 2.0
-[02Feb.2024 09:58:18.524] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of [Endboss] BernhardBMX (18)
-[02Feb.2024 09:58:18.525] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to [Endboss] BernhardBMX
-[02Feb.2024 09:58:20.906] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player b5b3d888-4807-436f-b529-3aa62274a8ac
-[02Feb.2024 09:58:21.908] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player b5b3d888-4807-436f-b529-3aa62274a8ac
-[02Feb.2024 09:58:21.970] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player [Endboss] BernhardBMX (b5b3d888-4807-436f-b529-3aa62274a8ac) successfully connected to voice chat
-[02Feb.2024 09:58:24.340] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9868ms or 197 ticks behind
-[02Feb.2024 09:58:24.790] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BernhardBMX lost connection: Disconnected
-[02Feb.2024 09:58:24.790] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Endboss] BernhardBMX left the game
-[02Feb.2024 09:58:24.791] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client [Endboss] BernhardBMX
-[02Feb.2024 09:59:24.535] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@5cbdd994[id=<null>,name=BernhardBMX,properties={},legacy=false] (/212.86.53.43:49688) lost connection: Disconnected
-[02Feb.2024 09:59:24.536] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2114ms or 42 ticks behind
-[02Feb.2024 10:00:19.073] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@7a1cd40c[id=<null>,name=BernhardBMX,properties={},legacy=false] (/212.86.53.43:50197) lost connection: Disconnected
-[02Feb.2024 10:05:42.373] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@48fa3265[id=<null>,name=BernhardBMX,properties={},legacy=false] (/212.86.53.43:50886) lost connection: Disconnected
-[02Feb.2024 10:06:01.672] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@7ebc4e15[id=<null>,name=BernhardBMX,properties={},legacy=false] (/212.86.53.43:50901) lost connection: Disconnected
-[02Feb.2024 10:07:30.793] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
-[02Feb.2024 10:07:31.688] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
-[02Feb.2024 10:07:31.798] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
-[02Feb.2024 10:07:31.799] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
-[02Feb.2024 10:07:34.645] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[create_world]'/minecraft:overworld
-[02Feb.2024 10:07:43.321] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[create_world]'/minecraft:the_nether
-[02Feb.2024 10:07:43.428] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[create_world]'/minecraft:the_end
-[02Feb.2024 10:07:43.571] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (create_world): All chunks are saved
-[02Feb.2024 10:07:43.571] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[02Feb.2024 10:07:43.572] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[02Feb.2024 10:07:43.572] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
-[02Feb.2024 10:07:44.948] [Server thread/INFO] [FTB Chunks/]: Shutting down map thread
+[13Feb.2024 14:12:58.936] [Server console handler/ERROR] [net.minecraft.server.dedicated.DedicatedServer/]: Caught previously unhandled exception :
+java.io.IOError: java.io.IOException: Error executing 'stty -a': stty: 'standard input': Input/output error
+	at org.jline.terminal.impl.AbstractPosixTerminal.setAttributes(AbstractPosixTerminal.java:54) ~[jline-terminal-3.12.1.jar%2364!/:?]
+	at org.jline.reader.impl.LineReaderImpl.readLine(LineReaderImpl.java:650) ~[jline-reader-3.12.1.jar%2363!/:?]
+	at org.jline.reader.impl.LineReaderImpl.readLine(LineReaderImpl.java:418) ~[jline-reader-3.12.1.jar%2363!/:?]
+	at net.minecraftforge.server.console.TerminalHandler.handleCommands(TerminalHandler.java:46) ~[forge-1.20.1-47.2.20-universal.jar%23156!/:?]
+	at net.minecraft.server.dedicated.DedicatedServer$1.run(DedicatedServer.java:84) ~[server-1.20.1-20230612.114412-srg.jar%23151!/:?]
+Caused by: java.io.IOException: Error executing 'stty -a': stty: 'standard input': Input/output error
+	at org.jline.utils.ExecHelper.exec(ExecHelper.java:42) ~[jline-terminal-3.12.1.jar%2364!/:?]
+	at org.jline.terminal.impl.ExecPty.doGetConfig(ExecPty.java:175) ~[jline-terminal-3.12.1.jar%2364!/:?]
+	at org.jline.terminal.impl.ExecPty.getAttr(ExecPty.java:87) ~[jline-terminal-3.12.1.jar%2364!/:?]
+	at org.jline.terminal.impl.ExecPty.doSetAttr(ExecPty.java:93) ~[jline-terminal-3.12.1.jar%2364!/:?]
+	at org.jline.terminal.impl.AbstractPty.setAttr(AbstractPty.java:29) ~[jline-terminal-3.12.1.jar%2364!/:?]
+	at org.jline.terminal.impl.AbstractPosixTerminal.setAttributes(AbstractPosixTerminal.java:52) ~[jline-terminal-3.12.1.jar%2364!/:?]
+	... 4 more
+[13Feb.2024 14:12:59.196] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[13Feb.2024 14:12:59.235] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[13Feb.2024 14:12:59.235] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[13Feb.2024 14:12:59.404] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[create_world]'/minecraft:overworld
+[13Feb.2024 14:13:03.142] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[create_world]'/minecraft:the_nether
+[13Feb.2024 14:13:03.144] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[create_world]'/minecraft:the_end
+[13Feb.2024 14:13:03.177] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (create_world): All chunks are saved
+[13Feb.2024 14:13:03.178] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[13Feb.2024 14:13:03.178] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[13Feb.2024 14:13:03.178] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[13Feb.2024 14:13:07.447] [Server thread/INFO] [FTB Chunks/]: Shutting down map thread
