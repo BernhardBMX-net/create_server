@@ -1,193 +1,228 @@
-[18Feb.2024 09:23:16.175] [User Authenticator #15/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player BernhardBMX is b5b3d888-4807-436f-b529-3aa62274a8ac
-[18Feb.2024 09:23:18.121] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: BernhardBMX[/212.86.35.25:59429] logged in with entity id 230061 at (-3198.9015813274127, 59.0, 1709.7975063516446)
-[18Feb.2024 09:23:18.125] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BernhardBMX joined the game
-[18Feb.2024 09:23:21.874] [Netty Epoll Server IO #1/INFO] [ShulkerBoxTooltip/]: [ShulkerBoxTooltip] BernhardBMX: protocol version: 2.0
-[18Feb.2024 09:23:21.874] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of BernhardBMX (18)
-[18Feb.2024 09:23:21.875] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to BernhardBMX
-[18Feb.2024 09:23:24.928] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player b5b3d888-4807-436f-b529-3aa62274a8ac
-[18Feb.2024 09:23:25.929] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player b5b3d888-4807-436f-b529-3aa62274a8ac
-[18Feb.2024 09:23:25.930] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player BernhardBMX (b5b3d888-4807-436f-b529-3aa62274a8ac) successfully connected to voice chat
-[18Feb.2024 12:02:44.287] [User Authenticator #16/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Mc_Wolfi is 88dc475d-bb68-493d-92d7-6055a64eecfa
-[18Feb.2024 12:02:46.466] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Mc_Wolfi[/212.86.44.206:60984] logged in with entity id 240421 at (-358.2249087511419, 169.0, -1037.3215955601065)
-[18Feb.2024 12:02:46.476] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mc_Wolfi joined the game
-[18Feb.2024 12:02:48.544] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Mc_Wolfi (17)
-[18Feb.2024 12:02:48.544] [Server thread/WARN] [voicechat/]: [voicechat] Connected client Mc_Wolfi has incompatible voice chat version (server=18, client=17)
-[18Feb.2024 12:02:48.550] [Netty Epoll Server IO #3/INFO] [ShulkerBoxTooltip/]: [ShulkerBoxTooltip] Mc_Wolfi: protocol version: 2.0
-[18Feb.2024 12:02:56.493] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mc_Wolfi lost connection: You need Simple Voice Chat 1.20.1-2.5.1 to play on this server
-[18Feb.2024 12:02:56.494] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mc_Wolfi left the game
-[18Feb.2024 12:02:56.494] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Mc_Wolfi
-[18Feb.2024 12:02:56.551] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
-[18Feb.2024 12:03:07.111] [User Authenticator #17/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Mc_Wolfi is 88dc475d-bb68-493d-92d7-6055a64eecfa
-[18Feb.2024 12:03:09.074] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Mc_Wolfi[/212.86.44.206:64402] logged in with entity id 240655 at (-358.2249087511419, 169.0, -1037.3215955601065)
-[18Feb.2024 12:03:09.077] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mc_Wolfi joined the game
-[18Feb.2024 12:03:09.194] [Netty Epoll Server IO #4/INFO] [ShulkerBoxTooltip/]: [ShulkerBoxTooltip] Mc_Wolfi: protocol version: 2.0
-[18Feb.2024 12:03:09.547] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Mc_Wolfi (17)
-[18Feb.2024 12:03:09.547] [Server thread/WARN] [voicechat/]: [voicechat] Connected client Mc_Wolfi has incompatible voice chat version (server=18, client=17)
-[18Feb.2024 12:03:19.111] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mc_Wolfi lost connection: You need Simple Voice Chat 1.20.1-2.5.1 to play on this server
-[18Feb.2024 12:03:19.111] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mc_Wolfi left the game
-[18Feb.2024 12:03:19.111] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Mc_Wolfi
-[18Feb.2024 12:07:13.769] [User Authenticator #18/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Mc_Wolfi is 88dc475d-bb68-493d-92d7-6055a64eecfa
-[18Feb.2024 12:07:15.973] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Mc_Wolfi[/212.86.44.206:65162] logged in with entity id 241484 at (-357.41865864829543, 169.0, -1036.1278448755427)
-[18Feb.2024 12:07:15.979] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mc_Wolfi joined the game
-[18Feb.2024 12:07:17.993] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Mc_Wolfi (18)
-[18Feb.2024 12:07:17.993] [Netty Epoll Server IO #5/INFO] [ShulkerBoxTooltip/]: [ShulkerBoxTooltip] Mc_Wolfi: protocol version: 2.0
-[18Feb.2024 12:07:17.994] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Mc_Wolfi
-[18Feb.2024 12:07:18.206] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 88dc475d-bb68-493d-92d7-6055a64eecfa
-[18Feb.2024 12:07:19.205] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 88dc475d-bb68-493d-92d7-6055a64eecfa
-[18Feb.2024 12:07:19.206] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Mc_Wolfi (88dc475d-bb68-493d-92d7-6055a64eecfa) successfully connected to voice chat
-[18Feb.2024 12:10:41.642] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mc_Wolfi has made the advancement [Crafting a New Look]
-[18Feb.2024 12:19:56.105] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BernhardBMX was blown up by Creeper
-[18Feb.2024 12:23:25.764] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mc_Wolfi lost connection: Disconnected
-[18Feb.2024 12:23:25.765] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mc_Wolfi left the game
-[18Feb.2024 12:23:25.765] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Mc_Wolfi
-[18Feb.2024 12:23:31.414] [User Authenticator #19/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Mc_Wolfi is 88dc475d-bb68-493d-92d7-6055a64eecfa
-[18Feb.2024 12:23:37.326] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Mc_Wolfi[/212.86.44.206:65381] logged in with entity id 245690 at (-358.30000001192093, 169.0, -1039.1492213203746)
-[18Feb.2024 12:23:37.334] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mc_Wolfi joined the game
-[18Feb.2024 12:23:37.821] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mc_Wolfi lost connection: Disconnected
-[18Feb.2024 12:23:37.821] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mc_Wolfi left the game
-[18Feb.2024 12:23:37.822] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Mc_Wolfi
-[18Feb.2024 12:23:37.862] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
-[18Feb.2024 12:24:25.165] [User Authenticator #20/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player The_ZYRO is 17498a0a-5379-4723-b6c8-5774081afda4
-[18Feb.2024 12:24:27.304] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: minecraft:red_wool removed now.
-[18Feb.2024 12:24:27.304] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: minecraft:red_bed_from_white_bed removed now.
-[18Feb.2024 12:24:27.304] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: minecraft:magenta_wool removed now.
-[18Feb.2024 12:24:27.304] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: minecraft:cyan_bed_from_white_bed removed now.
-[18Feb.2024 12:24:27.304] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: minecraft:black_wool removed now.
-[18Feb.2024 12:24:27.304] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: minecraft:purple_wool removed now.
-[18Feb.2024 12:24:27.304] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: minecraft:yellow_bed_from_white_bed removed now.
-[18Feb.2024 12:24:27.304] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: minecraft:magenta_carpet_from_white_carpet removed now.
-[18Feb.2024 12:24:27.305] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: minecraft:gray_bed_from_white_bed removed now.
-[18Feb.2024 12:24:27.305] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: minecraft:pink_bed_from_white_bed removed now.
-[18Feb.2024 12:24:27.305] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: minecraft:orange_bed_from_white_bed removed now.
-[18Feb.2024 12:24:27.305] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: minecraft:yellow_wool removed now.
-[18Feb.2024 12:24:27.305] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: minecraft:gray_wool removed now.
-[18Feb.2024 12:24:27.305] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: minecraft:black_carpet_from_white_carpet removed now.
-[18Feb.2024 12:24:27.305] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: minecraft:brown_carpet_from_white_carpet removed now.
-[18Feb.2024 12:24:27.305] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: farmersdelight:lead_from_rope removed now.
-[18Feb.2024 12:24:27.305] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: minecraft:orange_carpet_from_white_carpet removed now.
-[18Feb.2024 12:24:27.305] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: minecraft:magenta_bed_from_white_bed removed now.
-[18Feb.2024 12:24:27.306] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: minecraft:cyan_carpet_from_white_carpet removed now.
-[18Feb.2024 12:24:27.306] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: minecraft:purple_carpet_from_white_carpet removed now.
-[18Feb.2024 12:24:27.306] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: minecraft:green_bed_from_white_bed removed now.
-[18Feb.2024 12:24:27.306] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: minecraft:light_gray_bed_from_white_bed removed now.
-[18Feb.2024 12:24:27.306] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: minecraft:blue_wool removed now.
-[18Feb.2024 12:24:27.306] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: minecraft:lime_bed_from_white_bed removed now.
-[18Feb.2024 12:24:27.306] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: minecraft:lime_carpet_from_white_carpet removed now.
-[18Feb.2024 12:24:27.306] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: minecraft:lime_wool removed now.
-[18Feb.2024 12:24:27.306] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: minecraft:purple_bed_from_white_bed removed now.
-[18Feb.2024 12:24:27.306] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: minecraft:light_gray_wool removed now.
-[18Feb.2024 12:24:27.306] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: minecraft:green_carpet_from_white_carpet removed now.
-[18Feb.2024 12:24:27.306] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: minecraft:light_blue_wool removed now.
-[18Feb.2024 12:24:27.306] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: minecraft:orange_wool removed now.
-[18Feb.2024 12:24:27.306] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: minecraft:black_bed_from_white_bed removed now.
-[18Feb.2024 12:24:27.306] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: minecraft:brown_wool removed now.
-[18Feb.2024 12:24:27.307] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: minecraft:yellow_carpet_from_white_carpet removed now.
-[18Feb.2024 12:24:27.307] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: minecraft:light_blue_bed_from_white_bed removed now.
-[18Feb.2024 12:24:27.307] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: minecraft:light_blue_carpet_from_white_carpet removed now.
-[18Feb.2024 12:24:27.307] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: minecraft:light_gray_carpet_from_white_carpet removed now.
-[18Feb.2024 12:24:27.307] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: minecraft:green_wool removed now.
-[18Feb.2024 12:24:27.307] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: minecraft:brown_bed_from_white_bed removed now.
-[18Feb.2024 12:24:27.307] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: minecraft:cyan_wool removed now.
-[18Feb.2024 12:24:27.307] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: minecraft:red_carpet_from_white_carpet removed now.
-[18Feb.2024 12:24:27.307] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: minecraft:blue_bed_from_white_bed removed now.
-[18Feb.2024 12:24:27.307] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: minecraft:pink_wool removed now.
-[18Feb.2024 12:24:27.307] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: minecraft:blue_carpet_from_white_carpet removed now.
-[18Feb.2024 12:24:27.307] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: minecraft:gray_carpet_from_white_carpet removed now.
-[18Feb.2024 12:24:27.307] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: minecraft:pink_carpet_from_white_carpet removed now.
-[18Feb.2024 12:24:27.308] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: minecraft:magenta_carpet_from_white_carpet removed now.
-[18Feb.2024 12:24:27.308] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: minecraft:black_carpet_from_white_carpet removed now.
-[18Feb.2024 12:24:27.308] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: minecraft:brown_carpet_from_white_carpet removed now.
-[18Feb.2024 12:24:27.308] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: minecraft:orange_carpet_from_white_carpet removed now.
-[18Feb.2024 12:24:27.308] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: minecraft:cyan_carpet_from_white_carpet removed now.
-[18Feb.2024 12:24:27.308] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: minecraft:purple_carpet_from_white_carpet removed now.
-[18Feb.2024 12:24:27.308] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: minecraft:lime_carpet_from_white_carpet removed now.
-[18Feb.2024 12:24:27.308] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: minecraft:green_carpet_from_white_carpet removed now.
-[18Feb.2024 12:24:27.308] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: minecraft:yellow_carpet_from_white_carpet removed now.
-[18Feb.2024 12:24:27.308] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: minecraft:light_blue_carpet_from_white_carpet removed now.
-[18Feb.2024 12:24:27.308] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: minecraft:light_gray_carpet_from_white_carpet removed now.
-[18Feb.2024 12:24:27.309] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: minecraft:red_carpet_from_white_carpet removed now.
-[18Feb.2024 12:24:27.309] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: minecraft:blue_carpet_from_white_carpet removed now.
-[18Feb.2024 12:24:27.309] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: minecraft:gray_carpet_from_white_carpet removed now.
-[18Feb.2024 12:24:27.309] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: minecraft:pink_carpet_from_white_carpet removed now.
-[18Feb.2024 12:24:27.309] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: The_ZYRO[/91.64.17.22:13286] logged in with entity id 245756 at (777.5727335257782, 64.0, 2160.8954166059743)
-[18Feb.2024 12:24:27.312] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TZ] The_ZYRO joined the game
-[18Feb.2024 12:24:27.879] [Netty Epoll Server IO #1/INFO] [ShulkerBoxTooltip/]: [ShulkerBoxTooltip] The_ZYRO: protocol version: 2.0
-[18Feb.2024 12:24:27.984] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of [TZ] The_ZYRO (18)
-[18Feb.2024 12:24:27.984] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to [TZ] The_ZYRO
-[18Feb.2024 12:24:30.370] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 17498a0a-5379-4723-b6c8-5774081afda4
-[18Feb.2024 12:24:31.348] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 17498a0a-5379-4723-b6c8-5774081afda4
-[18Feb.2024 12:24:31.348] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player [TZ] The_ZYRO (17498a0a-5379-4723-b6c8-5774081afda4) successfully connected to voice chat
-[18Feb.2024 12:26:59.457] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@43051296[id=<null>,name=Mc_Wolfi,properties={},legacy=false] (/212.86.44.206:61443) lost connection: Disconnected
-[18Feb.2024 12:27:01.145] [User Authenticator #21/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Mc_Wolfi is 88dc475d-bb68-493d-92d7-6055a64eecfa
-[18Feb.2024 12:27:03.224] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Mc_Wolfi[/212.86.44.206:61446] logged in with entity id 247693 at (-358.30000001192093, 169.0, -1039.1492213203746)
-[18Feb.2024 12:27:03.228] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mc_Wolfi joined the game
-[18Feb.2024 12:27:03.358] [Netty Epoll Server IO #3/INFO] [ShulkerBoxTooltip/]: [ShulkerBoxTooltip] Mc_Wolfi: protocol version: 2.0
-[18Feb.2024 12:27:03.682] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Mc_Wolfi (18)
-[18Feb.2024 12:27:03.683] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Mc_Wolfi
-[18Feb.2024 12:27:05.156] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 88dc475d-bb68-493d-92d7-6055a64eecfa
-[18Feb.2024 12:27:05.886] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 88dc475d-bb68-493d-92d7-6055a64eecfa
-[18Feb.2024 12:27:05.886] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Mc_Wolfi (88dc475d-bb68-493d-92d7-6055a64eecfa) successfully connected to voice chat
-[18Feb.2024 12:27:57.657] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2867, y=57, z=-8245} BlockPos{x=-2867, y=56, z=-8244}
-[18Feb.2024 12:27:57.711] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2867, y=57, z=-8245} BlockPos{x=-2867, y=56, z=-8244}
-[18Feb.2024 12:30:34.571] [Server thread/ERROR] [net.minecraft.world.level.block.entity.SculkSensorBlockEntity/]: No key selector in MapLike[{event_delay:0,event_distance:0.0f,range:8,source:{pos:[I;208,-45,1812],type:"minecraft:block"}}]
-[18Feb.2024 12:30:34.615] [Server thread/ERROR] [net.minecraft.world.level.block.entity.SculkSensorBlockEntity/]: No key selector in MapLike[{event_delay:0,event_distance:0.0f,range:8,source:{pos:[I;237,-47,1798],type:"minecraft:block"}}]
-[18Feb.2024 12:30:34.615] [Server thread/ERROR] [net.minecraft.world.level.block.entity.SculkSensorBlockEntity/]: No key selector in MapLike[{event_delay:0,event_distance:0.0f,range:8,source:{pos:[I;224,-47,1799],type:"minecraft:block"}}]
-[18Feb.2024 12:30:34.616] [Server thread/ERROR] [net.minecraft.world.level.block.entity.SculkSensorBlockEntity/]: No key selector in MapLike[{event_delay:0,event_distance:0.0f,range:8,source:{pos:[I;298,-45,1801],type:"minecraft:block"}}]
-[18Feb.2024 12:41:37.256] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TZ] The_ZYRO was slain by BernhardBMX using [Skillety]
-[18Feb.2024 12:41:39.712] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: The_ZYRO lost connection: Disconnected
-[18Feb.2024 12:41:39.712] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TZ] The_ZYRO left the game
-[18Feb.2024 12:41:39.713] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client [TZ] The_ZYRO
-[18Feb.2024 12:57:36.514] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mc_Wolfi lost connection: Timed out
-[18Feb.2024 12:57:36.515] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mc_Wolfi left the game
-[18Feb.2024 12:57:36.516] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Mc_Wolfi
-[18Feb.2024 12:57:46.658] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@216ba8cc[id=<null>,name=Mc_Wolfi,properties={},legacy=false] (/212.86.44.206:59769) lost connection: Disconnected
-[18Feb.2024 12:57:50.861] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@131c4998[id=<null>,name=Mc_Wolfi,properties={},legacy=false] (/212.86.44.206:59774) lost connection: Disconnected
-[18Feb.2024 12:57:52.183] [User Authenticator #22/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Mc_Wolfi is 88dc475d-bb68-493d-92d7-6055a64eecfa
-[18Feb.2024 12:57:54.278] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Mc_Wolfi[/212.86.44.206:59782] logged in with entity id 270253 at (-4996.658846695632, 43.0, -7443.747656335574)
-[18Feb.2024 12:57:54.286] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mc_Wolfi joined the game
-[18Feb.2024 12:57:54.369] [Netty Epoll Server IO #6/INFO] [ShulkerBoxTooltip/]: [ShulkerBoxTooltip] Mc_Wolfi: protocol version: 2.0
-[18Feb.2024 12:57:54.955] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Mc_Wolfi (18)
-[18Feb.2024 12:57:54.955] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Mc_Wolfi
-[18Feb.2024 12:57:55.776] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 88dc475d-bb68-493d-92d7-6055a64eecfa
-[18Feb.2024 12:57:56.777] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 88dc475d-bb68-493d-92d7-6055a64eecfa
-[18Feb.2024 12:57:56.777] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Mc_Wolfi (88dc475d-bb68-493d-92d7-6055a64eecfa) successfully connected to voice chat
-[18Feb.2024 12:58:46.567] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mc_Wolfi lost connection: Timed out
-[18Feb.2024 12:58:46.567] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mc_Wolfi left the game
-[18Feb.2024 12:58:46.568] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Mc_Wolfi
-[18Feb.2024 12:58:49.327] [User Authenticator #23/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Mc_Wolfi is 88dc475d-bb68-493d-92d7-6055a64eecfa
-[18Feb.2024 12:58:51.627] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Mc_Wolfi[/212.86.44.206:59800] logged in with entity id 270708 at (-4998.026105021013, 43.0, -7447.875376081453)
-[18Feb.2024 12:58:51.630] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mc_Wolfi joined the game
-[18Feb.2024 12:58:51.791] [Netty Epoll Server IO #7/INFO] [ShulkerBoxTooltip/]: [ShulkerBoxTooltip] Mc_Wolfi: protocol version: 2.0
-[18Feb.2024 12:58:52.212] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Mc_Wolfi (18)
-[18Feb.2024 12:58:52.213] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Mc_Wolfi
-[18Feb.2024 12:58:56.662] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 88dc475d-bb68-493d-92d7-6055a64eecfa
-[18Feb.2024 12:58:57.612] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 88dc475d-bb68-493d-92d7-6055a64eecfa
-[18Feb.2024 12:58:57.612] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Mc_Wolfi (88dc475d-bb68-493d-92d7-6055a64eecfa) successfully connected to voice chat
-[18Feb.2024 13:02:11.862] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mc_Wolfi lost connection: Disconnected
-[18Feb.2024 13:02:11.862] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mc_Wolfi left the game
-[18Feb.2024 13:02:11.863] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Mc_Wolfi
-[18Feb.2024 13:03:01.797] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Removed TonyXLR from the whitelist
-[18Feb.2024 13:03:06.760] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Removed The_ZYRO from the whitelist
-[18Feb.2024 13:04:42.669] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unclaimed 1 chunks!
-[18Feb.2024 13:04:42.694] [Server thread/INFO] [FTB Chunks/]: Server unclaimed 1 chunks around [minecraft:overworld:0:-1]for team ZYRO_s_party_Hood#dc71f916
-[18Feb.2024 13:05:02.741] [User Authenticator #24/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Mc_Wolfi is 88dc475d-bb68-493d-92d7-6055a64eecfa
-[18Feb.2024 13:05:04.831] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Mc_Wolfi[/212.86.44.206:59907] logged in with entity id 272293 at (-4982.362136052248, 43.0, -7429.48855499772)
-[18Feb.2024 13:05:04.841] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mc_Wolfi joined the game
-[18Feb.2024 13:05:04.920] [Netty Epoll Server IO #2/INFO] [ShulkerBoxTooltip/]: [ShulkerBoxTooltip] Mc_Wolfi: protocol version: 2.0
-[18Feb.2024 13:05:05.429] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Mc_Wolfi (18)
-[18Feb.2024 13:05:05.430] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Mc_Wolfi
-[18Feb.2024 13:05:06.303] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 88dc475d-bb68-493d-92d7-6055a64eecfa
-[18Feb.2024 13:05:07.303] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 88dc475d-bb68-493d-92d7-6055a64eecfa
-[18Feb.2024 13:05:07.304] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Mc_Wolfi (88dc475d-bb68-493d-92d7-6055a64eecfa) successfully connected to voice chat
-[18Feb.2024 13:06:16.662] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
-[18Feb.2024 13:06:16.700] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
-[18Feb.2024 13:06:16.700] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
-[18Feb.2024 13:06:16.725] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
-[18Feb.2024 13:06:16.990] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[create_world]'/minecraft:overworld
-[18Feb.2024 13:06:17.341] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[create_world]'/minecraft:the_end
-[18Feb.2024 13:06:17.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[create_world]'/minecraft:the_nether
-[18Feb.2024 13:06:17.377] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (create_world): All chunks are saved
-[18Feb.2024 13:06:17.377] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[18Feb.2024 13:06:17.377] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[18Feb.2024 13:06:17.377] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
-[18Feb.2024 13:06:18.795] [Server thread/INFO] [FTB Chunks/]: Shutting down map thread
+[18Feb.2024 13:11:38.328] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.2.20, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412]
+[18Feb.2024 13:11:38.336] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 18.0.2.1 by Oracle Corporation; OS Linux arch amd64 version 5.4.0-171-generic
+[18Feb.2024 13:11:38.808] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
+[18Feb.2024 13:11:38.818] [main/INFO] [optifine.OptiFineTransformationService/]: OptiFineTransformationService.onLoad
+[18Feb.2024 13:11:38.827] [main/INFO] [optifine.OptiFineTransformationService/]: OptiFine ZIP file URL: union:/home/cloudy/minecraft/create/3_CREATE/mods/OptiFine_1.20.1_HD_U_I6.jar%23125!/
+[18Feb.2024 13:11:38.835] [main/INFO] [optifine.OptiFineTransformationService/]: OptiFine ZIP file: /home/cloudy/minecraft/create/3_CREATE/mods/OptiFine_1.20.1_HD_U_I6.jar
+[18Feb.2024 13:11:38.846] [main/INFO] [optifine.OptiFineTransformer/]: Target.PRE_CLASS is available
+[18Feb.2024 13:11:38.940] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/home/cloudy/minecraft/create/3_CREATE/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
+[18Feb.2024 13:11:38.960] [main/INFO] [optifine.OptiFineTransformationService/]: OptiFineTransformationService.initialize
+[18Feb.2024 13:11:39.256] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /home/cloudy/minecraft/create/3_CREATE/libraries/net/minecraftforge/fmlcore/1.20.1-47.2.20/fmlcore-1.20.1-47.2.20.jar is missing mods.toml file
+[18Feb.2024 13:11:39.258] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /home/cloudy/minecraft/create/3_CREATE/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.2.20/javafmllanguage-1.20.1-47.2.20.jar is missing mods.toml file
+[18Feb.2024 13:11:39.259] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /home/cloudy/minecraft/create/3_CREATE/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.2.20/lowcodelanguage-1.20.1-47.2.20.jar is missing mods.toml file
+[18Feb.2024 13:11:39.260] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /home/cloudy/minecraft/create/3_CREATE/libraries/net/minecraftforge/mclanguage/1.20.1-47.2.20/mclanguage-1.20.1-47.2.20.jar is missing mods.toml file
+[18Feb.2024 13:11:39.527] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 4 dependencies adding them to mods collection
+[18Feb.2024 13:11:40.374] [main/INFO] [optifine.OptiFineTransformationService/]: OptiFineTransformationService.transformers
+[18Feb.2024 13:11:40.382] [main/INFO] [optifine.OptiFineTransformer/]: Targets: 412
+[18Feb.2024 13:11:40.837] [main/INFO] [optifine.OptiFineTransformationService/]: additionalClassesLocator: [optifine., net.optifine.]
+[18Feb.2024 13:11:41.463] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[18Feb.2024 13:11:41.696] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [de.maxhenkel.tradecycling.MixinConnector]
+[18Feb.2024 13:11:41.698] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments []
+[18Feb.2024 13:11:41.710] [main/WARN] [mixin/]: Reference map 'morevillagers-forge-forge-refmap.json' for morevillagers.mixins.json could not be read. If this is a development environment you can ignore this message
+[18Feb.2024 13:11:49.847] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
+[18Feb.2024 13:11:49.870] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftblibrary:edit_nbt_response
+[18Feb.2024 13:11:49.911] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbteams:open_gui
+[18Feb.2024 13:11:49.913] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbteams:update_settings
+[18Feb.2024 13:11:49.914] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbteams:send_message
+[18Feb.2024 13:11:49.916] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbteams:create_party
+[18Feb.2024 13:11:49.917] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbteams:player_gui_operation
+[18Feb.2024 13:11:49.939] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbchunks:request_map_data
+[18Feb.2024 13:11:49.945] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbchunks:request_chunk_change
+[18Feb.2024 13:11:49.947] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbchunks:teleport_from_map
+[18Feb.2024 13:11:49.949] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbchunks:sync_tx
+[18Feb.2024 13:11:49.951] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbchunks:update_force_load_expiry
+[18Feb.2024 13:11:49.962] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbchunks:server_config_request
+[18Feb.2024 13:11:49.964] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.2.20, for MC 1.20.1 with MCP 20230612.114412
+[18Feb.2024 13:11:49.964] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.2.20 Initialized
+[18Feb.2024 13:11:52.770] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 4 clay_ball = 1 clay
+[18Feb.2024 13:11:52.775] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 4 snowball = 1 snow_block
+[18Feb.2024 13:11:52.775] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 4 glowstone_dust = 1 glowstone
+[18Feb.2024 13:11:52.775] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 4 brick = 1 bricks
+[18Feb.2024 13:11:52.776] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 4 nether_brick = 1 nether_bricks
+[18Feb.2024 13:11:52.776] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 9 nether_wart = 1 nether_wart_block
+[18Feb.2024 13:11:52.776] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 4 quartz = 1 quartz_block
+[18Feb.2024 13:11:52.777] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 9 melon_slice = 1 melon
+[18Feb.2024 13:11:52.777] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 4 sand = 1 sandstone
+[18Feb.2024 13:11:52.777] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 4 red_sand = 1 red_sandstone
+[18Feb.2024 13:11:52.774] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Compatibility version 18
+[18Feb.2024 13:11:52.856] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Loading plugins
+[18Feb.2024 13:11:52.879] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 4 clay_ball = 1 clay
+[18Feb.2024 13:11:52.880] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Loaded 0 plugin(s)
+[18Feb.2024 13:11:52.881] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Initializing plugins
+[18Feb.2024 13:11:52.881] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Initialized 0 plugin(s)
+[18Feb.2024 13:11:53.130] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [trade_cycling] Starting version check at https://maxhenkel.de/update/trade_cycling.json
+[18Feb.2024 13:11:54.282] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [trade_cycling] Found status: UP_TO_DATE Current: 1.20.1-1.0.7 Target: null
+[18Feb.2024 13:11:54.283] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [flywheel] Starting version check at https://api.modrinth.com/updates/flywheel/forge_updates.json
+[18Feb.2024 13:11:54.595] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [flywheel] Found status: BETA Current: 0.6.10-7 Target: null
+[18Feb.2024 13:11:54.596] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [clumps] Starting version check at https://updates.blamejared.com/get?n=clumps&gv=1.20.1
+[18Feb.2024 13:11:54.687] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [clumps] Found status: BETA Current: 12.0.0.3 Target: 12.0.0.3
+[18Feb.2024 13:11:54.687] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [controlling] Starting version check at https://updates.blamejared.com/get?n=controlling&gv=1.20.1
+[18Feb.2024 13:11:54.706] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [controlling] Found status: BETA Current: 12.0.2 Target: 12.0.2
+[18Feb.2024 13:11:54.706] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [searchables] Starting version check at https://updates.blamejared.com/get?n=searchables&gv=1.20.1
+[18Feb.2024 13:11:54.725] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [searchables] Found status: BETA Current: 1.0.2 Target: 1.0.2
+[18Feb.2024 13:11:54.725] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [inventoryhud] Starting version check at https://raw.githubusercontent.com/DmitryLovin/pluginUpdate/master/invupdate.json
+[18Feb.2024 13:11:54.812] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [inventoryhud] Found status: UP_TO_DATE Current: 3.4.18 Target: null
+[18Feb.2024 13:11:54.812] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [voicechat] Starting version check at https://update.maxhenkel.de/forge/voicechat
+[18Feb.2024 13:11:54.829] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [voicechat] Found status: OUTDATED Current: 1.20.1-2.5.1 Target: 1.20.1-2.5.4
+[18Feb.2024 13:11:54.829] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[18Feb.2024 13:11:55.217] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: AHEAD Current: 47.2.20 Target: null
+[18Feb.2024 13:11:55.217] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [corpse] Starting version check at https://maxhenkel.de/update/corpse.json
+[18Feb.2024 13:11:55.245] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [corpse] Found status: UP_TO_DATE Current: 1.20.1-1.0.9 Target: null
+[18Feb.2024 13:11:55.583] [main/WARN] [net.minecraft.server.dedicated.DedicatedServerProperties/]: You specified a resource pack without providing a sha1 hash. Pack will be updated on the client only if you change the name of the pack.
+[18Feb.2024 13:11:55.657] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[18Feb.2024 13:11:57.415] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/home/cloudy/minecraft/create/3_CREATE/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23151!/assets/.mcassetsroot' uses unexpected schema
+[18Feb.2024 13:11:57.415] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/home/cloudy/minecraft/create/3_CREATE/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23151!/data/.mcassetsroot' uses unexpected schema
+[18Feb.2024 13:11:59.477] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe storagedrawers:conversion_upgrade
+com.google.gson.JsonSyntaxException: Unknown item 'storagedrawers:conversion_upgrade'
+	at net.minecraftforge.common.crafting.CraftingHelper.getItem(CraftingHelper.java:160) ~[forge-1.20.1-47.2.20-universal.jar%23156!/:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.getItemStack(CraftingHelper.java:186) ~[forge-1.20.1-47.2.20-universal.jar%23156!/:?]
+	at net.minecraft.world.item.crafting.ShapedRecipe.m_151274_(ShapedRecipe.java:286) ~[server-1.20.1-20230612.114412-srg.jar%23151!/:?]
+	at net.minecraft.world.item.crafting.ShapedRecipe$Serializer.m_6729_(ShapedRecipe.java:311) ~[server-1.20.1-20230612.114412-srg.jar%23151!/:?]
+	at net.minecraft.world.item.crafting.ShapedRecipe$Serializer.m_6729_(ShapedRecipe.java:301) ~[server-1.20.1-20230612.114412-srg.jar%23151!/:?]
+	at net.minecraftforge.common.extensions.IForgeRecipeSerializer.fromJson(IForgeRecipeSerializer.java:23) ~[forge-1.20.1-47.2.20-universal.jar%23156!/:?]
+	at net.minecraft.world.item.crafting.RecipeManager.fromJson(RecipeManager.java:171) ~[server-1.20.1-20230612.114412-srg.jar%23151!/:?]
+	at net.minecraft.world.item.crafting.RecipeManager.m_5787_(RecipeManager.java:67) ~[server-1.20.1-20230612.114412-srg.jar%23151!/:?]
+	at net.minecraft.world.item.crafting.RecipeManager.m_5787_(RecipeManager.java:34) ~[server-1.20.1-20230612.114412-srg.jar%23151!/:?]
+	at net.minecraft.server.packs.resources.SimplePreparableReloadListener.m_10789_(SimplePreparableReloadListener.java:13) ~[server-1.20.1-20230612.114412-srg.jar%23151!/:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_143940_(SimpleReloadInstance.java:69) ~[server-1.20.1-20230612.114412-srg.jar%23151!/:?]
+	at net.minecraft.Util.m_214652_(Util.java:783) ~[server-1.20.1-20230612.114412-srg.jar%23151!/:?]
+	at net.minecraft.Util.m_214679_(Util.java:772) ~[server-1.20.1-20230612.114412-srg.jar%23151!/:?]
+	at net.minecraft.server.Main.main(Main.java:166) ~[server-1.20.1-20230612.114412-srg.jar%23151!/:?]
+	at jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:577) ~[?:?]
+	at net.minecraftforge.fml.loading.targets.CommonLaunchHandler.runTarget(CommonLaunchHandler.java:111) ~[fmlloader-1.20.1-47.2.20.jar%2369!/:?]
+	at net.minecraftforge.fml.loading.targets.CommonLaunchHandler.serverService(CommonLaunchHandler.java:103) ~[fmlloader-1.20.1-47.2.20.jar%2369!/:?]
+	at net.minecraftforge.fml.loading.targets.CommonServerLaunchHandler.lambda$makeService$0(CommonServerLaunchHandler.java:27) ~[fmlloader-1.20.1-47.2.20.jar%2369!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandlerDecorator.launch(LaunchServiceHandlerDecorator.java:30) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:53) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:71) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.Launcher.run(Launcher.java:108) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.Launcher.main(Launcher.java:78) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
+[18Feb.2024 13:11:59.557] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 24 recipes
+[18Feb.2024 13:11:59.769] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 2499 advancements
+[18Feb.2024 13:11:59.778] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 10 curio slots
+[18Feb.2024 13:11:59.783] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 1 curio entities
+[18Feb.2024 13:12:01.357] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
+[18Feb.2024 13:12:01.359] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[18Feb.2024 13:12:01.359] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[18Feb.2024 13:12:01.389] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[18Feb.2024 13:12:01.466] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on create.bernhardbmx.net:53687
+[18Feb.2024 13:12:01.531] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[18Feb.2024 13:12:01.979] [Server thread/INFO] [FTB Teams/]: loaded team data: 10 known players, 13 teams total
+[18Feb.2024 13:12:02.006] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "create_world"
+[18Feb.2024 13:12:05.088] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[18Feb.2024 13:12:07.979] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[18Feb.2024 13:12:07.983] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[18Feb.2024 13:12:07.984] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[18Feb.2024 13:12:07.985] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[18Feb.2024 13:12:07.985] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[18Feb.2024 13:12:07.986] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[18Feb.2024 13:12:08.120] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[18Feb.2024 13:12:08.602] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[18Feb.2024 13:12:09.124] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[18Feb.2024 13:12:09.591] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 3%
+[18Feb.2024 13:12:10.090] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 55%
+[18Feb.2024 13:12:10.402] [Server thread/INFO] [FTB Chunks/]: cleaned up 6 stale ticking Forge chunkloading tickets for team ID 64214427-c90d-4241-8008-394cad7f3696 in dimension minecraft:overworld
+[18Feb.2024 13:12:10.405] [Server thread/INFO] [FTB Chunks/]: cleaned up 4 stale ticking Forge chunkloading tickets for team ID 64214427-c90d-4241-8008-394cad7f3696 in dimension minecraft:the_end
+[18Feb.2024 13:12:10.443] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 5354 ms
+[18Feb.2024 13:12:10.444] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (8.744s)! For help, type "help"
+[18Feb.2024 13:12:10.614] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[18Feb.2024 13:12:10.628] [VoiceChatServerThread/INFO] [voicechat/]: [voicechat] Using server-ip as bind address: create.bernhardbmx.net
+[18Feb.2024 13:12:10.630] [VoiceChatServerThread/INFO] [voicechat/]: [voicechat] Voice host is 'create.bernhardbmx.net:25588'
+[18Feb.2024 13:12:10.630] [VoiceChatServerThread/INFO] [voicechat/]: [voicechat] Voice chat server started at create.bernhardbmx.net:25588
+[18Feb.2024 13:13:59.613] [User Authenticator #1/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player BernhardBMX is b5b3d888-4807-436f-b529-3aa62274a8ac
+[18Feb.2024 13:14:01.532] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.player.Player from class tschipp.carryon.common.carry.CarryOnDataManager
+[18Feb.2024 13:14:01.670] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: BernhardBMX[/212.86.35.25:61897] logged in with entity id 97 at (-3197.1666384345294, 59.0, 1709.7867127165123)
+[18Feb.2024 13:14:01.748] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BernhardBMX joined the game
+[18Feb.2024 13:14:04.768] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of BernhardBMX (18)
+[18Feb.2024 13:14:04.770] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to BernhardBMX
+[18Feb.2024 13:14:04.824] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3246ms or 64 ticks behind
+[18Feb.2024 13:14:05.846] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player b5b3d888-4807-436f-b529-3aa62274a8ac
+[18Feb.2024 13:14:06.843] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player b5b3d888-4807-436f-b529-3aa62274a8ac
+[18Feb.2024 13:14:06.847] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player BernhardBMX (b5b3d888-4807-436f-b529-3aa62274a8ac) successfully connected to voice chat
+[18Feb.2024 13:15:25.644] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[18Feb.2024 13:15:25.645] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ...bteams msg<--[HERE]
+[18Feb.2024 13:15:30.842] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[18Feb.2024 13:15:30.842] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ...unks admin<--[HERE]
+[18Feb.2024 13:16:07.693] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unclaimed 0 chunks!
+[18Feb.2024 13:16:07.695] [Server thread/INFO] [FTB Chunks/]: Server unclaimed 0 chunks around [minecraft:overworld:0:-1]for team ZYRO_s_party_Hood#dc71f916
+[18Feb.2024 13:17:58.134] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: A player is required to run this command here
+[18Feb.2024 13:18:08.117] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chunks Loaded: 3730. Check the map to see loaded chunks
+[18Feb.2024 13:18:08.117] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: A player is required to run this command here
+[18Feb.2024 13:18:22.989] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[18Feb.2024 13:18:22.989] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ...oad_chunks<--[HERE]
+[18Feb.2024 13:18:40.138] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BernhardBMX/extra_force_load_chunks = 0
+[18Feb.2024 13:18:54.136] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BernhardBMX/extra_force_load_chunks = 0
+[18Feb.2024 13:19:00.437] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: A player is required to run this command here
+[18Feb.2024 13:19:08.170] [Server thread/INFO] [FTB Chunks/]: BernhardBMX loaded 1 chunks at [minecraft:overworld:-200:106]
+[18Feb.2024 13:19:11.805] [Server thread/INFO] [FTB Chunks/]: BernhardBMX loaded 1 chunks at [minecraft:overworld:-200:107]
+[18Feb.2024 13:19:13.105] [Server thread/INFO] [FTB Chunks/]: BernhardBMX loaded 0 chunks at [minecraft:overworld:-200:107]
+[18Feb.2024 13:19:20.357] [Server thread/INFO] [FTB Chunks/]: BernhardBMX loaded 23 chunks at [minecraft:overworld:-200:107]
+[18Feb.2024 13:19:25.439] [Server thread/INFO] [FTB Chunks/]: BernhardBMX loaded 0 chunks at [minecraft:overworld:-200:106]
+[18Feb.2024 13:19:30.209] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BernhardBMX: Location: [minecraft:overworld:-201:106]]
+[18Feb.2024 13:19:30.210] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BernhardBMX: Owner: Bernhard & Wolfi / 64214427c90d42418008394cad7f3696]
+[18Feb.2024 13:19:35.742] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BernhardBMX: Location: [minecraft:overworld:-201:106]]
+[18Feb.2024 13:19:35.743] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BernhardBMX: Owner: Bernhard & Wolfi / 64214427c90d42418008394cad7f3696]
+[18Feb.2024 13:23:32.286] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[18Feb.2024 13:23:32.293] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ...ile corpse<--[HERE]
+[18Feb.2024 13:23:36.746] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Reloading!
+[18Feb.2024 13:23:37.097] [Server thread/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe storagedrawers:conversion_upgrade
+com.google.gson.JsonSyntaxException: Unknown item 'storagedrawers:conversion_upgrade'
+	at net.minecraftforge.common.crafting.CraftingHelper.getItem(CraftingHelper.java:160) ~[forge-1.20.1-47.2.20-universal.jar%23156!/:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.getItemStack(CraftingHelper.java:186) ~[forge-1.20.1-47.2.20-universal.jar%23156!/:?]
+	at net.minecraft.world.item.crafting.ShapedRecipe.m_151274_(ShapedRecipe.java:286) ~[server-1.20.1-20230612.114412-srg.jar%23151!/:?]
+	at net.minecraft.world.item.crafting.ShapedRecipe$Serializer.m_6729_(ShapedRecipe.java:311) ~[server-1.20.1-20230612.114412-srg.jar%23151!/:?]
+	at net.minecraft.world.item.crafting.ShapedRecipe$Serializer.m_6729_(ShapedRecipe.java:301) ~[server-1.20.1-20230612.114412-srg.jar%23151!/:?]
+	at net.minecraftforge.common.extensions.IForgeRecipeSerializer.fromJson(IForgeRecipeSerializer.java:23) ~[forge-1.20.1-47.2.20-universal.jar%23156!/:?]
+	at net.minecraft.world.item.crafting.RecipeManager.fromJson(RecipeManager.java:171) ~[server-1.20.1-20230612.114412-srg.jar%23151!/:?]
+	at net.minecraft.world.item.crafting.RecipeManager.m_5787_(RecipeManager.java:67) ~[server-1.20.1-20230612.114412-srg.jar%23151!/:?]
+	at net.minecraft.world.item.crafting.RecipeManager.m_5787_(RecipeManager.java:34) ~[server-1.20.1-20230612.114412-srg.jar%23151!/:?]
+	at net.minecraft.server.packs.resources.SimplePreparableReloadListener.m_10789_(SimplePreparableReloadListener.java:13) ~[server-1.20.1-20230612.114412-srg.jar%23151!/:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_143940_(SimpleReloadInstance.java:69) ~[server-1.20.1-20230612.114412-srg.jar%23151!/:?]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[server-1.20.1-20230612.114412-srg.jar%23151!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156) ~[server-1.20.1-20230612.114412-srg.jar%23151!/:?]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23) ~[server-1.20.1-20230612.114412-srg.jar%23151!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:770) ~[server-1.20.1-20230612.114412-srg.jar%23151!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:161) ~[server-1.20.1-20230612.114412-srg.jar%23151!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130) ~[server-1.20.1-20230612.114412-srg.jar%23151!/:?]
+	at net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:753) ~[server-1.20.1-20230612.114412-srg.jar%23151!/:?]
+	at net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:747) ~[server-1.20.1-20230612.114412-srg.jar%23151!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18701_(BlockableEventLoop.java:139) ~[server-1.20.1-20230612.114412-srg.jar%23151!/:?]
+	at net.minecraft.server.MinecraftServer.m_129861_(MinecraftServer.java:1345) ~[server-1.20.1-20230612.114412-srg.jar%23151!/:?]
+	at net.minecraft.server.commands.ReloadCommand.m_138235_(ReloadCommand.java:22) ~[server-1.20.1-20230612.114412-srg.jar%23151!/:?]
+	at net.minecraft.server.commands.ReloadCommand.m_287964_(ReloadCommand.java:53) ~[server-1.20.1-20230612.114412-srg.jar%23151!/:?]
+	at com.mojang.brigadier.CommandDispatcher.execute(CommandDispatcher.java:264) ~[brigadier-1.1.8.jar%2376!/:?]
+	at net.minecraft.commands.Commands.m_242674_(Commands.java:257) ~[server-1.20.1-20230612.114412-srg.jar%23151!/:?]
+	at net.minecraft.commands.Commands.m_230957_(Commands.java:237) ~[server-1.20.1-20230612.114412-srg.jar%23151!/:?]
+	at net.minecraft.server.dedicated.DedicatedServer.m_139665_(DedicatedServer.java:298) ~[server-1.20.1-20230612.114412-srg.jar%23151!/:?]
+	at net.minecraft.server.dedicated.DedicatedServer.m_5703_(DedicatedServer.java:284) ~[server-1.20.1-20230612.114412-srg.jar%23151!/:?]
+	at net.minecraft.server.MinecraftServer.m_5705_(MinecraftServer.java:814) ~[server-1.20.1-20230612.114412-srg.jar%23151!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:661) ~[server-1.20.1-20230612.114412-srg.jar%23151!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23151!/:?]
+	at java.lang.Thread.run(Thread.java:833) ~[?:?]
+[18Feb.2024 13:23:37.142] [Server thread/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 24 recipes
+[18Feb.2024 13:23:37.203] [Server thread/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 2499 advancements
+[18Feb.2024 13:23:37.207] [Server thread/INFO] [top.theillusivec4.curios.Curios/]: Loaded 10 curio slots
+[18Feb.2024 13:23:37.209] [Server thread/INFO] [top.theillusivec4.curios.Curios/]: Loaded 1 curio entities
+[18Feb.2024 13:23:38.832] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2054ms or 41 ticks behind
+[18Feb.2024 13:23:49.836] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[18Feb.2024 13:23:49.880] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[18Feb.2024 13:23:49.882] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[18Feb.2024 13:23:49.912] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BernhardBMX lost connection: Server closed
+[18Feb.2024 13:23:49.912] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BernhardBMX left the game
+[18Feb.2024 13:23:49.935] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[18Feb.2024 13:23:50.168] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[create_world]'/minecraft:overworld
+[18Feb.2024 13:23:50.382] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[create_world]'/minecraft:the_end
+[18Feb.2024 13:23:50.384] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[create_world]'/minecraft:the_nether
+[18Feb.2024 13:23:50.406] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (create_world): All chunks are saved
+[18Feb.2024 13:23:50.407] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[18Feb.2024 13:23:50.407] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[18Feb.2024 13:23:50.407] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[18Feb.2024 13:23:50.418] [Server thread/INFO] [FTB Chunks/]: Shutting down map thread
