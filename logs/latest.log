@@ -1,26 +1,193 @@
-[13Feb.2024 14:12:58.936] [Server console handler/ERROR] [net.minecraft.server.dedicated.DedicatedServer/]: Caught previously unhandled exception :
-java.io.IOError: java.io.IOException: Error executing 'stty -a': stty: 'standard input': Input/output error
-	at org.jline.terminal.impl.AbstractPosixTerminal.setAttributes(AbstractPosixTerminal.java:54) ~[jline-terminal-3.12.1.jar%2364!/:?]
-	at org.jline.reader.impl.LineReaderImpl.readLine(LineReaderImpl.java:650) ~[jline-reader-3.12.1.jar%2363!/:?]
-	at org.jline.reader.impl.LineReaderImpl.readLine(LineReaderImpl.java:418) ~[jline-reader-3.12.1.jar%2363!/:?]
-	at net.minecraftforge.server.console.TerminalHandler.handleCommands(TerminalHandler.java:46) ~[forge-1.20.1-47.2.20-universal.jar%23156!/:?]
-	at net.minecraft.server.dedicated.DedicatedServer$1.run(DedicatedServer.java:84) ~[server-1.20.1-20230612.114412-srg.jar%23151!/:?]
-Caused by: java.io.IOException: Error executing 'stty -a': stty: 'standard input': Input/output error
-	at org.jline.utils.ExecHelper.exec(ExecHelper.java:42) ~[jline-terminal-3.12.1.jar%2364!/:?]
-	at org.jline.terminal.impl.ExecPty.doGetConfig(ExecPty.java:175) ~[jline-terminal-3.12.1.jar%2364!/:?]
-	at org.jline.terminal.impl.ExecPty.getAttr(ExecPty.java:87) ~[jline-terminal-3.12.1.jar%2364!/:?]
-	at org.jline.terminal.impl.ExecPty.doSetAttr(ExecPty.java:93) ~[jline-terminal-3.12.1.jar%2364!/:?]
-	at org.jline.terminal.impl.AbstractPty.setAttr(AbstractPty.java:29) ~[jline-terminal-3.12.1.jar%2364!/:?]
-	at org.jline.terminal.impl.AbstractPosixTerminal.setAttributes(AbstractPosixTerminal.java:52) ~[jline-terminal-3.12.1.jar%2364!/:?]
-	... 4 more
-[13Feb.2024 14:12:59.196] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
-[13Feb.2024 14:12:59.235] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
-[13Feb.2024 14:12:59.235] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
-[13Feb.2024 14:12:59.404] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[create_world]'/minecraft:overworld
-[13Feb.2024 14:13:03.142] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[create_world]'/minecraft:the_nether
-[13Feb.2024 14:13:03.144] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[create_world]'/minecraft:the_end
-[13Feb.2024 14:13:03.177] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (create_world): All chunks are saved
-[13Feb.2024 14:13:03.178] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[13Feb.2024 14:13:03.178] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[13Feb.2024 14:13:03.178] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
-[13Feb.2024 14:13:07.447] [Server thread/INFO] [FTB Chunks/]: Shutting down map thread
+[18Feb.2024 09:23:16.175] [User Authenticator #15/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player BernhardBMX is b5b3d888-4807-436f-b529-3aa62274a8ac
+[18Feb.2024 09:23:18.121] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: BernhardBMX[/212.86.35.25:59429] logged in with entity id 230061 at (-3198.9015813274127, 59.0, 1709.7975063516446)
+[18Feb.2024 09:23:18.125] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BernhardBMX joined the game
+[18Feb.2024 09:23:21.874] [Netty Epoll Server IO #1/INFO] [ShulkerBoxTooltip/]: [ShulkerBoxTooltip] BernhardBMX: protocol version: 2.0
+[18Feb.2024 09:23:21.874] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of BernhardBMX (18)
+[18Feb.2024 09:23:21.875] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to BernhardBMX
+[18Feb.2024 09:23:24.928] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player b5b3d888-4807-436f-b529-3aa62274a8ac
+[18Feb.2024 09:23:25.929] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player b5b3d888-4807-436f-b529-3aa62274a8ac
+[18Feb.2024 09:23:25.930] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player BernhardBMX (b5b3d888-4807-436f-b529-3aa62274a8ac) successfully connected to voice chat
+[18Feb.2024 12:02:44.287] [User Authenticator #16/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Mc_Wolfi is 88dc475d-bb68-493d-92d7-6055a64eecfa
+[18Feb.2024 12:02:46.466] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Mc_Wolfi[/212.86.44.206:60984] logged in with entity id 240421 at (-358.2249087511419, 169.0, -1037.3215955601065)
+[18Feb.2024 12:02:46.476] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mc_Wolfi joined the game
+[18Feb.2024 12:02:48.544] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Mc_Wolfi (17)
+[18Feb.2024 12:02:48.544] [Server thread/WARN] [voicechat/]: [voicechat] Connected client Mc_Wolfi has incompatible voice chat version (server=18, client=17)
+[18Feb.2024 12:02:48.550] [Netty Epoll Server IO #3/INFO] [ShulkerBoxTooltip/]: [ShulkerBoxTooltip] Mc_Wolfi: protocol version: 2.0
+[18Feb.2024 12:02:56.493] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mc_Wolfi lost connection: You need Simple Voice Chat 1.20.1-2.5.1 to play on this server
+[18Feb.2024 12:02:56.494] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mc_Wolfi left the game
+[18Feb.2024 12:02:56.494] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Mc_Wolfi
+[18Feb.2024 12:02:56.551] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[18Feb.2024 12:03:07.111] [User Authenticator #17/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Mc_Wolfi is 88dc475d-bb68-493d-92d7-6055a64eecfa
+[18Feb.2024 12:03:09.074] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Mc_Wolfi[/212.86.44.206:64402] logged in with entity id 240655 at (-358.2249087511419, 169.0, -1037.3215955601065)
+[18Feb.2024 12:03:09.077] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mc_Wolfi joined the game
+[18Feb.2024 12:03:09.194] [Netty Epoll Server IO #4/INFO] [ShulkerBoxTooltip/]: [ShulkerBoxTooltip] Mc_Wolfi: protocol version: 2.0
+[18Feb.2024 12:03:09.547] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Mc_Wolfi (17)
+[18Feb.2024 12:03:09.547] [Server thread/WARN] [voicechat/]: [voicechat] Connected client Mc_Wolfi has incompatible voice chat version (server=18, client=17)
+[18Feb.2024 12:03:19.111] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mc_Wolfi lost connection: You need Simple Voice Chat 1.20.1-2.5.1 to play on this server
+[18Feb.2024 12:03:19.111] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mc_Wolfi left the game
+[18Feb.2024 12:03:19.111] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Mc_Wolfi
+[18Feb.2024 12:07:13.769] [User Authenticator #18/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Mc_Wolfi is 88dc475d-bb68-493d-92d7-6055a64eecfa
+[18Feb.2024 12:07:15.973] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Mc_Wolfi[/212.86.44.206:65162] logged in with entity id 241484 at (-357.41865864829543, 169.0, -1036.1278448755427)
+[18Feb.2024 12:07:15.979] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mc_Wolfi joined the game
+[18Feb.2024 12:07:17.993] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Mc_Wolfi (18)
+[18Feb.2024 12:07:17.993] [Netty Epoll Server IO #5/INFO] [ShulkerBoxTooltip/]: [ShulkerBoxTooltip] Mc_Wolfi: protocol version: 2.0
+[18Feb.2024 12:07:17.994] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Mc_Wolfi
+[18Feb.2024 12:07:18.206] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 88dc475d-bb68-493d-92d7-6055a64eecfa
+[18Feb.2024 12:07:19.205] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 88dc475d-bb68-493d-92d7-6055a64eecfa
+[18Feb.2024 12:07:19.206] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Mc_Wolfi (88dc475d-bb68-493d-92d7-6055a64eecfa) successfully connected to voice chat
+[18Feb.2024 12:10:41.642] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mc_Wolfi has made the advancement [Crafting a New Look]
+[18Feb.2024 12:19:56.105] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BernhardBMX was blown up by Creeper
+[18Feb.2024 12:23:25.764] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mc_Wolfi lost connection: Disconnected
+[18Feb.2024 12:23:25.765] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mc_Wolfi left the game
+[18Feb.2024 12:23:25.765] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Mc_Wolfi
+[18Feb.2024 12:23:31.414] [User Authenticator #19/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Mc_Wolfi is 88dc475d-bb68-493d-92d7-6055a64eecfa
+[18Feb.2024 12:23:37.326] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Mc_Wolfi[/212.86.44.206:65381] logged in with entity id 245690 at (-358.30000001192093, 169.0, -1039.1492213203746)
+[18Feb.2024 12:23:37.334] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mc_Wolfi joined the game
+[18Feb.2024 12:23:37.821] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mc_Wolfi lost connection: Disconnected
+[18Feb.2024 12:23:37.821] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mc_Wolfi left the game
+[18Feb.2024 12:23:37.822] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Mc_Wolfi
+[18Feb.2024 12:23:37.862] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[18Feb.2024 12:24:25.165] [User Authenticator #20/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player The_ZYRO is 17498a0a-5379-4723-b6c8-5774081afda4
+[18Feb.2024 12:24:27.304] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: minecraft:red_wool removed now.
+[18Feb.2024 12:24:27.304] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: minecraft:red_bed_from_white_bed removed now.
+[18Feb.2024 12:24:27.304] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: minecraft:magenta_wool removed now.
+[18Feb.2024 12:24:27.304] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: minecraft:cyan_bed_from_white_bed removed now.
+[18Feb.2024 12:24:27.304] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: minecraft:black_wool removed now.
+[18Feb.2024 12:24:27.304] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: minecraft:purple_wool removed now.
+[18Feb.2024 12:24:27.304] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: minecraft:yellow_bed_from_white_bed removed now.
+[18Feb.2024 12:24:27.304] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: minecraft:magenta_carpet_from_white_carpet removed now.
+[18Feb.2024 12:24:27.305] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: minecraft:gray_bed_from_white_bed removed now.
+[18Feb.2024 12:24:27.305] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: minecraft:pink_bed_from_white_bed removed now.
+[18Feb.2024 12:24:27.305] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: minecraft:orange_bed_from_white_bed removed now.
+[18Feb.2024 12:24:27.305] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: minecraft:yellow_wool removed now.
+[18Feb.2024 12:24:27.305] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: minecraft:gray_wool removed now.
+[18Feb.2024 12:24:27.305] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: minecraft:black_carpet_from_white_carpet removed now.
+[18Feb.2024 12:24:27.305] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: minecraft:brown_carpet_from_white_carpet removed now.
+[18Feb.2024 12:24:27.305] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: farmersdelight:lead_from_rope removed now.
+[18Feb.2024 12:24:27.305] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: minecraft:orange_carpet_from_white_carpet removed now.
+[18Feb.2024 12:24:27.305] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: minecraft:magenta_bed_from_white_bed removed now.
+[18Feb.2024 12:24:27.306] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: minecraft:cyan_carpet_from_white_carpet removed now.
+[18Feb.2024 12:24:27.306] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: minecraft:purple_carpet_from_white_carpet removed now.
+[18Feb.2024 12:24:27.306] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: minecraft:green_bed_from_white_bed removed now.
+[18Feb.2024 12:24:27.306] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: minecraft:light_gray_bed_from_white_bed removed now.
+[18Feb.2024 12:24:27.306] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: minecraft:blue_wool removed now.
+[18Feb.2024 12:24:27.306] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: minecraft:lime_bed_from_white_bed removed now.
+[18Feb.2024 12:24:27.306] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: minecraft:lime_carpet_from_white_carpet removed now.
+[18Feb.2024 12:24:27.306] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: minecraft:lime_wool removed now.
+[18Feb.2024 12:24:27.306] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: minecraft:purple_bed_from_white_bed removed now.
+[18Feb.2024 12:24:27.306] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: minecraft:light_gray_wool removed now.
+[18Feb.2024 12:24:27.306] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: minecraft:green_carpet_from_white_carpet removed now.
+[18Feb.2024 12:24:27.306] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: minecraft:light_blue_wool removed now.
+[18Feb.2024 12:24:27.306] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: minecraft:orange_wool removed now.
+[18Feb.2024 12:24:27.306] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: minecraft:black_bed_from_white_bed removed now.
+[18Feb.2024 12:24:27.306] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: minecraft:brown_wool removed now.
+[18Feb.2024 12:24:27.307] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: minecraft:yellow_carpet_from_white_carpet removed now.
+[18Feb.2024 12:24:27.307] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: minecraft:light_blue_bed_from_white_bed removed now.
+[18Feb.2024 12:24:27.307] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: minecraft:light_blue_carpet_from_white_carpet removed now.
+[18Feb.2024 12:24:27.307] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: minecraft:light_gray_carpet_from_white_carpet removed now.
+[18Feb.2024 12:24:27.307] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: minecraft:green_wool removed now.
+[18Feb.2024 12:24:27.307] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: minecraft:brown_bed_from_white_bed removed now.
+[18Feb.2024 12:24:27.307] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: minecraft:cyan_wool removed now.
+[18Feb.2024 12:24:27.307] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: minecraft:red_carpet_from_white_carpet removed now.
+[18Feb.2024 12:24:27.307] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: minecraft:blue_bed_from_white_bed removed now.
+[18Feb.2024 12:24:27.307] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: minecraft:pink_wool removed now.
+[18Feb.2024 12:24:27.307] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: minecraft:blue_carpet_from_white_carpet removed now.
+[18Feb.2024 12:24:27.307] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: minecraft:gray_carpet_from_white_carpet removed now.
+[18Feb.2024 12:24:27.307] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: minecraft:pink_carpet_from_white_carpet removed now.
+[18Feb.2024 12:24:27.308] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: minecraft:magenta_carpet_from_white_carpet removed now.
+[18Feb.2024 12:24:27.308] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: minecraft:black_carpet_from_white_carpet removed now.
+[18Feb.2024 12:24:27.308] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: minecraft:brown_carpet_from_white_carpet removed now.
+[18Feb.2024 12:24:27.308] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: minecraft:orange_carpet_from_white_carpet removed now.
+[18Feb.2024 12:24:27.308] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: minecraft:cyan_carpet_from_white_carpet removed now.
+[18Feb.2024 12:24:27.308] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: minecraft:purple_carpet_from_white_carpet removed now.
+[18Feb.2024 12:24:27.308] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: minecraft:lime_carpet_from_white_carpet removed now.
+[18Feb.2024 12:24:27.308] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: minecraft:green_carpet_from_white_carpet removed now.
+[18Feb.2024 12:24:27.308] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: minecraft:yellow_carpet_from_white_carpet removed now.
+[18Feb.2024 12:24:27.308] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: minecraft:light_blue_carpet_from_white_carpet removed now.
+[18Feb.2024 12:24:27.308] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: minecraft:light_gray_carpet_from_white_carpet removed now.
+[18Feb.2024 12:24:27.309] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: minecraft:red_carpet_from_white_carpet removed now.
+[18Feb.2024 12:24:27.309] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: minecraft:blue_carpet_from_white_carpet removed now.
+[18Feb.2024 12:24:27.309] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: minecraft:gray_carpet_from_white_carpet removed now.
+[18Feb.2024 12:24:27.309] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: minecraft:pink_carpet_from_white_carpet removed now.
+[18Feb.2024 12:24:27.309] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: The_ZYRO[/91.64.17.22:13286] logged in with entity id 245756 at (777.5727335257782, 64.0, 2160.8954166059743)
+[18Feb.2024 12:24:27.312] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TZ] The_ZYRO joined the game
+[18Feb.2024 12:24:27.879] [Netty Epoll Server IO #1/INFO] [ShulkerBoxTooltip/]: [ShulkerBoxTooltip] The_ZYRO: protocol version: 2.0
+[18Feb.2024 12:24:27.984] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of [TZ] The_ZYRO (18)
+[18Feb.2024 12:24:27.984] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to [TZ] The_ZYRO
+[18Feb.2024 12:24:30.370] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 17498a0a-5379-4723-b6c8-5774081afda4
+[18Feb.2024 12:24:31.348] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 17498a0a-5379-4723-b6c8-5774081afda4
+[18Feb.2024 12:24:31.348] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player [TZ] The_ZYRO (17498a0a-5379-4723-b6c8-5774081afda4) successfully connected to voice chat
+[18Feb.2024 12:26:59.457] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@43051296[id=<null>,name=Mc_Wolfi,properties={},legacy=false] (/212.86.44.206:61443) lost connection: Disconnected
+[18Feb.2024 12:27:01.145] [User Authenticator #21/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Mc_Wolfi is 88dc475d-bb68-493d-92d7-6055a64eecfa
+[18Feb.2024 12:27:03.224] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Mc_Wolfi[/212.86.44.206:61446] logged in with entity id 247693 at (-358.30000001192093, 169.0, -1039.1492213203746)
+[18Feb.2024 12:27:03.228] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mc_Wolfi joined the game
+[18Feb.2024 12:27:03.358] [Netty Epoll Server IO #3/INFO] [ShulkerBoxTooltip/]: [ShulkerBoxTooltip] Mc_Wolfi: protocol version: 2.0
+[18Feb.2024 12:27:03.682] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Mc_Wolfi (18)
+[18Feb.2024 12:27:03.683] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Mc_Wolfi
+[18Feb.2024 12:27:05.156] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 88dc475d-bb68-493d-92d7-6055a64eecfa
+[18Feb.2024 12:27:05.886] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 88dc475d-bb68-493d-92d7-6055a64eecfa
+[18Feb.2024 12:27:05.886] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Mc_Wolfi (88dc475d-bb68-493d-92d7-6055a64eecfa) successfully connected to voice chat
+[18Feb.2024 12:27:57.657] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2867, y=57, z=-8245} BlockPos{x=-2867, y=56, z=-8244}
+[18Feb.2024 12:27:57.711] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2867, y=57, z=-8245} BlockPos{x=-2867, y=56, z=-8244}
+[18Feb.2024 12:30:34.571] [Server thread/ERROR] [net.minecraft.world.level.block.entity.SculkSensorBlockEntity/]: No key selector in MapLike[{event_delay:0,event_distance:0.0f,range:8,source:{pos:[I;208,-45,1812],type:"minecraft:block"}}]
+[18Feb.2024 12:30:34.615] [Server thread/ERROR] [net.minecraft.world.level.block.entity.SculkSensorBlockEntity/]: No key selector in MapLike[{event_delay:0,event_distance:0.0f,range:8,source:{pos:[I;237,-47,1798],type:"minecraft:block"}}]
+[18Feb.2024 12:30:34.615] [Server thread/ERROR] [net.minecraft.world.level.block.entity.SculkSensorBlockEntity/]: No key selector in MapLike[{event_delay:0,event_distance:0.0f,range:8,source:{pos:[I;224,-47,1799],type:"minecraft:block"}}]
+[18Feb.2024 12:30:34.616] [Server thread/ERROR] [net.minecraft.world.level.block.entity.SculkSensorBlockEntity/]: No key selector in MapLike[{event_delay:0,event_distance:0.0f,range:8,source:{pos:[I;298,-45,1801],type:"minecraft:block"}}]
+[18Feb.2024 12:41:37.256] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TZ] The_ZYRO was slain by BernhardBMX using [Skillety]
+[18Feb.2024 12:41:39.712] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: The_ZYRO lost connection: Disconnected
+[18Feb.2024 12:41:39.712] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TZ] The_ZYRO left the game
+[18Feb.2024 12:41:39.713] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client [TZ] The_ZYRO
+[18Feb.2024 12:57:36.514] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mc_Wolfi lost connection: Timed out
+[18Feb.2024 12:57:36.515] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mc_Wolfi left the game
+[18Feb.2024 12:57:36.516] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Mc_Wolfi
+[18Feb.2024 12:57:46.658] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@216ba8cc[id=<null>,name=Mc_Wolfi,properties={},legacy=false] (/212.86.44.206:59769) lost connection: Disconnected
+[18Feb.2024 12:57:50.861] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@131c4998[id=<null>,name=Mc_Wolfi,properties={},legacy=false] (/212.86.44.206:59774) lost connection: Disconnected
+[18Feb.2024 12:57:52.183] [User Authenticator #22/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Mc_Wolfi is 88dc475d-bb68-493d-92d7-6055a64eecfa
+[18Feb.2024 12:57:54.278] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Mc_Wolfi[/212.86.44.206:59782] logged in with entity id 270253 at (-4996.658846695632, 43.0, -7443.747656335574)
+[18Feb.2024 12:57:54.286] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mc_Wolfi joined the game
+[18Feb.2024 12:57:54.369] [Netty Epoll Server IO #6/INFO] [ShulkerBoxTooltip/]: [ShulkerBoxTooltip] Mc_Wolfi: protocol version: 2.0
+[18Feb.2024 12:57:54.955] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Mc_Wolfi (18)
+[18Feb.2024 12:57:54.955] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Mc_Wolfi
+[18Feb.2024 12:57:55.776] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 88dc475d-bb68-493d-92d7-6055a64eecfa
+[18Feb.2024 12:57:56.777] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 88dc475d-bb68-493d-92d7-6055a64eecfa
+[18Feb.2024 12:57:56.777] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Mc_Wolfi (88dc475d-bb68-493d-92d7-6055a64eecfa) successfully connected to voice chat
+[18Feb.2024 12:58:46.567] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mc_Wolfi lost connection: Timed out
+[18Feb.2024 12:58:46.567] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mc_Wolfi left the game
+[18Feb.2024 12:58:46.568] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Mc_Wolfi
+[18Feb.2024 12:58:49.327] [User Authenticator #23/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Mc_Wolfi is 88dc475d-bb68-493d-92d7-6055a64eecfa
+[18Feb.2024 12:58:51.627] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Mc_Wolfi[/212.86.44.206:59800] logged in with entity id 270708 at (-4998.026105021013, 43.0, -7447.875376081453)
+[18Feb.2024 12:58:51.630] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mc_Wolfi joined the game
+[18Feb.2024 12:58:51.791] [Netty Epoll Server IO #7/INFO] [ShulkerBoxTooltip/]: [ShulkerBoxTooltip] Mc_Wolfi: protocol version: 2.0
+[18Feb.2024 12:58:52.212] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Mc_Wolfi (18)
+[18Feb.2024 12:58:52.213] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Mc_Wolfi
+[18Feb.2024 12:58:56.662] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 88dc475d-bb68-493d-92d7-6055a64eecfa
+[18Feb.2024 12:58:57.612] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 88dc475d-bb68-493d-92d7-6055a64eecfa
+[18Feb.2024 12:58:57.612] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Mc_Wolfi (88dc475d-bb68-493d-92d7-6055a64eecfa) successfully connected to voice chat
+[18Feb.2024 13:02:11.862] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mc_Wolfi lost connection: Disconnected
+[18Feb.2024 13:02:11.862] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mc_Wolfi left the game
+[18Feb.2024 13:02:11.863] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Mc_Wolfi
+[18Feb.2024 13:03:01.797] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Removed TonyXLR from the whitelist
+[18Feb.2024 13:03:06.760] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Removed The_ZYRO from the whitelist
+[18Feb.2024 13:04:42.669] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unclaimed 1 chunks!
+[18Feb.2024 13:04:42.694] [Server thread/INFO] [FTB Chunks/]: Server unclaimed 1 chunks around [minecraft:overworld:0:-1]for team ZYRO_s_party_Hood#dc71f916
+[18Feb.2024 13:05:02.741] [User Authenticator #24/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Mc_Wolfi is 88dc475d-bb68-493d-92d7-6055a64eecfa
+[18Feb.2024 13:05:04.831] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Mc_Wolfi[/212.86.44.206:59907] logged in with entity id 272293 at (-4982.362136052248, 43.0, -7429.48855499772)
+[18Feb.2024 13:05:04.841] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mc_Wolfi joined the game
+[18Feb.2024 13:05:04.920] [Netty Epoll Server IO #2/INFO] [ShulkerBoxTooltip/]: [ShulkerBoxTooltip] Mc_Wolfi: protocol version: 2.0
+[18Feb.2024 13:05:05.429] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Mc_Wolfi (18)
+[18Feb.2024 13:05:05.430] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Mc_Wolfi
+[18Feb.2024 13:05:06.303] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 88dc475d-bb68-493d-92d7-6055a64eecfa
+[18Feb.2024 13:05:07.303] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 88dc475d-bb68-493d-92d7-6055a64eecfa
+[18Feb.2024 13:05:07.304] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Mc_Wolfi (88dc475d-bb68-493d-92d7-6055a64eecfa) successfully connected to voice chat
+[18Feb.2024 13:06:16.662] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[18Feb.2024 13:06:16.700] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[18Feb.2024 13:06:16.700] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[18Feb.2024 13:06:16.725] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[18Feb.2024 13:06:16.990] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[create_world]'/minecraft:overworld
+[18Feb.2024 13:06:17.341] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[create_world]'/minecraft:the_end
+[18Feb.2024 13:06:17.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[create_world]'/minecraft:the_nether
+[18Feb.2024 13:06:17.377] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (create_world): All chunks are saved
+[18Feb.2024 13:06:17.377] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[18Feb.2024 13:06:17.377] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[18Feb.2024 13:06:17.377] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[18Feb.2024 13:06:18.795] [Server thread/INFO] [FTB Chunks/]: Shutting down map thread
