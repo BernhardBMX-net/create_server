@@ -5989,5 +5989,11 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/appliances/tree_fertilizer": {
+    "criteria": {
+      "has_item": "2024-02-19 14:57:13 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
