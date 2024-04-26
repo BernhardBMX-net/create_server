@@ -17,9 +17,9 @@
 		"ftbchunks:allow_named_fake_players": [ ]
 		"ftbchunks:allow_fake_players_by_id": 1b
 		"ftbchunks:allow_pvp": 1b
-		"ftbchunks:block_edit_mode": "private"
-		"ftbchunks:block_interact_mode": "private"
-		"ftbchunks:entity_interact_mode": "private"
+		"ftbchunks:block_edit_mode": "public"
+		"ftbchunks:block_interact_mode": "public"
+		"ftbchunks:entity_interact_mode": "public"
 		"ftbchunks:nonliving_entity_attack_mode": "private"
 		"ftbchunks:claim_visibility": "public"
 		"ftbchunks:location_mode": "public"
