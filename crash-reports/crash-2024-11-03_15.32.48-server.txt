@@ -1,0 +1,108 @@
+---- Minecraft Crash Report ----
+// Why did you do that?
+
+Time: 2024-11-03 15:32:48
+Description: Exception in server tick loop
+
+java.net.UnknownHostException: create.bernhardbmx.net: No address associated with hostname
+	at java.net.Inet6AddressImpl.lookupAllHostAddr(Native Method) ~[?:?] {}
+	at java.net.Inet6AddressImpl.lookupAllHostAddr(Inet6AddressImpl.java:52) ~[?:?] {}
+	at java.net.InetAddress$PlatformResolver.lookupByName(InetAddress.java:1211) ~[?:?] {}
+	at java.net.InetAddress.getAddressesFromNameService(InetAddress.java:1828) ~[?:?] {}
+	at java.net.InetAddress$NameServiceAddresses.get(InetAddress.java:1139) ~[?:?] {}
+	at java.net.InetAddress.getAllByName0(InetAddress.java:1818) ~[?:?] {}
+	at java.net.InetAddress.getAllByName(InetAddress.java:1688) ~[?:?] {}
+	at java.net.InetAddress.getByName(InetAddress.java:1568) ~[?:?] {}
+	at net.minecraft.server.dedicated.DedicatedServer.m_7038_(DedicatedServer.java:125) ~[server-1.20.1-20230612.114412-srg.jar%23151!/:?] {re:computing_frames,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B}
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:634) ~[server-1.20.1-20230612.114412-srg.jar%23151!/:?] {re:mixin,pl:accesstransformer:B,re:computing_frames,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B}
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23151!/:?] {re:mixin,pl:accesstransformer:B,re:computing_frames,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B}
+	at java.lang.Thread.run(Thread.java:1583) ~[?:?] {}
+
+
+A detailed walkthrough of the error, its code path and all known details is as follows:
+---------------------------------------------------------------------------------------
+
+-- System Details --
+Details:
+	Minecraft Version: 1.20.1
+	Minecraft Version ID: 1.20.1
+	Operating System: Linux (amd64) version 5.4.0-198-generic
+	Java Version: 21.0.4, Ubuntu
+	Java VM Version: OpenJDK 64-Bit Server VM (mixed mode, sharing), Ubuntu
+	Memory: 9079767544 bytes (8659 MiB) / 9663676416 bytes (9216 MiB) up to 12884901888 bytes (12288 MiB)
+	CPUs: 4
+	Processor Vendor: GenuineIntel
+	Processor Name: Intel(R) Xeon(R) CPU E5-2640 v3 @ 2.60GHz
+	Identifier: Intel64 Family 6 Model 63 Stepping 2
+	Microarchitecture: Haswell (Server)
+	Frequency (GHz): 2.60
+	Number of physical packages: 4
+	Number of physical CPUs: 4
+	Number of logical CPUs: 4
+	Graphics card #0 name: SVGA II Adapter
+	Graphics card #0 vendor: VMware (0x15ad)
+	Graphics card #0 VRAM (MB): 128.00
+	Graphics card #0 deviceId: 0x0405
+	Graphics card #0 versionInfo: unknown
+	Virtual memory max (MB): 12094.71
+	Virtual memory used (MB): 6078.76
+	Swap memory total (MB): 4096.00
+	Swap memory used (MB): 1.01
+	JVM Flags: 2 total; -Xmx12G -Xms9G
+	Server Running: true
+	Data Packs: vanilla, mod:farmersdelight, mod:trade_cycling, mod:morevillagers (incompatible), mod:mousetweaks, mod:architectury (incompatible), mod:ftblibrary (incompatible), mod:jei, mod:ftbteams (incompatible), mod:ftbchunks (incompatible), mod:forge, mod:appleskin (incompatible), mod:flywheel, mod:create, mod:clumps (incompatible), mod:corpse, mod:storagedrawers (incompatible), mod:mixinextras (incompatible), mod:carryon (incompatible), mod:curios (incompatible), mod:elytraslot (incompatible), mod:caelus (incompatible), mod:voicechat (incompatible), file/create_data_pack (incompatible), mod:controlling (incompatible), mod:searchables (incompatible), mod:inventoryhud (incompatible), mod:cloth_config (incompatible), mod:shulkerboxtooltip (incompatible)
+	Enabled Feature Flags: minecraft:vanilla
+	World Generation: Stable
+	Is Modded: Definitely; Server brand changed to 'forge'
+	Type: Dedicated Server (map_server.txt)
+	ModLauncher: 10.0.9+10.0.9+main.dcd20f30
+	ModLauncher launch target: forgeserver
+	ModLauncher naming: srg
+	ModLauncher services: 
+		mixin-0.8.5.jar mixin PLUGINSERVICE 
+		eventbus-6.0.5.jar eventbus PLUGINSERVICE 
+		fmlloader-1.20.1-47.2.20.jar slf4jfixer PLUGINSERVICE 
+		fmlloader-1.20.1-47.2.20.jar object_holder_definalize PLUGINSERVICE 
+		fmlloader-1.20.1-47.2.20.jar runtime_enum_extender PLUGINSERVICE 
+		fmlloader-1.20.1-47.2.20.jar capability_token_subclass PLUGINSERVICE 
+		accesstransformers-8.0.4.jar accesstransformer PLUGINSERVICE 
+		fmlloader-1.20.1-47.2.20.jar runtimedistcleaner PLUGINSERVICE 
+		modlauncher-10.0.9.jar mixin TRANSFORMATIONSERVICE 
+		modlauncher-10.0.9.jar OptiFine TRANSFORMATIONSERVICE 
+		modlauncher-10.0.9.jar fml TRANSFORMATIONSERVICE 
+	FML Language Providers: 
+		minecraft@1.0
+		lowcodefml@null
+		javafml@null
+	Mod List: 
+		server-1.20.1-20230612.114412-srg.jar             |Minecraft                     |minecraft                     |1.20.1              |DONE      |Manifest: NOSIGNATURE
+		FarmersDelight-1.20.1-1.2.4.jar                   |Farmer's Delight              |farmersdelight                |1.20.1-1.2.4        |DONE      |Manifest: NOSIGNATURE
+		elytraslot-forge-6.3.0+1.20.1.jar                 |Elytra Slot                   |elytraslot                    |6.3.0+1.20.1        |DONE      |Manifest: NOSIGNATURE
+		trade-cycling-forge-1.20.1-1.0.7.jar              |Trade Cycling                 |trade_cycling                 |1.20.1-1.0.7        |DONE      |Manifest: NOSIGNATURE
+		morevillagers-forge-1.20.1-5.0.0.jar              |More Villagers                |morevillagers                 |5.0.0               |DONE      |Manifest: NOSIGNATURE
+		MouseTweaks-forge-mc1.20-2.25.jar                 |Mouse Tweaks                  |mousetweaks                   |2.25                |DONE      |Manifest: NOSIGNATURE
+		jei-1.20.1-forge-15.2.0.27.jar                    |Just Enough Items             |jei                           |15.2.0.27           |DONE      |Manifest: NOSIGNATURE
+		caelus-forge-3.1.0+1.20.jar                       |Caelus API                    |caelus                        |3.1.0+1.20          |DONE      |Manifest: NOSIGNATURE
+		curios-forge-5.6.1+1.20.1.jar                     |Curios API                    |curios                        |5.6.1+1.20.1        |DONE      |Manifest: NOSIGNATURE
+		flywheel-forge-1.20.1-0.6.10-7.jar                |Flywheel                      |flywheel                      |0.6.10-7            |DONE      |Manifest: NOSIGNATURE
+		create-1.20.1-0.5.1.f.jar                         |Create                        |create                        |0.5.1.f             |DONE      |Manifest: NOSIGNATURE
+		Clumps-forge-1.20.1-12.0.0.3.jar                  |Clumps                        |clumps                        |12.0.0.3            |DONE      |Manifest: NOSIGNATURE
+		Controlling-forge-1.20.1-12.0.2.jar               |Controlling                   |controlling                   |12.0.2              |DONE      |Manifest: NOSIGNATURE
+		Searchables-forge-1.20.1-1.0.2.jar                |Searchables                   |searchables                   |1.0.2               |DONE      |Manifest: NOSIGNATURE
+		storagedrawers-1.20.1-12.0.2.jar                  |Storage Drawers               |storagedrawers                |12.0.2              |DONE      |Manifest: NOSIGNATURE
+		mixinextras-forge-0.2.0-beta.6.jar                |MixinExtras                   |mixinextras                   |0.2.0-beta.6        |DONE      |Manifest: NOSIGNATURE
+		invhud.forge.1.20.1-3.4.18.jar                    |Inventory HUD+(Forge edition) |inventoryhud                  |3.4.18              |DONE      |Manifest: NOSIGNATURE
+		architectury-9.1.12-forge.jar                     |Architectury                  |architectury                  |9.1.12              |DONE      |Manifest: NOSIGNATURE
+		ftb-library-forge-2001.1.5.jar                    |FTB Library                   |ftblibrary                    |2001.1.5            |DONE      |Manifest: NOSIGNATURE
+		carryon-forge-1.20.1-2.1.2.7.jar                  |Carry On                      |carryon                       |2.1.2.7             |DONE      |Manifest: NOSIGNATURE
+		ftb-teams-forge-2001.1.4.jar                      |FTB Teams                     |ftbteams                      |2001.1.4            |DONE      |Manifest: NOSIGNATURE
+		ftb-chunks-forge-2001.2.5.jar                     |FTB Chunks                    |ftbchunks                     |2001.2.5            |DONE      |Manifest: NOSIGNATURE
+		cloth-config-11.1.118-forge.jar                   |Cloth Config v10 API          |cloth_config                  |11.1.118            |DONE      |Manifest: NOSIGNATURE
+		voicechat-forge-1.20.1-2.5.1.jar                  |Simple Voice Chat             |voicechat                     |1.20.1-2.5.1        |DONE      |Manifest: NOSIGNATURE
+		forge-1.20.1-47.2.20-universal.jar                |Forge                         |forge                         |47.2.20             |DONE      |Manifest: 84:ce:76:e8:45:35:e4:0e:63:86:df:47:59:80:0f:67:6c:c1:5f:6e:5f:4d:b3:54:47:1a:9f:7f:ed:5e:f2:90
+		appleskin-forge-mc1.20.1-2.5.1.jar                |AppleSkin                     |appleskin                     |2.5.1+mc1.20.1      |DONE      |Manifest: NOSIGNATURE
+		shulkerboxtooltip-forge-4.0.4+1.20.1.jar          |ShulkerBoxTooltip             |shulkerboxtooltip             |4.0.4+1.20.1        |DONE      |Manifest: NOSIGNATURE
+		corpse-1.20.1-1.0.9.jar                           |Corpse                        |corpse                        |1.20.1-1.0.9        |DONE      |Manifest: NOSIGNATURE
+	Crash Report UUID: c16a0300-bc1d-4abb-8377-11c8915d072b
+	FML: 47.2
+	Forge: net.minecraftforge:47.2.20
